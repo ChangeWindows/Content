@@ -26,6 +26,9 @@ In case you have some nice ideas for the website itself, we would like to hear i
 **Will you publish the whole website here one day?**
 That's not currently in the planning. We're thinking about doing so, through. Perhaps one day.
 
+**The "Newest build" information is out of date, can we update it here too?**
+Not at the moment. We might add it later on, but not now.
+
 **Can we add images?**
 We currently do not include images in our build files. Perhaps we should start to add these. Not in the planning for now, through.
 
