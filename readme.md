@@ -35,5 +35,8 @@ We currently do not include images in our build files. Perhaps we should start t
 **I found some spelling mistakes in the build information, can I create pull requests/tickets for those too?**
 Of course! Go wild! You can create a new ticket or pull request for anything related to the website.
 
+**The information I added is merged with the master branch, yet my changes do not appear on the websites, what's going on?**
+After you submit your data, and we merge it into our main branch, it doesn't publish the data automaticaly to our website, we'll validate it once again before the information is synced to the server.
+
 **What license is this information released with?**
 We don't realy have a license for it right now. However, to describe it shortly: the information in this repository is copyrighted by us, if you add new information to this through pull requests, you take a distance of all the information and code given. You can not use it to build a duplication of our website, or any ohter purpose. We make one exceptation: websites that report on these kind of things are free to use it, as long as they add a link to our website to such article.
