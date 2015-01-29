@@ -15,6 +15,8 @@ It could happen that we miss out on a feature that's new in any build of Windows
 - With pull requirests, as soon as the information is pulled to our main repository, you lose the rights on the pull request
 - If there is a mistake in a feature that already has been listened, you can open a new ticket or pull request to remove it from its respective build, again with the [BUILD]-syntax, and a short description of the issue
  - E.g. [9841] The Notification center wasn't added
+ 
+You can't create a file for a new build. We'll do that ourselves and publish it as soon as possible to the repository for you guys to make pull requests to it. Feel free to add a changelog for 9834, through.
 
 ### Features for ChangeWindows
 In case you have some nice ideas for the website itself, we would like to hear it to! Again, you can open a ticket and describe the new feature as well as possible. Of course, the actual code won't be published here.
