@@ -6,7 +6,7 @@
 		<h2>What's next in Windows?</h2>
 		<div class="alert alert-info">
 			<h4>Future builds</h4>
-			The features listened below are from unknown builds announced during "The Next Chapter". We'll sort out which feature belongs to which build as soon as we know for sure!
+			The features listened below are from unknown builds announced during "The Next Chapter" and other reliable sources. We'll sort out which feature belongs to which build as soon as we know for sure!
 		</div>
 		<h3>Features</h3>
 		<ul>
