@@ -80,6 +80,6 @@
 	  </ul>
 	</div>
 	<div class="panel-footer">
-		Download size: 2,93 GB (32bit) or 3,81 GB (64bit)<span class="pull-right"><a class="btn btn-warning" href="http://windows.microsoft.com/en-us/windows/preview-iso">Get the update now</a></span>
+		Download size: 2,93 GB (32bit) or 3,81 GB (64bit)
 	</div>
 </div>

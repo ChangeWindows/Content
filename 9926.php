@@ -191,4 +191,7 @@
 			<li>Updating to this build might reset some of your settings, even from official builds from Microsoft (like 7601, 9200, 9600, 9841, 9860 and 9879)</li>
 		</ul>
 	</div>
+	<div class="panel-footer">
+		Download size: 3,01 GB (32bit) or 3,92 GB (64bit)<span class="pull-right"><a class="btn btn-warning" href="http://windows.microsoft.com/en-us/windows/preview-iso">Get the update now</a></span>
+	</div>
 </div>
