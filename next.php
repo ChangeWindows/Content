@@ -18,8 +18,8 @@
 		</ul>
 		<h3>Start</h3>
 		<ul>
-			<li>The startmenu can be resized</li>
-			<li>A transparent option is available</li>
+			<li>The Start menu can be resized</li>
+			<li>Transparency is available</li>
 		</ul>
 		<h3>Internet Explorer</h3>
 		<ul>
@@ -83,8 +83,8 @@
 		<ul>
 			<li>Project 'Spartan' is a new browser to replace Internet Explorer as the default browser</li>
 			<li>Edge replaces Trident as a render engine</li>
-			<li>You can now draw on webpages</li>
-			<li>Comments can now be added to webpages (like Office)</li>
+			<li>You can now draw on web-pages</li>
+			<li>Comments can now be added to web-pages (like Office)</li>
 			<li>Reading Mode is now build-in for desktops</li>
 			<li>Reading List is now build-in</li>
 			<li>Cortana is now build-in</li>
@@ -116,7 +116,7 @@
 				<ul>
 					<li>Windows Update
 						<ul>
-							<li>Optional drvier updates will no longer get installed automatically</li>
+							<li>Optional driver updates will no longer get installed automatically</li>
 							<li>Option to scan against WSUS server or Windows/Microsoft Update</li>
 							<li>Notifications when new updates are available</li>
 							<li>When setting up a device, the first update scan will show all updates and require only one restart, instead of multiple restarts and multiple series of updates</li>
