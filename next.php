@@ -5,6 +5,24 @@
 	<div class="panel-body">
 		<h2>What's next in Windows?</h2>
 		<div class="alert alert-info">
+			<h4>Next build</h4>
+			The features listened below are coming in the next Preview.
+		</div>
+		<h3>Internet Explorer</h3>
+		<ul>
+			<li>IE will be replaced by Project 'Spartan' as the default browser</li>
+		</ul>
+		<h3>Project 'Spartan'</h3>
+		<ul>
+			<li>Project 'Spartan' is a new browser to replace Internet Explorer as the default browser</li>
+			<li>Edge replaces Trident as a render engine</li>
+			<li>You can now draw on web-pages</li>
+			<li>Comments can now be added to web-pages (like Office)</li>
+			<li>Reading Mode is now build-in for desktops</li>
+			<li>Reading List is now build-in</li>
+			<li>Cortana is now build-in</li>
+		</ul>
+		<div class="alert alert-info">
 			<h4>Future builds</h4>
 			The features listened below are from unknown builds announced during "The Next Chapter" and other reliable sources. We'll sort out which feature belongs to which build as soon as we know for sure!
 		</div>
@@ -23,7 +41,6 @@
 		</ul>
 		<h3>Internet Explorer</h3>
 		<ul>
-			<li>IE will be replaced by Project 'Spartan' as the default browser</li>
 			<li>Improvements to the Edge render engine
 				<ul>
 					<li>Dynamic Adaptive Streaming over HTTP (DASH)</li>
@@ -79,16 +96,6 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>Project 'Spartan'</h3>
-		<ul>
-			<li>Project 'Spartan' is a new browser to replace Internet Explorer as the default browser</li>
-			<li>Edge replaces Trident as a render engine</li>
-			<li>You can now draw on web-pages</li>
-			<li>Comments can now be added to web-pages (like Office)</li>
-			<li>Reading Mode is now build-in for desktops</li>
-			<li>Reading List is now build-in</li>
-			<li>Cortana is now build-in</li>
-		</ul>
 		<h3>Apps</h3>
 		<ul>
 			<li>Outlook
@@ -135,6 +142,7 @@
 		<h3>And further</h3>
 		<ul>
 			<li>DirectX 12 is now supported</li>
+			<li>USB 3.1 support</li>
 		</ul>
 	</div>
 </div>
