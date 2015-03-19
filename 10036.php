@@ -13,7 +13,7 @@
 			<li>You can now drag windows to another desktop in the Task View</li>
 			<li>Task View has been updated with a new interface</li>
 			<li>You can now choose to display all active apps from all desktops in the taskbar, or only the apps that are on the current desktop</li>
-			<li>The start button now has a smaller Windows logo</li>
+			<li>The start button now has a smaller Windows logo and a new hover design</li>
 			<li>When clicking on the network icon, a new window shows up to manage your connection without opening Settings</li>
 			<li>The window preview in the taskbar has been updated with a new design</li>
 			<li>Multiple icons have been updated</li>
@@ -22,6 +22,7 @@
 		<h3>Start</h3>
 		<ul>
 			<li>The start menu now can be made transparent</li>
+			<li>You can now pin tiles by draging apps from the &quot;All apps&quot; list to the start screen</li>
 			<li>&quot;Places&quot; no longer have icons, and the &quot;Places&quot; title has been removed</li>
 			<li>The &quot;All apps&quot; icon has been changed</li>
 			<li>You can now put the PC to sleep with the power button in start</li>
@@ -41,13 +42,15 @@
 			<li>The lock screen now shows icons in the bottom right corner, instead of under the clock</li>
 			<li>The login screen has been redesigned</li>
 			<li>You can now print to PDF natively</li>
+			<li>You can now install apps from and move apps to an SD card</li>
+			<li>Context menus now have a touch-friendly design when using a touch screen (and a redesign in general)</li>
 		</ul>
 		<h3>Installation</h3>
 		<ul>
 			<li>The installation UI has been updated</li>
 			<li>The installation now shows a percentage that is a total of the full installation, rather then a percentage for each step</li>
 			<li>Cortana now gets introduced during installation</li>
-			<li>It's now more clear hwo to maek a new Microsoft Account, or how to use a local account</li>
+			<li>It's now more clear how to make a new Microsoft Account, or how to use a local account</li>
 		</ul>
 		<h3>Apps</h3>
 		<ul>
@@ -78,6 +81,7 @@
 			<li>Windows Feedback
 				<ul>
 					<li>The Feedback app now has an improved interface</li>
+					<li>The category a feedback item belongs to is now displayed above that feedback item</li>
 				</ul>
 			</li>
 			<li>Insider Hub
