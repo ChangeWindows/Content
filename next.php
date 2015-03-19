@@ -29,6 +29,14 @@
 		<h3>Features</h3>
 		<ul>
 			<li>The virtual keyboard has been enhanced</li>
+			<li>Windows Hello
+				<ul>
+					<li>Support for loging in with face recognition</li>
+					<li>Support for loging in with fingerprints</li>
+					<li>Support for loging in with eye scan</li>
+					<li>"Passport" will replace passwords</li>
+				</ul>
+			</li>
 		</ul>
 		<h3>WinRT</h3>
 		<ul>
@@ -46,15 +54,8 @@
 					<li>Dynamic Adaptive Streaming over HTTP (DASH)</li>
 					<li>CSS
 						<ul>
-							<li>Conditional Rules</li>
 							<li>Cross-Domain Font Loading</li>
 							<li>Filters</li>
-						</ul>
-					</li>
-					<li>User input
-						<ul>
-							<li>Date related input types</li>
-							<li>Touch Events</li>
 						</ul>
 					</li>
 					<li>JavaScript
@@ -62,6 +63,7 @@
 							<li>Default parameter</li>
 							<li>Generators</li>
 							<li>RegExp Build-ins (ES6)</li>
+							<li>ASM.js</li>
 						</ul>
 					</li>
 					<li>Realtime / Communication
@@ -73,7 +75,6 @@
 						<ul>
 							<li>Media Capture and Streams</li>
 							<li>Motion JPEG (MJPG)</li>
-							<li>Web Audio API</li>
 						</ul>
 					</li>
 					<li>Misc
@@ -81,6 +82,9 @@
 							<li>&lt;img srcset&gt;</li>
 							<li>&lt;main&gt; element							
 							<li>Pointer Lock (Mouse Lock)
+							<li>ARIA role 'none'
+							<li>HTML Sections in Accessibility API
+							<li>Pointer Lock (Mouse Lock)							
 						</ul>
 					</li>
 					<li>Security
