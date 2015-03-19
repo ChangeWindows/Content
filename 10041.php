@@ -49,11 +49,19 @@
 							<li>Web Audio API</li>
 						</ul>
 					</li>
+					<li>Misc
+						<ul>
+							<li>ARAI Landmark Roles</li>
+							<li>Fullscreen API</li>
+						</ul>
+					</li>
+					<li>DOM
+						<ul>
+							<li>DOM Level 3 XPath</li>
+						</ul>
+					</li>
 					<li>Improved support for ECMAScript 6</li>
-					<li>Extended support for DOM L3 XPath</li>
-					<li>WAI-ARIA Landmark roles support</li>
-					<li>Improved support for FeBlend mpde</li>
-					<li>Fullscreen API support (unprefixed)</li>
+					<li>Improved support for FeBlend mode</li>
 					<li>Improved support for CSS3 standards</li>
 					<li>Improved support for HTML5 standards</li>
 				</ul>
@@ -83,6 +91,9 @@
 			<li>Photos
 				<ul>
 					<li>The Live Tile is now integrated with OneDrive</li>
+					<li>Improved performance</li>
+					<li>Support for RAW files</li>
+					<li>Support for keyboard shortcuts</li>
 				</ul>
 			</li>
 			<li>Reading List
@@ -103,6 +114,7 @@
 			<li>Settings</li>
 			<ul>
 				<li>There are new app management tools</li>
+				<li>You can now return to your previous Windows installation from within the Settings app's Recovery settings</li>
 				<li>Regular Win32 apps are now also displayed in with the WinRT apps in the Settings</li>
 				<li>UI items have been refreshed</li>
 				<li>You can now choose to receive updates through P2P</li>
