@@ -5,6 +5,10 @@
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 10049?</h2>
 		<p>Windows will update from version 10.0.10041 to 10.0.10049 after launching this update.</p>
+		<h3>Desktop</h3>
+		<ul>
+			<li>The battery status popup has been updated</li>
+		</ul>
 		<h3>Internet Explorer</h3>
 		<ul> 
 			<li>IE is replaced by Project 'Spartan' as the default browser</li>
@@ -42,6 +46,11 @@
 					<li>The interface is now white by default</li>
 				</ul>
 			</li>
+			<li>Bio Enrollment
+				<ul>
+					<li>Bio Enrollment has been added as an app, purpose unknown, probably part of Windows Hello</li>
+				</ul>
+			</li>
 			<li>Calculator
 				<ul>
 					<li>More options are visible in the smallest screen</li>
@@ -50,9 +59,29 @@
 					<li>The interface is now white by default</li>
 				</ul>
 			</li>
+			<li>Music
+				<ul>
+					<li>Xbox Music has been renamed to Music</li>
+					<li>Music has been revamped with a new light design</li>
+					<li>You'll be able to sync playlists through OneDrive</li>
+					<li>This app needs to be installed from the Store beta</li>
+				</ul>
+			</li>
+			<li>Settings
+				<ul>
+					<li>Some icons have been updated</li>
+				</ul>
+			</li>
 			<li>Sound recorder
 				<ul>
 					<li>The interface is now white by default</li>
+				</ul>
+			</li>
+			<li>Video
+				<ul>
+					<li>Xbox Video has been renamed to Video</li>
+					<li>Video has been revamped with a light design</li>
+					<li>This app needs to be installed from the Store beta</li>
 				</ul>
 			</li>
 		</ul>
