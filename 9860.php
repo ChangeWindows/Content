@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Technical Preview v6.4.9860<span class="pull-right">21.10.'14</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows Technical Preview 2?</h2>
+		<h2>What's new in the Windows Technical Preview 1 build 9860?</h2>
 		<p>Windows will update from version 6.4.9841 to 6.4.9860 after launching this update.</p>
 		<div class="alert alert-danger">
 			<h4>Disabled features</h4>

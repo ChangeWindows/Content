@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Technical Preview v10.0.9926<span class="pull-right">23.01.'15</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows 10 Technical Preview 4?</h2>
+		<h2>What's new in the Windows 10 Technical Preview 2 build 9926?</h2>
 		<p>Windows will update from version 6.4.9879 to 10.0.9926 after launching this update.</p>
 		<div class="alert alert-success">
 			<h4>Re-enabled features</h4>
