@@ -5,24 +5,6 @@
 	<div class="panel-body">
 		<h2>What's next in Windows?</h2>
 		<div class="alert alert-info">
-			<h4>Next build</h4>
-			The features listened below are coming in the next Preview.
-		</div>
-		<h3>Internet Explorer</h3>
-		<ul>
-			<li>IE will be replaced by Project 'Spartan' as the default browser</li>
-		</ul>
-		<h3>Project 'Spartan'</h3>
-		<ul>
-			<li>Project 'Spartan' is a new browser to replace Internet Explorer as the default browser</li>
-			<li>Edge replaces Trident as a render engine</li>
-			<li>You can now draw on web-pages</li>
-			<li>Comments can now be added to web-pages (like Office)</li>
-			<li>Reading Mode is now build-in for desktops</li>
-			<li>Reading List is now build-in</li>
-			<li>Cortana is now build-in</li>
-		</ul>
-		<div class="alert alert-info">
 			<h4>Future builds</h4>
 			The features listened below are from unknown builds announced during "The Next Chapter" and other reliable sources. We'll sort out which feature belongs to which build as soon as we know for sure!
 		</div>
@@ -37,6 +19,9 @@
 					<li>"Passport" will replace passwords</li>
 				</ul>
 			</li>
+			<li>Build in ssa-subtitle support</li>
+			<li>Build in ass-subtitle support</li>
+			<li>Build in srt-subtitle support</li>
 		</ul>
 		<h3>WinRT</h3>
 		<ul>
@@ -49,13 +34,17 @@
 		</ul>
 		<h3>Internet Explorer</h3>
 		<ul>
+			<li>The Edge render engine will be removed from Internet Explorer</li>
+			<li>IE will be reset back to version 11.0.9600</li>
+		</ul>
+		<h3>&quot;Project Spartan&quot;</h3>
+		<ul>
 			<li>Improvements to the Edge render engine
 				<ul>
 					<li>Dynamic Adaptive Streaming over HTTP (DASH)</li>
 					<li>CSS
 						<ul>
 							<li>Cross-Domain Font Loading</li>
-							<li>Filters</li>
 						</ul>
 					</li>
 					<li>JavaScript
@@ -64,6 +53,7 @@
 							<li>Generators</li>
 							<li>RegExp Build-ins (ES6)</li>
 							<li>ASM.js</li>
+							<li>SIMD (ES7)</li>
 						</ul>
 					</li>
 					<li>Realtime / Communication
