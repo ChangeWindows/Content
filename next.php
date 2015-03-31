@@ -92,6 +92,17 @@
 		</ul>
 		<h3>Apps</h3>
 		<ul>
+			<li>Music
+				<ul>
+					<li>Buy music from the Windows Store Beta</li>
+					<li>Right-click context menus</li>
+					<li>Better navigation</li>
+					<li>Dark color theme</li>
+					<li>Compact mode</li>
+					<li>Improved settings</li>
+					<li>Improvements to accessibility</li>
+				</ul>
+			</li>
 			<li>Outlook
 				<ul>
 					<li>Mail has been replaced by Outlook</li>
@@ -126,10 +137,14 @@
 					</li>
 				</ul>
 			</li>
-			<li>Xbox Music
+			<li>Video
 				<ul>
-					<li>Xbox Music has been revamped</li>
-					<li>You'll be able to sync playlists through OneDrive</li>
+					<li>Buy movies and TV shows from the Windows Store Beta</li>
+					<li>Download movies and TV shows for offline play</li>
+					<li>New device management to play your content offline on devices you care about</li>
+					<li>Improved search</li>
+					<li>Movie reviews and cast information</li>
+					<li>Improved settings</li>
 				</ul>
 			</li>
 		</ul>
