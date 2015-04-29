@@ -23,15 +23,6 @@
 			<li>Build in ass-subtitle support</li>
 			<li>Build in srt-subtitle support</li>
 		</ul>
-		<h3>WinRT</h3>
-		<ul>
-			<li>WinRT apps now also work on Xbox One</li>
-		</ul>
-		<h3>Start</h3>
-		<ul>
-			<li>The Start menu can be resized</li>
-			<li>Transparency is available</li>
-		</ul>
 		<h3>Internet Explorer</h3>
 		<ul>
 			<li>The Edge render engine will be removed from Internet Explorer</li>
@@ -47,12 +38,13 @@
 							<li>Cross-Domain Font Loading</li>
 						</ul>
 					</li>
+					<li>Device
+						<ul>
+							<li>Ambient Light Events</li>
+						</ul>
+					</li>
 					<li>JavaScript
 						<ul>
-							<li>Default parameter</li>
-							<li>Generators</li>
-							<li>RegExp Build-ins (ES6)</li>
-							<li>ASM.js</li>
 							<li>SIMD (ES7)</li>
 						</ul>
 					</li>
@@ -63,16 +55,12 @@
 					</li>
 					<li>Multimedia
 						<ul>
-							<li>Media Capture and Streams</li>
 							<li>Motion JPEG (MJPG)</li>
 						</ul>
 					</li>
 					<li>Misc
 						<ul>
-							<li>&lt;img srcset&gt;</li>
-							<li>&lt;main&gt; element							
-							<li>Pointer Lock (Mouse Lock)
-							<li>ARIA role 'none'
+						<li>ARIA role 'none'
 							<li>HTML Sections in Accessibility API
 							<li>Pointer Lock (Mouse Lock)							
 						</ul>
@@ -103,17 +91,6 @@
 					<li>Improvements to accessibility</li>
 				</ul>
 			</li>
-			<li>Outlook
-				<ul>
-					<li>Mail has been replaced by Outlook</li>
-					<li>Outlook now has a ribbon design</li>
-				</ul>
-			</li>
-			<li>Outlook Calendar
-				<ul>
-					<li>Calendar has been replaced by Outlook Calendar</li>
-				</ul>
-			</li>
 			<li>People
 				<ul>
 					<li>People has been revamped</li>
@@ -139,8 +116,6 @@
 			</li>
 			<li>Video
 				<ul>
-					<li>Buy movies and TV shows from the Windows Store Beta</li>
-					<li>Download movies and TV shows for offline play</li>
 					<li>New device management to play your content offline on devices you care about</li>
 					<li>Improved search</li>
 					<li>Movie reviews and cast information</li>
