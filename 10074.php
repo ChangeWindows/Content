@@ -43,6 +43,11 @@
 					<li>Windows Defender settings are now also displayed under Update &amp; security</li>
 				</ul>
 			</li>
+			<li>People
+				<ul>
+					<li>People has been revamped</li>
+				</ul>
+			</li>
 		</ul>
 		<h3>And further</h3>
         <ul>
