@@ -8,44 +8,7 @@
 			<h4>Future builds</h4>
 			The features listed below are confirmed by leaks to exist in the next Insider Preview.
 		</div>
-		<h3>Start</h3>
-		<ul>
-			<li>The "Expand start" button has been removed</li>
-			<li>Support for jumplists</li>
-			<li>&quot;Places&quot; has been removed</li>
-			<li>File Explorer and Settings are now shown above Power options</li>
-			<li>Start will now give a suggestion for new apps</li>
-			<li>Tablet improvements
-				<ul>
-					<li>The apps list is no longer displayed onscreen by default</li>
-					<li>Tiles are displayed larger</li>
-					<li>There is now a global back button</li>
-				</ul>
-			</li>
-			<li>Tiles can now follow the user's accent color</li>
-		</ul>
-		<h3>Interface</h3>
-		<ul>
-			<li>Apps will now display the back-button int the titlebar when required, tablets will show this button in the taskbar</li>
-			<li>Switch-buttons and sliders have received a new design</li>
-			<li>The window border chrome has been updated</li>
-		</ul>
-		<h3>Features</h3>
-		<ul>
-			<li>Backup &amp; restore has been readded from Windows 7</li>
-			<li>&quot;Play to&quot; has been renamed &quot;Cast to Device&quot;</li>
-			<li>In China, users can now choose between Cortana and Huna</li>
-			<li>Cortana now has a Feedback button</li>
-		</ul>
-		<h3>Edge</h3>
-		<ul>
-			<li>Project Spartan has been renamed Edge and has a new icon</li>
-			<li>There is a new Internet Explorer-like New tabs page</li>
-			<li>There is a new MSN.com-like New tabs page</li>
-			<li>Edge can now save passwords and forms</li>
-			<li>Edge now supports InPrivate browsing</li>
-			<li>Improvements to the Edge render engine</li>
-		</ul>
+		<h3>No known changes for the next build</h3>
 	</div>
 </div>
 <div class="panel panel-warning">
@@ -61,14 +24,6 @@
 		<h3>Features</h3>
 		<ul>
 			<li>The virtual keyboard has been enhanced</li>
-			<li>Windows Hello
-				<ul>
-					<li>Support for loging in with face recognition</li>
-					<li>Support for loging in with fingerprints</li>
-					<li>Support for loging in with eye scan</li>
-					<li>"Passport" will replace passwords</li>
-				</ul>
-			</li>
 			<li>Build in ssa-subtitle support</li>
 			<li>Build in ass-subtitle support</li>
 			<li>Build in srt-subtitle support</li>
@@ -148,11 +103,6 @@
 					<li>Compact mode</li>
 					<li>Improved settings</li>
 					<li>Improvements to accessibility</li>
-				</ul>
-			</li>
-			<li>People
-				<ul>
-					<li>People has been revamped</li>
 				</ul>
 			</li>
 			<li>Photos
