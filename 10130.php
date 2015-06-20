@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Insider Preview build 10130?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 10.0.10122 to 10.0.10130 after launching this update.</p>
 		<h3>Start</h3>
 		<ul>
@@ -47,10 +48,27 @@
 			<ul>
 				<li>The full screen feature now works properly</li>
 			</ul>
-			<li>Solitaire Collection Beta
+			<li>Solitaire Collection
 				<ul>
-					<li>Solitaire Collection Preview has been renamed to Solitaire Collection Beta</li>
+					<li>Solitaire Collection Preview has been renamed to Solitaire Collection</li>
 				</ul>
+			</li>
+			<li>Network beta
+				<ul>
+					<li>A &quot;Network beta&quot; app has been added, but doesn't contain anything</li>
+				</ul>
+			</li>
+			<li>MSN apps
+			  <ul>
+			    <li>The stock MSN apps have been updated to a newer version (Weather, News, Sports, Money, etc.)</li>
+		      </ul>
+			</li>
+			<li>Store Beta
+			  <ul>
+			    <li>The stock Store has been updated to a newer version</li>
+			    <li>The interface has been improved</li>
+			    <li>You can now see all of your purchases in &quot;My collection&quot;</li>
+		      </ul>
 			</li>
 		</ul>
 	</div>
