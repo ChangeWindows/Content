@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 10061?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 10.0.10049 to 10.0.10061 after launching this update.</p>
 		<h3>Start</h3>
         <ul>
@@ -75,6 +76,11 @@
 				</ul>
         	</li>
        	</ul>
+		<h3>Internet Explorer</h3>
+		<ul>
+			<li>The Edge render engine will be removed from Internet Explorer</li>
+			<li>IE will be reset back to a state equal to version 11.0.9600</li>
+		</ul>
 		<h3>Desktop</h3>
         <ul>
         	<li>The taskbar is now transparent</li>
