@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Insider Preview build 10122?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 10.0.10074 to 10.0.10122 after launching this update.</p>
 		<h3>Start</h3>
 		<ul>
@@ -88,6 +89,7 @@
 					<li>Some applets have been moved to other sections</li>
 					<li>Updates &amp; Security &gt; For Developers no longer makes the app crash</li>
 					<li>Options to change start have been added under &quot;Personalization&quot;</li>
+					<li>You can no longer pin individual settings to Start</li>
 				</ul>
 			</li>
 			<li>MSN apps
