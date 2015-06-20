@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 9926?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 6.4.9879 to 10.0.9926 after launching this update.</p>
 		<div class="alert alert-success">
 			<h4>Re-enabled features</h4>

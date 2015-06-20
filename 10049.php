@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 10049?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 10.0.10041 to 10.0.10049 after launching this update.</p>
 		<h3>Desktop</h3>
 		<ul>

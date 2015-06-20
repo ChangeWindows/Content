@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows Technical Preview 1 build 9841?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 6.0.6002 if you're on Windows Vista, 6.1.7601 if you're on Windows 7, 6.2.9200 if you're on Windows 8 or 6.3.9600 if you're on Windows 8.1 to 6.4.9841 after launching this update.</p>
 		<h3>Desktop</h3>
 		<ul>

@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows Technical Preview 1 build 9860?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 6.4.9841 to 6.4.9860 after launching this update.</p>
 		<div class="alert alert-danger">
 			<h4>Disabled features</h4>

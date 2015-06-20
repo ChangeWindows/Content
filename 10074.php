@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Insider Preview build 10074?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 10.0.10061 to 10.0.10074 after launching this update.</p>
 		<h3>Start and search</h3>
         <ul>

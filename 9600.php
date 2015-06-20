@@ -4,6 +4,7 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 8.1 build 9600?</h2>
+		<?php echo $alerts; ?>
 		<p>Windows will update from version 6.2.9200 to 9.3.9600 after launching this update.</p>
 		<h3>Tiles</h3>
 		<ul>
