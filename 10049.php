@@ -1,20 +1,19 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v10.0.10049<span class="pull-right">31.03.'15</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v10.0.10049<span class="pull-right">31.03.'15</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 10049?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 10.0.10041 to 10.0.10049 after launching this update.</p>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The battery status popup has been updated</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul> 
 			<li>IE is replaced by Project 'Spartan' as the default browser</li>
 		</ul>
-		<h3>&quot;Project Spartan&quot;</h3>
+		<h3>&quot;Project Spartan&quot;<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>"Project Spartan" is a new browser to replace Internet Explorer as the default browser</li>
 			<li>Edge replaces Trident as a render engine</li>
@@ -38,7 +37,7 @@
 			<li>Reading List is now build-in</li>
 			<li>Cortana is now build-in</li>
 		</ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Alarms &amp; Clocks
 				<ul>
@@ -86,7 +85,7 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>And further</h3>
+		<h3>And further<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>IE is no longer a default pinned item on the taskbar and is replaced by "Project Spartan"'s globe icon</li>
 		</ul>

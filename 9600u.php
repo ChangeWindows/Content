@@ -1,10 +1,13 @@
 <div class="panel panel-info">
 	<div class="panel-heading">
-		<h3 class="panel-title">Windows 8.1 Update v6.3.9600<span class="pull-right">08.04.'14</span></h3>
+		<h3 class="panel-title">Desktop &middot; Windows 8.1 Update v6.3.9600<span class="pull-right">08.04.'14</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 8.1 Update build 9600?</h2>
-		<h3>Start and All apps</h3>
+	</div>
+	<img src="img/9600u.jpg" class="build-img" />
+	<div class="panel-body">
+		<h3>Start and All apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>You can now shut down Windows from the start screen (not for devices with touchscreen or smaller than 8,5 inch).</li>
 			<li>You can now search from the start screen with a visual button.</li>
@@ -14,7 +17,7 @@
 			<li>You can now show more apps in the All apps view.</li>
 			<li>All apps now shows the letter of each category always.</li>
 		</ul>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>It's now possible to pin Windows Apps</li>
 			<li>The Windows Store is now a default pinned app</li>
@@ -23,14 +26,14 @@
 			<li>Devices without a touchscreen now boot to desktop by default.</li>
 			<li>Devices without a touchscreen now have desktop apps set as default.			</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>&quot;Enterprise mode&quot; has been added to Internet Explorer.</li>
 			<li>There are new options in the F12-tools.</li>
 			<li>Improved support for ECMAScript 5.1.</li>
 			<li>Improved support for WebGL</li>
 		</ul>
-		<h3>Build-in apps</h3>
+		<h3>Build-in apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>OneDrive
 				<ul>
@@ -55,7 +58,7 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>And futher</h3>
+		<h3>And futher<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>You can now show more details in the Networks fly-out for a network.</li>
 			<li>Improved performance and support for WIMBoot.</li>

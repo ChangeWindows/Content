@@ -1,12 +1,11 @@
 <div class="panel panel-success">
 	<div class="panel-heading">
-		<h3 class="panel-title">Windows 8.1 v6.3.9600<span class="pull-right">17.10.'13</span></h3>
+		<h3 class="panel-title">Desktop &middot; Windows 8.1 v6.3.9600<span class="pull-right">17.10.'13</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 8.1 build 9600?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 6.2.9200 to 9.3.9600 after launching this update.</p>
-		<h3>Tiles</h3>
+		<h3>Tiles<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Small and Large tiles have been added to the start screen.</li>
 			<li>You can now change multiple tiles at once.</li>
@@ -16,7 +15,7 @@
 			<li>Browser now always use their Modern UI-version of their tile, even if it isn't the default browser.</li>
 			<li>When pinning a tile to the startscreen from within an app, you can now choose its size.</li>
 		</ul>
-		<h3>All Apps</h3>
+		<h3>All Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>There is an &quot;All apps&quot; button on the bottom of the screen when using a mouse and keyboard.</li>
 			<li>You can now sort apps on name, date, most used and category.</li>
@@ -27,7 +26,7 @@
 			<li>You can now display desktop apps first.</li>
 			<li>New apps are now labeled as &quot;New&quot;.</li>
 		</ul>
-		<h3>Personalize</h3>
+		<h3>Personalize<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Changing the start screen will now start a new edit mode.</li>
 			<li>You can now set the desktop background as the start screen background.</li>
@@ -35,7 +34,7 @@
 			<li>Multiple new colors have been added to choose from.</li>
 			<li>The startscreen can now show up to 9 rows of tiles.</li>
 		</ul>
-		<h3>Interface</h3>
+		<h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>When Snap is being used, Windows will ask where to open an app.</li>
 			<li>Apps now open in snap view when triggered from within another app.</li>
@@ -51,7 +50,7 @@
 			<li>The keyboard has been improved with numerous features.</li>
 			<li>You can now set a presentation as lock screen.</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Tabs can now be synced.</li>
 			<li>Click-to-call is a new feature.</li>
@@ -65,7 +64,7 @@
 			<li>Support for WebGL, MDEG Dash and SPDY.</li>
 			<li>Brand now F12-Tools.</li>
 		</ul>
-		<h3>Build-in apps</h3>
+		<h3>Build-in apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>All apps now support portrait mode.</li>
 			<li>You can now remove apps from more devices at once.</li>
@@ -167,7 +166,7 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>And futher</h3>
+		<h3>And futher<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Support for NFC, 3G and 4G.</li>
 			<li>Wireless printing without additional drivers.</li>

@@ -1,12 +1,11 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v10.0.10061<span class="pull-right">10.04.'15</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v10.0.10061<span class="pull-right">10.04.'15</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 10061?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 10.0.10049 to 10.0.10061 after launching this update.</p>
-		<h3>Start</h3>
+		<h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>The Power button is now showed above the All apps button</li>
         	<li>There are some new icons</li>
@@ -20,7 +19,7 @@
 			<li>Health &amp; Fitness is no longer pinned to start by default</li>
 			<li>Cortana can now look for music</li>
        	</ul>
-		<h3>"Project Spartan"</h3>
+		<h3>"Project Spartan"<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>Project Spartan has been updated from version 0.10 to 0.11</li>
         	<li>You can now find your downloads in the download manager</li>
@@ -76,12 +75,12 @@
 				</ul>
         	</li>
        	</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The Edge render engine will be removed from Internet Explorer</li>
 			<li>IE will be reset back to a state equal to version 11.0.9600</li>
 		</ul>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>The taskbar is now transparent</li>
         	<li>The TaskView button has a new icon</li>
@@ -93,11 +92,11 @@
         	<li>The notification center now takes on the color you've choosen for windows and the taskbar</li>
         	<li>Windows no longer take on a color and are now always gray</li>
        	</ul>
-		<h3>WinRT</h3>
+		<h3>WinRT<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>Apps no longer have a restricted minimum size</li>
        	</ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Settings
 				<ul>

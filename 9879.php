@@ -1,16 +1,11 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v6.4.9879<span class="pull-right">12.11.'14</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v6.4.9879<span class="pull-right">12.11.'14</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows Technical Preview 1 build 9879?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 6.4.9860 to 6.4.9879 after launching this update.</p>
-		<div class="alert alert-success">
-			<h4>Re-enabled features</h4>
-			The new snap modes has been re-enabled in this build.
-		</div>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>You can now disable the search and taskview button</li>
 			<li>The action center has been placed in the notification area</li>
@@ -20,19 +15,20 @@
 			<li>OneDrive now uses selective sync, no more Smart Files</li>
 			<li>New battery indictor</li>
 		</ul>
-		<h3>Features</h3>
+		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Touch gestures on a touchpad are now build in and universal across all Windows devices</li>
 			<li>Improvements to multi monitor support have been made</li>
 			<li>MKV support has been improved</li>
 			<li>&quot;System compression&quot; has been added to Disk Cleanup as a new option</li>
+			<li>Universal scrolling has been enabled again</li>
 		</ul>
-		<h3>WinRT</h3>
+		<h3>WinRT<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The 3 dots-icon has been replaced with a hamburger menu icon, works the same</li>
 			<li>Dialogs in WinRT are now windowed</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>A feedback icon has been added next to options prominent in the interface</li>
 			<li>Extended standard and API support
@@ -67,7 +63,7 @@
 			<li>The User Agent String has been altered</li>
 			<li>Edge has been added</li>
 		</ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Insider Hub
 				<ul>

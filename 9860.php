@@ -1,38 +1,34 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v6.4.9860<span class="pull-right">21.10.'14</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v6.4.9860<span class="pull-right">21.10.'14</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows Technical Preview 1 build 9860?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 6.4.9841 to 6.4.9860 after launching this update.</p>
-		<div class="alert alert-danger">
-			<h4>Disabled features</h4>
-			Universal scroll and the new snap modes has been disabled in this build.
-		</div>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The Action Center icon has been added to the taskbar</li>
 			<li>Universal Apps now have a black titlebar instead of a colored one</li>
 			<li>Clicking the internet connection icon on the taskbar will open the PC Settings app instead of the fly-out</li>
 			<li>Multiple annimations have been altered</li>
 		</ul>
-		<h3>Features</h3>
+		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Notifications are now added to the Action Center</li>
 			<li>Build-in mkv-file support</li>
 			<li>Build-in hvec-file support</li>
+			<li>Universal scrolling has been disabled</li>
 		</ul>
-		<h3>Touch</h3>
+		<h3>Touch<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Touching a textbox in the desktop will now auto start the onscreen keyboard</li>
 			<li>Swiping down from the screens edge will show an apps titlebar</li>
 		</ul>
-		<h3>WinRT</h3>
+		<h3>WinRT<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Apps can now run on a 1024x600 resolution</li>
 		</ul>
-		<h3>Build-in apps</h3>
+		<h3>Build-in apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>PC Settings
 			  <ul>

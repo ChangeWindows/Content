@@ -1,12 +1,11 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Insider Preview v10.0.10074<span class="pull-right">29.04.'15</span></h3>
+		<h3 class="panel-title">Desktop &middot; Insider Preview v10.0.10074<span class="pull-right">29.04.'15</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Insider Preview build 10074?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 10.0.10061 to 10.0.10074 after launching this update.</p>
-		<h3>Start and search</h3>
+		<h3>Start and search<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>Cortana is now integrated into start</li>
         	<li>Cortana's height is now variable to start</li>
@@ -20,7 +19,7 @@
         	<li>Live Tiles can now be disabled</li>
         	<li>When tablet mode is enabled, the Windows, Search/Cortana and Task view icons get bigger (the actual icons, not just the space arround them)</li>
         </ul>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>There is a new sound control</li>
         	<li>Some of the sounds have been renamed</li>
@@ -28,7 +27,7 @@
         	<li>&quot;Personalize&quot; in the desktop context menu now opens the Settings app</li>
         	<li>You can now enable &quot;Battery saver&quot; or change the brightness from the &quot;Battery status&quot; icon in the taskbar</li>
         </ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Getting started
 				<ul>
@@ -50,7 +49,7 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>And further</h3>
+		<h3>And further<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>This build indicates the first build in the Insider Preview series instead of the Technical Preview</li>
         	<li>The installation now says &quot;Installing Windows&quot; rather then &quot;Installing Windows 10 Technical Preview&quot;</li>

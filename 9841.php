@@ -1,12 +1,11 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v6.4.9841<span class="pull-right">01.10.'14</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v6.4.9841<span class="pull-right">01.10.'14</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows Technical Preview 1 build 9841?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 6.0.6002 if you're on Windows Vista, 6.1.7601 if you're on Windows 7, 6.2.9200 if you're on Windows 8 or 6.3.9600 if you're on Windows 8.1 to 6.4.9841 after launching this update.</p>
-		<h3>Desktop</h3>
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Task view has been added</li>
 			<li>Suppport for multiple desktops</li>
@@ -24,13 +23,13 @@
 			<li>You can now scroll a windows by pointing the cursor to it</li>
 			<li>When used on a touch enabled device, the icons in the notification area have more space</li>
 		</ul>
-		<h3>Start</h3>
+		<h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The start menu has been added with support for Live Tiles</li>
 			<li>An option to switch back to the start screen has been added under &quot;Start Menu&quot; in &quot;Taskbar and Start Menu Properties&quot;</li>
 			<li>The Charmsbar can't be accessed with the mouse anymore, instead, a new menu button has to be clicked (keyboard and touch still available)</li>
 		</ul>
-		<h3>File Explorer</h3>
+		<h3>File Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Home is the new default location</li>
 			<li>An &quot;Add to favorites&quot; button has been added under &quot;Start&quot; in the ribbon</li>
@@ -40,14 +39,14 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Support for HTTP/2 has been added</li>
 			<li>Improved performance for the Chakra Javascript-engine</li>
 			<li>The Immersive Internet Explorer has been removed</li>
 			<li>Public Suffix List is now used for interoperable Top Level Domain parsing</li>
 		</ul>
-		<h3>Build-in apps</h3>
+		<h3>Build-in apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Default apps have been updated to more recent versions</li>
 			<li>PC Settings
@@ -63,7 +62,7 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>And futher</h3>
+		<h3>And futher<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Some icons have been replaced</li>
 			<li>The virtual keyboard now shows AutoComplete suggestions</li>

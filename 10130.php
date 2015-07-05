@@ -1,18 +1,20 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Insider Preview v10.0.10130<span class="pull-right">29.05.'15</span></h3>
+		<h3 class="panel-title">Desktop &middot; Insider Preview v10.0.10130<span class="pull-right">29.05.'15</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Insider Preview build 10130?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 10.0.10122 to 10.0.10130 after launching this update.</p>
-		<h3>Start</h3>
+	</div>
+	<img src="img/10130.jpg" class="build-img" />
+	<div class="panel-body">
+		<h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>More apps now use the accent color as their tile color (Photos, Alarms &amp; Clocks, Maps, etc)</li>
 			<li>You can add new locations to the left side part of the menu</li>
 			<li>When new apps are available, there will be a little badge on the &quot;All apps&quot; button and hamburger menu</li>
 		</ul>
-		<h3>Interface</h3>
+		<h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Some of the icons have been revamped</li>
 			<li>For virtual desktops, the taskbar will now be filtered by default</li>
@@ -23,7 +25,7 @@
 			<li>The Action Center no longer has a border</li>
 			<li>You can now swipe down from the edge of a screen to show app comands like Windows 8.1</li>
 		</ul>
-		<h3>Features</h3>
+		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Cortana
 				<ul>
@@ -32,7 +34,7 @@
 			</li>
 			<li>Printing to PDF is now called &quot;Microsoft print to PDF&quot;</li>
 		</ul>
-		<h3>Project Spartan</h3>
+		<h3>Project Spartan<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Project Spartan has been updated from version 0.13 to 0.15</li>
 			<li>Project Spartan is now capable of going full screen, where it used to go in full window</li>
@@ -42,7 +44,7 @@
 			<li>Improvements to address bar badges</li>
 			<li>Reading Mode now supports more screensizes and content types</li>
 		</ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Video</li>
 			<ul>

@@ -1,16 +1,18 @@
 <div class="panel panel-warning">
 	<div class="panel-heading">
-		<h3 class="panel-title">Technical Preview v10.0.9926<span class="pull-right">23.01.'15</span></h3>
+		<h3 class="panel-title">Desktop &middot; Technical Preview v10.0.9926<span class="pull-right">23.01.'15</span></h3>
 	</div>
 	<div class="panel-body">
 		<h2>What's new in the Windows 10 Technical Preview 2 build 9926?</h2>
 		<?php echo $alerts; ?>
-		<p>Windows will update from version 6.4.9879 to 10.0.9926 after launching this update.</p>
 		<div class="alert alert-success">
 			<h4>Re-enabled features</h4>
 			Universal scroll is back in this build as optional feature.
 		</div>
-		<h3>Desktop</h3>
+	</div>
+	<img src="img/9926.jpg" class="build-img" />
+	<div class="panel-body">
+		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The desktop has received a new interface</li>
 			<li>Some animations have been altered</li>
@@ -26,14 +28,14 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>Start</h3>
+		<h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Continuum is now available</li>
 			<li>The Start grid has been improved</li>
 			<li>The Start screen grid now scrolls vertically</li>
 			<li>Tiles no longer use a gradient and border</li>
 		</ul>
-		<h3>Features</h3>
+		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Action Center
 				<ul>
@@ -50,7 +52,7 @@
 			<li>Classic Calculator has been removed</li>
 			<li>A "Pin to quick access" options has been added to the ribbon in the File Explorer, replacing Favorites</li>
 		</ul>
-		<h3>Internet Explorer</h3>
+		<h3>Internet Explorer<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The Edge 12 rendering engine
 				<ul>
@@ -73,7 +75,7 @@
 			</li>
 			<li>More Windows Insiders will get Edge 12 as the default engine to replace Trident 7</li>
 		</ul>
-		<h3>WinRT</h3>
+		<h3>WinRT<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>WinRT apps have a new border chrome</li>
 			<li>Full screen mode is now a button on the window instead of in the hamburger menu</li>
@@ -81,11 +83,11 @@
 			<li>The Charms bar has been removed</li>
 			<li>Apps can now run within File Explorer (or pick a photo, Photos will load in File Explorer, for example)</li>
 		</ul>
-		<h3>Cortana</h3>
+		<h3>Cortana<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Cortana has been added</li>
 		</ul>
-		<h3>Apps</h3>
+		<h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>Alarms
 				<ul>
@@ -177,11 +179,11 @@
 				</ul>
 			</li>
 		</ul>
-		<h3>Media support</h3>
+		<h3>Media support<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>System-wide support for the FLAC & ALAC audio formats</li>
 		</ul>
-		<h3>And further</h3>
+		<h3>And further<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>The Windows kernel major version number changed from version 6.4 to 10.0</li>
 			<li>The builds are now called Windows 10 Pro Technical Preview (instead of Windows Technical Preview)</li>
