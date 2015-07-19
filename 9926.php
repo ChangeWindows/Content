@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Desktop &middot; Technical Preview v10.0.9926<span class="pull-right">23.01.'15</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows 10 Technical Preview 2 build 9926?</h2>
+		<h2>What's new in Windows 10 Technical Preview 2 build 9926?</h2>
 		<?php echo $alerts; ?>
 		<div class="alert alert-success">
 			<h4>Re-enabled features</h4>

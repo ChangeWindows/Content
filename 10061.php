@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Desktop &middot; Technical Preview v10.0.10061<span class="pull-right">10.04.'15</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows 10 Technical Preview 2 build 10061?</h2>
+		<h2>What's new in Windows 10 Technical Preview 2 build 10061?</h2>
 		<?php echo $alerts; ?>
 		<h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>

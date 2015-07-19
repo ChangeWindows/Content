@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Desktop &middot; Technical Preview v6.4.9879<span class="pull-right">12.11.'14</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows Technical Preview 1 build 9879?</h2>
+		<h2>What's new in Windows Technical Preview 1 build 9879?</h2>
 		<?php echo $alerts; ?>
 		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>

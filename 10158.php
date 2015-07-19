@@ -3,7 +3,7 @@
 		<h3 class="panel-title">Desktop &middot; Insider Preview v10.0.10158<span class="pull-right">29.06.'15</span></h3>
 	</div>
 	<div class="panel-body">
-		<h2>What's new in the Windows 10 Insider Preview build 10158?</h2>
+		<h2>What's new in Windows 10 Insider Preview build 10158?</h2>
 		<?php echo $alerts; ?>
 	</div>
 	<img src="img/10158.jpg" class="build-img" />
