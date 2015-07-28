@@ -57,7 +57,4 @@
 			</li>
 		</ul>
 	</div>
-	<div class="panel-footer">
-		Download size: 2,00 GB (32bit) or 2,74 GB (64bit)
-	</div>
 </div>

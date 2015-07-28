@@ -66,7 +66,7 @@
 					<li>Improved support for HTML5 standards</li>
 				</ul>
 			</li>
-<li>New flags have been added to about:flags</li>
+			<li>New flags have been added to about:flags</li>
 			<li>You can now send a smily face</li>
 		</ul>
 		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>

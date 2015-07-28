@@ -9,7 +9,7 @@
 		<ul>
 			<li>The Large and High tile sizes are now supported</li>
 			<li>Wallpapers are now shown behind the tiles instead of in them</li>
-			<li>New context menu design			</li>
+			<li>New context menu design</li>
 			<li>Recent installed apps are now shown at the top of the app list</li>
 		</ul>
 		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>

@@ -77,10 +77,6 @@
 				</ul>
 			</li>
 			<li>Preview Updates can be rolled back in the EUFI screen</li>
-			<li>Compatibility mode for Windows 95, 98, Me, XP SP2 and XP SP3 has been removed</li>
 		</ul>
-	</div>
-	<div class="panel-footer">
-		Download size: 2,93 GB (32bit) or 3,81 GB (64bit)
 	</div>
 </div>

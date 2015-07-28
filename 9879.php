@@ -13,7 +13,7 @@
 			<li>Animations have been refined</li>
 			<li>More icons have been replaced with new versions</li>
 			<li>OneDrive now uses selective sync, no more Smart Files</li>
-			<li>New battery indictor</li>
+			<li>New battery indicator</li>
 		</ul>
 		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
@@ -102,8 +102,5 @@
 				</ul>
 			</li>
 		</ul>
-	</div>
-	<div class="panel-footer">
-		Download size: 2,98 GB (32bit) or 3,86 GB (64bit)
 	</div>
 </div>

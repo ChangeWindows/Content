@@ -24,7 +24,7 @@
 		</ul>
 		<h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
-			<li>Apps will now display the back-button int the titlebar when required, tablets will show this button in the taskbar in a later build</li>
+			<li>Apps will now display the back-button in the titlebar when required, tablets will show this button in the taskbar in a later build</li>
 			<li>Switch-buttons and sliders have received a new design</li>
 			<li>The window border chrome has been updated</li>
 			<li>The installation has a slighly altered design (the ring now fades, there are only 3 steps instead of 4)</li>

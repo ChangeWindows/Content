@@ -11,7 +11,6 @@
         	<li>There are some new icons</li>
         	<li>It is now possible to resize the start menu</li>
         	<li>The amount of collumns per group in the menu might change from 3 to 4 or 4 to 3</li>
-        	<li>You can now resize start</li>
         	<li>Start now shows the progress of apps that are being installed</li>
         	<li>Tiles for Win32 apps no longer take a color based on the icon of that tile, but follows the accent color</li>
         	<li>Transparancy can be disabled</li>
@@ -43,7 +42,7 @@
        					</ul>
         			</li>
         			<li>Improved support for HTML5</li>
-        			<li>Improved support for CSS3					</li>
+        			<li>Improved support for CSS3</li>
         		</ul>
         		<ul>
 					<li>JavaScript
@@ -51,7 +50,9 @@
 							<li>Default parameter</li>
 							<li>Generators</li>
 							<li>RegExp Build-ins (ES6)</li>
-							<li>ASM.js</li></ul></li>
+							<li>ASM.js</li>
+						</ul>
+					</li>
 					<li>Multimedia
 						<ul>
 							<li>Media Capture and Streams</li>
@@ -60,7 +61,8 @@
 					<li>Misc
 						<ul>
 							<li>&lt;img srcset&gt;</li>
-							<li>&lt;main&gt; element</ul>
+							<li>&lt;main&gt; element</li>
+						</ul>
 					</li>
 					<li>Security
 						<ul>
