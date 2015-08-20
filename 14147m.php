@@ -7,21 +7,13 @@
 		<?php echo $alerts; ?>
 		<h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
-			<li>De "All apps" arrow has a new design and now shows a text label</li>
 			<li>The default start screen has been updated for new devices</li>
-		</ul>
-		<h3>Settings<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
-		<ul>
-			<li>Settings is now devided into multiple categories</li>
-			<li>You can now search through settings</li>
-			<li>You can now pin settings to the start screen</li>
 		</ul>
 		<h3>Features<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
 			<li>You can now create folders on the start screen</li>
 			<li>Cortana
 				<ul>
-					<li>Cortana is now supported in China, the UK, Canada, India and Australia</li>
 					<li>China can now choose a different appearance for Cortana</li>
 					<li>You can now use Cortana when your phone is locked</li>
 				</ul>
