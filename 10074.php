@@ -5,6 +5,9 @@
 	<div class="panel-body">
 		<h2>What's new in Windows 10 Insider Preview build 10074?</h2>
 		<?php echo $alerts; ?>
+	</div>
+	<img src="img/build/10074.png" class="build-img" alt="Screenshot current build" />
+	<div class="panel-body">
 		<h3>Start and search<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
         <ul>
         	<li>Cortana is now integrated into start</li>

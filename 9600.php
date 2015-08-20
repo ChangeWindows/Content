@@ -4,6 +4,9 @@
 	</div>
 	<div class="panel-body">
 		<h2>What's new in Windows 8.1 build 9600.16384?</h2>
+	</div>
+	<img src="img/build/9600.png" class="build-img" />
+	<div class="panel-body">
 		<?php echo $alerts; ?>
 		<h3>Tiles<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>

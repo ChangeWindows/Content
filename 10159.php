@@ -6,7 +6,7 @@
 		<h2>What's new in Windows 10 Insider Preview build 10159?</h2>
 		<?php echo $alerts; ?>
 	</div>
-	<img src="img/10159.jpg" class="build-img" />
+	<img src="img/build/10159.jpg" class="build-img" alt="Screenshot current build" />
 	<div class="panel-body">
 		<h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>

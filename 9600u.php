@@ -5,7 +5,7 @@
 	<div class="panel-body">
 		<h2>What's new in Windows 8.1 Update build 9600.17031?</h2>
 	</div>
-	<img src="img/9600u.jpg" class="build-img" />
+	<img src="img/build/9600u.jpg" class="build-img" alt="Screenshot current build" />
 	<div class="panel-body">
 		<h3>Start and All apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>

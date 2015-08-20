@@ -10,7 +10,7 @@
 			Universal scroll is back in this build as optional feature.
 		</div>
 	</div>
-	<img src="img/9926.jpg" class="build-img" />
+	<img src="img/build/9926.jpg" class="build-img" alt="Screenshot current build" />
 	<div class="panel-body">
 		<h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 		<ul>
