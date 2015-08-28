@@ -9,7 +9,7 @@ It could happen that we miss out on a feature that's new in any build of Windows
 
 - Start your pull request or ticket with [BUILD], where BUILD is replace by the build number of the feature your submit
  - In case the feature is confirmed to appear but the build is not known, use [NEXT]
- - E.g. [9924] New XAML-based start menu
+ - E.g. [9926] New XAML-based start menu
 - You need to include proof of this feature to be included in that Windows build in the description of your pull request or ticket (not the code itself), reliable source required
 - Do not submit any subjective information, we want to stay objective on this as much as possible (which is a 100%), no rumors
 - With pull requests, as soon as the information is pulled to our main repository, you lose the rights on the pull request
