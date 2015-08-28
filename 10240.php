@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-success">Windows 10 "Threshold" &middot; 10240</h2>
 <?php echo $alerts; ?>
-<img src="img/build/10240.jpg" class="build-img" alt="Screenshot current build" />
+<a href="img/build/10240.jpg"><img src="img/build/10240.jpg" class="build-img" alt="Screenshot current build" /></a>
 <h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>Task view has been added</li>
