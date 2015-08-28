@@ -4,7 +4,6 @@
 	</span>
 </p>
 <h2 class="ctr-warning">Windows 10 Mobile "Threshold" &middot; 10149</h2>
-<h2>What's new in Windows 10 Mobile Insider Preview build 10149?</h2>
 <?php echo $alerts; ?>
 <h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
