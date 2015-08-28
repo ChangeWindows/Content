@@ -1,6 +1,6 @@
 # ChangeWindows
 
-This repository contains all build files used by ChangeWindows on http://changewindows.studio384.be.
+This repository contains all build files used by ChangeWindows on http://changewindows.org.
 
 ## Contribute
 
@@ -24,23 +24,25 @@ In case you have some nice ideas for the website itself, we would like to hear i
 ## FAQ
 
 **Will you publish the whole website here one day?**
-That's not currently in the planning. We're thinking about doing so, through. Perhaps one day.
 
-**The "Next in Windows" information is out of date, can we update it here too?**
-Yep, take a look at "next.php".
+That's not currently in the planning. We're thinking about doing so, through. Perhaps one day. We're considering releasing the next version of our website as a GitHub Pages project, and thus, open sourcing it by default.
 
 **Can we add images?**
-Yes, but there are a couple of requirements, and only 1 can be added:
+
+Yes, but there are a couple of requirements, and only 1 can be added for each build:
 - The image resolution must be Full HD 1080p
 - Scaling must be 100%
 - It must have the default wallpaper of that build as background
-- The screenshot must show off some of the larger changes in this build (for 10147, for example, that was the Edge branding, new browser and new toggles in Action Center)
+- The screenshot must show off some of the larger changes in this build (for 10158, for example, that was the Edge branding, new browser and new toggles in Action Center)
 
 **I found some spelling mistakes in the build information, can I create pull requests/tickets for those too?**
+
 Of course! Go wild! You can create a new ticket or pull request for anything related to the website.
 
 **The information I added is merged with the master branch, yet my changes do not appear on the websites, what's going on?**
+
 After you submit your data, and we merge it into our main branch, it doesn't publish the data automaticaly to our website, we'll validate it once again before the information is synced to the server.
 
 **What license is this information released with?**
-We don't realy have a license for it right now. However, to describe it shortly: the information in this repository is copyrighted by us, if you add new information to this through pull requests, you take a distance of all the information and code given. You can not use it to build a duplication of our website, or any other purpose. We make one exceptation: websites that report on these kind of things are free to use it, as long as they add a link to our website to such article.
+
+To describe it shortly: the information in this repository is copyrighted by us, if you add new information to this through pull requests, you take a distance of all the information and code given. You can not use it to build a duplication of our website, or any other purpose. We make one exceptation: websites that report on these kind of things are free to use it, as long as they add a link to our website to such article.
