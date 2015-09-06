@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-warning">Windows 10 "Threshold" &middot; 10158</h2>
 <?php echo $alerts; ?>
-<a href="img/build/10158.jpg"><img src="img/build/10158.jpg" class="build-img" alt="Screenshot current build" /></a>
+<a href="img/build/10158.png"><img src="img/build/10158.png" class="build-img" alt="Screenshot current build" /></a>
 <h3>Start<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>More apps now use the accent color as their tile color</li>

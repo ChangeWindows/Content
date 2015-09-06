@@ -4,7 +4,7 @@
 	</span>
 </p>
 <h2 class="ctr-info">Windows 8.1 "Blue" Update &middot; 9600</h2>
-<img src="img/build/9600u.jpg" class="build-img" alt="Screenshot current build" />
+<a href="img/build/9600u.png"><img src="img/build/9600u.png" class="build-img" alt="Screenshot current build" /></a>
 <h3>Start and All apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>You can now shut down Windows from the start screen (not for devices with touchscreen or smaller than 8,5 inch)</li>

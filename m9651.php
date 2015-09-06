@@ -3,7 +3,7 @@
 		10.04.'15
 	</span>
 </p>
-<h2 class="ctr-info">Windows Phone 8.1 "Blue" Update 2 &middot; 15116</h2>
+<h2 class="ctr-info">Windows Phone 8.1 "Blue" Update 2 &middot; 9651</h2>
 <?php echo $alerts; ?>
 <h2>What's new in Windows Phone 8.1 build 15116.125?</h2>
 <h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>

@@ -5,6 +5,7 @@
 </p>
 <h2 class="ctr-success">Windows 8 "8" &middot; 9200</h2>
 <?php echo $alerts; ?>
+<a href="img/build/9200.png"><img src="img/build/9200.png" class="build-img" alt="Screenshot current build" /></a>
 <h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>The start menu has been replaced by a full screen start</li>

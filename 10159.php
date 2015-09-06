@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-warning">Windows 10 "Threshold" &middot; 10159</h2>
 <?php echo $alerts; ?>
-<a href="img/build/10159.jpg"><img src="img/build/10159.jpg" class="build-img" alt="Screenshot current build" /></a>
+<a href="img/build/10159.png"><img src="img/build/10159.png" class="build-img" alt="Screenshot current build" /></a>
 <h3>Interface<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>The Hero wallpaper is now available</li>

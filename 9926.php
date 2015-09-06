@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-warning">Windows 10 "Threshold" &middot; 9926</h2>
 <?php echo $alerts; ?>
-<img src="img/build/9926.jpg" class="build-img" alt="Screenshot current build" />
+<a href="img/build/9926.png"><img src="img/build/9926.png" class="build-img" alt="Screenshot current build" /></a>
 <h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>The desktop has received a new interface</li>
