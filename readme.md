@@ -8,15 +8,14 @@ This repository contains all build files used by ChangeWindows on http://changew
 It could happen that we miss out on a feature that's new in any build of Windows. If that's the case, please tell us! You can do so by creating a pull request or opening a new ticket. The following requirements apply:
 
 - Start your pull request or ticket with [BUILD], where BUILD is replace by the build number of the feature your submit
- - In case the feature is confirmed to appear but the build is not known, use [NEXT]
- - E.g. [9926] New XAML-based start menu
+ - E.g. [10532] New unified context menus
 - You need to include proof of this feature to be included in that Windows build in the description of your pull request or ticket (not the code itself), reliable source required
-- Do not submit any subjective information, we want to stay objective on this as much as possible (which is a 100%), no rumors
-- With pull requests, as soon as the information is pulled to our main repository, you lose the rights on the pull request
+- Do not submit any subjective information, we want to stay objective on this, no rumors
+- When you create a pull request, you give ChangeWindows all rights over the content that it consits out of
 - If there is a mistake in a feature that already has been listened, you can open a new ticket or pull request to remove it from its respective build, again with the [BUILD]-syntax, and a short description of the issue
- - E.g. [9841] The Notification center wasn't added
+ - E.g. [10041] Edge wasn't added in build 10041, but in the next one
  
-You can't create a file for a new build. We'll do that ourselves and publish it as soon as possible to the repository for you guys to make pull requests to it. Feel free to add a changelog for 9834, through.
+We would rather not have you push new files for builds that aren't covered yet to this repository, we'll make an initial draft ourselves and publish it to this repository and ChangeWindows.org first.
 
 ### Features for ChangeWindows
 In case you have some nice ideas for the website itself, we would like to hear it to! Again, you can open a ticket and describe the new feature as well as possible. Of course, the actual code won't be published here.
@@ -29,10 +28,10 @@ That's not currently in the planning. We're thinking about doing so, through. Pe
 
 **Can we add images?**
 
-Yes, but there are a couple of requirements, and only 1 can be added for each build:
-- The image resolution must be Full HD 1080p
-- Scaling must be 100%
-- It must have the default wallpaper of that build as background
+Yes, but there are a couple of requirements, and only one can be added for each build:
+- The image resolution must be Full HD 1080p (1080 by 1920 pixels)
+- Scaling must be set to 100%
+- It must have the default wallpaper of that build as its background
 - The screenshot must show off some of the larger changes in this build (for 10158, for example, that was the Edge branding, new browser and new toggles in Action Center)
 
 **I found some spelling mistakes in the build information, can I create pull requests/tickets for those too?**
