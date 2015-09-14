@@ -3,7 +3,7 @@
 		31.03.'15
 	</span>
 </p>
-<h2 class="ctr-warning">Windows 10 Mobile "Threshold" &middot; 10049</h2>
+<h2 class="ctr-warning">Windows 10 "Threshold" &middot; 10049</h2>
 <?php echo $alerts; ?>
 <h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
