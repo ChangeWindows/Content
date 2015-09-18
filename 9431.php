@@ -3,9 +3,9 @@
 		26.06.'13
 	</span>
 </p>
-<h2 class="ctr-warning">Windows 8.1 "Blue" &middot; 9431</h2>
+<h2 class="ctr-killed">Windows 8.1 "Blue" &middot; 9431</h2>
 <?php echo $alerts; ?>
-<a href="img/build/9431.png"><img src="img/build/9431.png" class="build-img" alt="Screenshot current build" /></a>
+<a href="img/build/9431.png"><img src="img/build/9431.png" class="img-responsive build-img" alt="Screenshot current build" /></a>
 <h3>Tiles<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>Small and Large tiles have been added to the start screen.</li>
