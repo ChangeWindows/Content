@@ -20,6 +20,11 @@
 	<li>One-handed mode now available on all devices</li>
 	<li>Support for Japanese and English (India) voice input</li>
 </ul>
+<h3>Microsoft Edge<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
+<ul>
+	<li>Improved support for HTML5</li>
+	<li>Improved support for ECMAScript 6 en 7</li>
+</ul>
 <h3>Apps<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>Insider Hub is now included again</li>
