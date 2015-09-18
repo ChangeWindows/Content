@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-warning">Windows 10 "Threshold R2" &middot; 10532</h2>
 <?php echo $alerts; ?>
-<a href="img/build/10532.png"><img src="img/build/10532.png" class="build-img" alt="Screenshot current build" /></a>
+<a href="img/build/10532.png"><img src="img/build/10532.png" class="img-responsive build-img" alt="Screenshot current build" /></a>
 <h3>Desktop<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
 	<li>Context menus have now a more consistent design</li>

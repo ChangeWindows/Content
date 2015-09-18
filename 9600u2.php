@@ -5,7 +5,7 @@
 </p>
 <h2 class="ctr-info">Windows 8.1 "Blue" Update 2 &middot; 9600</h2>
 <p>After the Windows 8.1 Update release of April 2014, many sites and Microsoft-watchers concidered the update releasedi n August 2014 &quot;Windows 8.1 Update 2&quot;. Microsoft explained that Update 2 didn't exist as a whole update, but is spread out over multiple months. In particular May, June and August, as these months contained some significant changes to the OS. To stay as complete as possible, we've decided to call the updates from these 3 months together &quot;Windows 8.1 Update 2&quot;. This way, the Windows 8.1 Update 3-update in September 2015 makes more sense, too.</p>
-<a href="img/build/9600u.png"><img src="img/build/9600u.png" class="build-img" alt="Screenshot current build" /></a>
+<a href="img/build/9600u.png"><img src="img/build/9600u.png" class="img-responsive build-img" alt="Screenshot current build" /></a>
 <h2>What's new in Windows 8.1 Update 2 build 9600.17107?</h2>
 <h3>Store<small><a href="http://changewindows.org"> by ChangeWindows.org</a></small></h3>
 <ul>
