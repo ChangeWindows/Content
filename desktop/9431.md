@@ -1,0 +1,98 @@
+### Tiles
+- Small and Large tiles have been added to the start screen.
+- You can now change multiple tiles at once.
+- Tiles can now show their download status on the startscreen and All apps list.
+- Tiles for desktop apps now get an accent color based on their most prominent color.
+- Improved support for portret mode.
+- Browser now always use their Modern UI-version of their tile, even if it isn't the default browser.
+- When pinning a tile to the startscreen from within an app, you can now choose its size.
+
+### All Apps
+- There is an "All apps" button on the bottom of the screen when using a mouse and keyboard.
+- You can now sort apps on name, date, most used and category.
+- There is now a search field.
+- You can now access All apps by swyping up from the start screen.
+- New apps aren't pinned to the start screen by default anymore.
+- You can now change the behavior of search when searching in the All apps screne.
+- You can now display desktop apps first.
+- New apps are now labeled as "New".
+
+### Personalize
+- Changing the start screen will now start a new edit mode.
+- You can now set the desktop background as the start screen background.
+- There are multiple new tatoos added to the startscreen (including dynamic tatoos).
+- Multiple new colors have been added to choose from.
+- The startscreen can now show up to 9 rows of tiles.
+
+### Interface
+- When Snap is being used, Windows will ask where to open an app.
+- Apps now open in snap view when triggered from within another app.
+- Apps now can be selected by holding them.
+- Snap can now use multiple sizes.
+- You can now snap up to 4 apps per screen (depeding on your resolution).
+- You can now use multiple Windows Apps on multiple screens.
+- The start button has now a visual image again.
+- You can now choose to boot to the desktop.
+- You can now disable hot corners.
+- If you have a high resolution, the charmsbar will (depending on the used hotcorner) appear higher or lower.
+- You can now add an app to alarm notifications.
+- The keyboard has been improved with numerous features.
+- You can now set a presentation as lock screen.
+
+### Internet Explorer
+- Tabs can now be synced.
+- Click-to-call is a new feature.
+- You can now choose to always display the address bar and tabs.
+- You can now open more then 10 tabs.
+- A Download list has been added.
+- Tiles can now have more formats.
+- Reading View is a new option that opens a reading-optimized environment.
+- Website Tiles can now show a feed.
+- Improved support for CSS3 and HTML5.
+- Support for WebGL, MDEG Dash and SPDY.
+- Brand now F12-Tools.
+
+### Build-in apps
+- All apps now support portrait mode.
+- You can now remove apps from more devices at once.
+- PC Settings
+ - Your start screen can now sync between devices.
+ - Multiple new features have been added.
+ - The app has a major revamped interface.
+ - You can now pin PC Settings to the start screen.
+- Photos
+ - There are multiple new options to change photos.
+ - Facebook- and Flickr-integration has been removed.
+- SkyDrive
+ - It's now possible to view local files from the app.
+ - You can now choose to save files to SkyDrive.
+ - SkyDrive has been integrated better into the OS.
+- Windows Store
+ - The Windows Store a has received a major revamp.
+ - Apps will now be updated automatically.
+ - The icon has been changed.
+ - The Windows Store tile now shows spotlight apps.
+- New apps
+ - Skype - replaces Messaging
+ - Calculator
+- Bing Drink and Food
+ - Bing Health and Fitness
+ - Help & Tips
+ - Alarms
+ - Reading List
+ - Search
+- Removed apps
+ - Messaging - replaced by Skype
+ - Bing - replaced by Search
+
+### And futher
+- Support for NFC, 3G and 4G.
+- Wireless printing without additional drivers.
+- 2-step authentication.
+- DirectX 11.2 is now available.
+- The Windows Prestation-index has been removed.
+- The Windows kernel has been updated from version 6.2 to 6.3.
+- Native support for 3D-printers.
+- New installation interface.
+- You can now replace Command Prompt with PowerShelll.
+- Improved support for high resolutions.
