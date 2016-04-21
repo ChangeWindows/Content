@@ -1,6 +1,6 @@
 # ChangeWindows
 
-This repository contains all build files used by ChangeWindows on http://changewindows.org.
+This repository contains all build files used by [ChangeWindows](http://changewindows.org).
 
 ## Contribute...
 
@@ -22,15 +22,11 @@ In case you have some nice ideas for the website itself, we would like to hear i
 
 ## FAQ
 
-**Will you publish the whole website here one day?**
-
-That's not currently in the planning. We're thinking about doing so, through. Perhaps one day. Unlike prior version, ChangeWindows 4 does pull its content directly from GitHub, but that only applies to the changelogs themselves, not yet to all data arround it (like numbers, dates, codenames, minilogs, and so on).
-
 **Can we add images?**
 
 Yes, however, we usually do this ourselves due to the following requirements (but if you're image applies to it, feel free):
-- The image resolution must be 1824p on a 2:3 ratio (or rather: a Surface Pro 4)
-- Scaling must be set to 200%
+- The image resolution for desktop must be 1824p on a 2:3 ratio (or rather: a Surface Pro 4) and scaling must be set to 200%
+ - For Mobile, Server, Xbox and IoT there are no restrictions
 - It must have the default wallpaper of that build as its background
 - The screenshot must show off some of the larger changes in this build (if applicable) (for 10158, for example, that was the Edge branding, new browser and new toggles in Action Center)
 
@@ -38,6 +34,6 @@ Yes, however, we usually do this ourselves due to the following requirements (bu
 
 Of course! Go wild! You can create a new ticket or pull request for anything related to the website.
 
-**What license is this information released with?**
+**This is on GitHub, can we use it for free?**
 
-To describe it shortly: the information in this repository is copyrighted by us, if you add new information to this through pull requests, you take a distance of all the information and code given. You can not use it to build a duplication of our website, or any other purpose. We make one exceptation: websites that report on these kind of things are free to use it, as long as they add a link to our website to such article.
+No, keep in mind that ChangeWindows is like any other news website, our content is not freely available for anyone to copy, credits are required if you use us as a source.
