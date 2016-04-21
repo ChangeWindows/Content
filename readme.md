@@ -9,11 +9,10 @@ It could happen that we miss out on a feature that's new in one build of Windows
 
 - Start your pull request or ticket with [BUILD], where BUILD is replace by the build number of the feature your submit
  - E.g. [10532] New unified context menus
-- You need to include proof of this feature to be included in that Windows build in the description of your pull request or ticket (not the code itself), reliable source required or steps to find the feature ourselves
+- We would like you to include steps to find a feature you submit in case it isn't easy to find
 - Do not submit any subjective information, we want to stay objective on this, no rumors
-- When you create a pull request, you give ChangeWindows all rights over the content that it consits out of
-- If there is a mistake in a feature that already has been listened, you can open a new ticket or pull request to remove it or fix it, again with the [BUILD]-syntax, and a short description of the issue
- - E.g. [10041] Edge wasn't added in build 10041, but in the next one (build 10049)
+- If there is a (spelling)mistake in a feature that already has been listened, you can open a new ticket or pull request to remove it or fix it, again with the [BUILD]-syntax, and a short description of the issue
+ - E.g. [10041] Edge wasn't added in build 10041, but in 10049
  
 We would rather not have you push new files for builds that aren't covered yet to this repository, we'll make an initial draft ourselves and publish it to this repository and ChangeWindows.org first.
 
@@ -29,10 +28,6 @@ Yes, however, we usually do this ourselves due to the following requirements (bu
  - For Mobile, Server, Xbox and IoT there are no restrictions
 - It must have the default wallpaper of that build as its background
 - The screenshot must show off some of the larger changes in this build (if applicable) (for 10158, for example, that was the Edge branding, new browser and new toggles in Action Center)
-
-**I found some spelling mistakes in the build information, can I create pull requests/tickets for those too?**
-
-Of course! Go wild! You can create a new ticket or pull request for anything related to the website.
 
 **This is on GitHub, can we use it for free?**
 
