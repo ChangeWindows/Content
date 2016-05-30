@@ -7,9 +7,3 @@
 - Gadgets may fail to detect the Microsoft Display and cannot update the firmware version if you are using a version older than version 4
 - Connecting to a Miracast receiver will fail after upgrading to this build
 - After downloading and installing a new language or keyboard, the "Reboot"-option won't appear
-
-## What's new in Windows 10 build 14295.1005?
-_Released on 22 April 2016 to the Slow Ring, [KB 3156425](https://support.microsoft.com/?kbid=3156425)_
-
-### And further
-- Unknown fixes and improvements

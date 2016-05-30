@@ -1,4 +1,3 @@
-## What's new in Windows 10 build 14342.1001?
 ### Start and Action Center
 - The Action Center has a more polished interface
 
@@ -50,15 +49,3 @@
 - Cellular data may not work correctly on the second SIM in Dual-SIM devices
 - Some emojis may be shown as square boxes in some apps
 - The Settings app could crash when the you try to re-arrange Quick Actions
-
-## What's new in Windows 10 build 14342.1003?
-_Released on 18 April 2016_
-
-### And further
-- Unknown fixes and improvements
-
-## What's new in Windows 10 build 14342.1004?
-_Released on 25 April 2016_
-
-### Fixed issues
-- Fixes some issues that cause battery drain on some devices
