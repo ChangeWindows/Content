@@ -1,6 +1,3 @@
-## What's new in Xbox One Update version 10.0.10523.1050?
-_Initial release_
-
 ## What's new in Xbox One Update version 10.0.10523.1055?
 _Released on 22 September 2015_
 

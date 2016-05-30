@@ -1,5 +1,3 @@
-## What's new in Xbox One Update version 10.0.10581.1001?
-
 ### Fixed issues
 - Launching YouTube will no longer shut donw the system
 - After a system update, you will no longer encouter a green or black screen

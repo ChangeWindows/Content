@@ -1,5 +1,3 @@
-## What's new in Xbox One Update version 10.0.10581.1001?
-
 ### Fixed issues
 - When nstalling games with pending updates, the installs will no longer show a progress higher than 100%
 - MTU will no longer show as 510 in the multiplayer connection list

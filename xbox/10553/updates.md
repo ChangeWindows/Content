@@ -1,31 +1,3 @@
-## What's new in Xbox One Update version 10.0.10553.1007?
-
-### Interface
-- The menu button now let you quickly get to common actions
-
-### Party Chat
-- You can now have a party chat with up to 12 people
-- You can now use a text based party chat alongside the voice chat
-
-### Game DVR
-- The Game DVR snap app and Upload app have been merged into one app
-
-### And further
-- New avatars are now animated
-
-### Fixed issues
-- The battery icon for controllers should now indicate an accurate level
-- The East Asian virtual keyboar now functions again
-- Fixes issues with the following games failing to launch: Guacamelee: STCE, Unmechanical, Elite: Dangerous, D4: Dark Dreams Don’t Die, Skylanders and Compilations
-- Fixes issues with the following apps failing to launch: ABC News, VUDU and ReddX
-- Fixes issues with the TED apps video stream
-- The Xbox button now functions properly in the Power menu
-- You can now install DLCs again and the Manage Game interface has been fixed
-- Fixes issues with games getting stuck in the download queue
-- Fixes the "Neet to be signed in" error when recording game clips
-- UPnP now works again with this update
-- My Games & Apps should now populate again
-
 ## What's new in Xbox One Update version 10.0.10553.1013?
 _Released on 2 October 2015_
 

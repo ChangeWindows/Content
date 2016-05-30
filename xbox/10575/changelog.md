@@ -1,5 +1,3 @@
-## What's new in Xbox One Update version 10.0.10575.1004?
-
 ### Fixed issues
 - Updating a game will no longer result in an infinite loading screen
 - Live TV will no longer dim the screen for a short period of time
