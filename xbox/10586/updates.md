@@ -21,14 +21,14 @@ _Released on 7 Janauri 2016_
 ### And further
 - Improved performances
 
-## What's new in Xbox One 2016 Update version 10.0.10586.1199?
+## What's new in Xbox One Update version 10.0.10586.1199?
 _Released on 23 March 2016_
 
 ### Fixed issues
 - Fixes an issue where users with their console set to ja-JP couldn't purchase avatars
 - Additional fixes and improvements
 
-## What's new in Xbox One 2016 Update version 10.0.10586.1202?
+## What's new in Xbox One Update version 10.0.10586.1202?
 _Released on 27 March 2016_
 
 ### Fixed issues
