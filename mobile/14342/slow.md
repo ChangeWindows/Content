@@ -57,7 +57,6 @@
 
 ### Settings
 - New panels, settings and options
-- New panels, settings and options
  - You can now choose which app's notifications are more important to you
  - You can now choose how many notifications an app can have in the Action Center
  - You can now manage on a per-app base if an app can run in the background or not, or if this has to be hanled by Windows
