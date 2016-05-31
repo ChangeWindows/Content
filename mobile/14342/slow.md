@@ -31,6 +31,11 @@
 
 ### Microsoft Edge
 - Edge has been updated from version 34.14295 to version 38.14342 with the following updates
+ - Edge now shows a "Go forward" item in the ellipses menu
+ - When an app opens a new tab, pressing back will now close it
+ - When typing in a text box, you can now use the pase button above the keyboard
+ - You can now swipe to go back and forward
+- EdgeHTML has been updated from version 14.14295 to version 14.14342 with the following updates
  - Default parameters
  - Async/await
  - Object.values and Object.entries
@@ -42,18 +47,14 @@
  - Canvas Path2D objects
  - Web Speech API
  - The User Agent String has been updated
- - Edge now shows a "Go forward" item in the ellipses menu
- - When an app opens a new tab, pressing back will now close it
- - When typing in a text box, you can now use the pase button above the keyboard
- - You can now swipe to go back and forward
-- EdgeHTML has been updated from version 14.14295 to version 14.14342 with the following updates
+ - Improved accessibility features
+ - Support for Beacon
  - Web Notification API
  - Beacon API
  - Fetch API
+- The following flags have been added
  - ES6 Regex symbols
  - Web Payments
- - Improved accessibility features
- - Support for Beacon
 
 ### Settings
 - New panels, settings and options
