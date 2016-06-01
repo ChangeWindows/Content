@@ -158,3 +158,9 @@ _Released on 10 May 2016 to the Preview Release Ring and Production Ring_
 - Fixes an issue that caused some pages in Edge to hang or restart the phone
 - Fixes an issue that caused recorded video to get lost when taking a call
 - Fixes the navigation bar to overlay some apps on a number of devices
+
+## What's new in Windows 10 Mobile build 10586.338?
+_Released on 31 May 2016 to the Preview Release_
+
+### And further
+- Unknown changes and improvements
