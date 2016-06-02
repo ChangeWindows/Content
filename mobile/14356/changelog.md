@@ -1,4 +1,5 @@
 ### Start and Action Center
+- The default wallpaper for a new device has been changed
 - The size of notification icons has been decreased from 64x64 to 48x48
 - App names on Live tiles now follow the Ease of Access Text Scaling setting
 
