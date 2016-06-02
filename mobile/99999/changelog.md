@@ -15,6 +15,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - You can now hold notifications to turn them off for the app or go to the notification settings
 - The size of notification icons has been decreased from 64x64 to 48x48
 - App names on Live tiles now follow the Ease of Access Text Scaling setting
+- The default wallpaper for a new device has been changed
 
 ### Cortana and search
 - Cortana is now available in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
