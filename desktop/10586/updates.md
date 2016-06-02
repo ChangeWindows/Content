@@ -99,3 +99,9 @@ _Released on 10 May 2016 to the Preview Release Ring, Current Branch and Current
 - Fixes an issue that caused users to not get locked out after a number of failed sign ins
 - Fixes an issue that caused some CompactFlash cards to got corrupted
 - Fixes security issues in kernel mode drivers, remote procedure calls, the Microsoft Graphics Component, Internet Explorer 11, Microsoft Edge, Windows Shell, Windows Journal, Virtual Secure Mode, Schannel and Jscript
+
+## What's new in Windows 10 Mobile build 10586.338?
+_Released on 2 June 2016 to the Preview Release_
+
+### And further
+- Unknown changes and improvements
