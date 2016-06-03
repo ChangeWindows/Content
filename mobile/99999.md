@@ -44,6 +44,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The data migration process now uses a larger font
 - The "Goodbye" message will now stay visible until the device has been shut down completely
 - Glance screen now follows the Ease of Access scaling settings
+- The circling dots-loading animation is now globally replaced with a new animation
 
 ### Microsoft Edge
 - Edge has been updated from version 25.10586 to 38.14342
