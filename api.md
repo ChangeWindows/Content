@@ -1,7 +1,7 @@
-## ChangeWindows.org API
+# ChangeWindows.org API
 We provide some of our data with an API, this includes build information, ring information and milestone information. All tables are available as JSON, XML and HTML.
 
-### Builds
+## Builds
 **builds** contains all information about every single build. This includes build strings, minilogs, release dates and announcement urls.
 [JSON](http://changewindows.org/api/cw/builds.json) &middot; [XML](http://changewindows.org/api/cw/builds.xml) &middot; [HTML](http://changewindows.org/api/cw/builds.html)
 
@@ -50,7 +50,7 @@ announcement_iot | The url to Microsofts official announcement of this build for
 announcement_server | The url to Microsofts official announcement of this build for Server. | Available
 announcement_holographic | The url to Microsofts official announcement of this build for Holographic. | To be added
 
-### Rings
+## Rings
 **rings** contains all information regarding which build is in which ring.
 [JSON](http://changewindows.org/api/cw/rings.json) &middot; [XML](http://changewindows.org/api/cw/rings.xml) &middot; [HTML](http://changewindows.org/api/cw/rings.html)
 
@@ -94,7 +94,7 @@ release_server_date | Stable release date for Server build. | Available
 preview_holographic_date | Preview release date for Holographic build. | To be added
 release_holographic_date | Stable release date for Holographic build. | To be added
 
-### Milestones
+## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
 [JSON](http://changewindows.org/api/cw/milestones.json) &middot; [XML](http://changewindows.org/api/cw/milestones.xml) &middot; [HTML](http://changewindows.org/api/cw/milestones.html)
 
@@ -107,9 +107,9 @@ first_build | First build that can be considered part of this particular milesto
 last_build | Last build that can be considered part of this particular milestone. | Available
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
-is_desktop | 1 if desktop, 0 if not | Available
-is_mobile | 1 if Mobile, 0 if not | Available
-is_xbox | 1 if Xbox, 0 if not | Available
-is_iot | 1 if IoT, 0 if not | Available
-is_server | 1 if Server, 0 if not | Available
-is_holographic | 1 if Holographic, 0 if not | Available
+is_desktop | 1 if desktop, 0 if not. | Available
+is_mobile | 1 if Mobile, 0 if not. | Available
+is_xbox | 1 if Xbox, 0 if not. | Available
+is_iot | 1 if IoT, 0 if not. | Available
+is_server | 1 if Server, 0 if not. | Available
+is_holographic | 1 if Holographic, 0 if not. | Available
