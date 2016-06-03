@@ -8,6 +8,9 @@
 - Notifications on your phone will now be synced to your PC with Cortana
 - Cortanas listening animation has been updated
 
+### User Interface
+- The circling dots-loading animation is now globally replaced with a new animation
+
 ### Settings
 - New panels, settings and options
  - "Always show Glance screen when charging" is now the default behavior for Glance screen
