@@ -28,7 +28,7 @@
 - The Game DVR snap app and Upload app have been merged into one app
 
 ### Xbox Store
-- The Xbox Store is now devided in Games, Music, Movies & TV and Apps
+- The Xbox Store is now divided in Games, Music, Movies & TV and Apps
 - The Store now has a vertical design
 - You can now browser through categories like New Releases, Top Played, etc.
 

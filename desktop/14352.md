@@ -45,7 +45,7 @@
 
 ### System
 - You can now enable paths with more than 260 characters for NTFS
-- The installation is no longer devided in 3 steps and now shows as just 1 step
+- The installation is no longer divided in 3 steps and now shows as just 1 step
 - Improved performance for account migration
 
 ### Apps
