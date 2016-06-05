@@ -13,14 +13,14 @@ string_mobile | Contains the build string for the Mobile build, only filled when
 string_xbox | Contains the build string for the Xbox build, only filled when a Xbox build is available. | Available
 string_iot | Contains the build string for the IoT build, only filled when a IoT build is available. | Available
 string_server | Contains the build string for the Server build, only filled when a Server build is available. | Available
-string_holographic | Contains the build string for the holographic build, only filled when a holographic build is available. | To be added
+string_holographic | Contains the build string for the holographic build, only filled when a holographic build is available. | Available
 version | The version number (e.g. 1507, 1511, 1607). | Deprecated
 name_desktop | Contains the name for the desktop build, in addition to the basic naming. | Available
 name_mobile | Contains the name for the Mobile build, in addition to the basic naming. | Available
 name_xbox | Contains the name for the Xbox build, in addition to the basic naming. | Available
 name_iot | Contains the name for the IoT build, in addition to the basic naming. | Available
 name_server | Contains the name for the Server build, in addition to the basic naming. | Available
-name_holographic | Contains the name for the holographic build, in addition to the basic naming. | To be added
+name_holographic | Contains the name for the holographic build, in addition to the basic naming. | Available
 fast_desktop | Fast Ring release for desktop build. | Available
 slow_desktop | Slow Ring release for desktop build. | Available
 current_desktop | Current Branch release for desktop build. | Available
@@ -35,20 +35,20 @@ preview_iot | Preview release for IoT build. | Available
 release_iot | Stable release for IoT build. | Available
 preview_server | Preview release for Server build. | Available
 release_server | Stable release for Server build. | Available
-preview_holographic | Preview release for Holographic build. | To be added
-release_holographic | Stable release for Holographic build. | To be added
+preview_holographic | Preview release for Holographic build. | Available
+release_holographic | Stable release for Holographic build. | Available
 minilog_desktop | The minilog contains a quick overview for everything new in this build for the desktop. | Available
 minilog_mobile | The minilog contains a quick overview for everything new in this build for Mobile. | Available
 minilog_xbox | The minilog contains a quick overview for everything new in this build for Xbox. | Available
 minilog_iot | The minilog contains a quick overview for everything new in this build for IoT. | Available
 minilog_server | The minilog contains a quick overview for everything new in this build for Server. | Available
-minilog_holographic | The minilog contains a quick overview for everything new in this build for Holographic. | To be added
+minilog_holographic | The minilog contains a quick overview for everything new in this build for Holographic. | Available
 announcement_desktop | The url to Microsofts official announcement of this build for desktop. | Available
 announcement_mobile | The url to Microsofts official announcement of this build for Mobile. | Available
 announcement_xbox | The url to Microsofts official announcement of this build for Xbox. | Available
 announcement_iot | The url to Microsofts official announcement of this build for IoT. | Available
 announcement_server | The url to Microsofts official announcement of this build for Server. | Available
-announcement_holographic | The url to Microsofts official announcement of this build for Holographic. | To be added
+announcement_holographic | The url to Microsofts official announcement of this build for Holographic. | Available
 
 ## Rings
 **rings** contains all information regarding which build is in which ring.
@@ -73,8 +73,8 @@ preview_iot | Preview release for IoT build. | Available
 release_iot | Stable release for IoT build. | Available
 preview_server | Preview release for Server build. | Available
 release_server | Stable release for Server build. | Available
-preview_holographic | Preview release for Holographic build. | To be added
-release_holographic | Stable release for Holographic build. | To be added
+preview_holographic | Preview release for Holographic build. | Available
+release_holographic | Stable release for Holographic build. | Available
 fast_desktop_date | Fast Ring release date for desktop build. | Available
 slow_desktop_date | Slow Ring release date for desktop build. | Available
 preview_desktop_date | Release Preview Ring release date for desktop build. | Available
@@ -91,8 +91,8 @@ preview_iot_date | Preview release date for IoT build. | Available
 release_iot_date | Stable release date for IoT build. | Available
 preview_server_date | Preview release date for Server build. | Available
 release_server_date | Stable release date for Server build. | Available
-preview_holographic_date | Preview release date for Holographic build. | To be added
-release_holographic_date | Stable release date for Holographic build. | To be added
+preview_holographic_date | Preview release date for Holographic build. | Available
+release_holographic_date | Stable release date for Holographic build. | Available
 
 ## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
