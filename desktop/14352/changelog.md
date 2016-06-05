@@ -37,6 +37,7 @@
  - Upgrading from Pro to Enterprise no longer requires you to wipe the system and doesn't require a reboot
  - You can now enable Limited Periodic Scanning which provides a second line of defence when using other Antivirus solutions than Windows Defender
  - Recovery now shows a link to a help thread about starting anew with Windows
+ - You can now allow Windows to use your login credentials to automatically finish setting up your account after an upgrade
 - Visual updates and others
  - The "Updates installed" notification now links to the Update history instead of Windows Update
  - Some icons have been updated for individual pages

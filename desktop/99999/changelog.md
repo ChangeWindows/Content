@@ -184,6 +184,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Under Privacy, you can now enable apps on other devices to start on your PC to continue where you left off
  - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
  - Recovery now shows a link to a help thread about starting anew with Windows
+ - You can now allow Windows to use your login credentials to automatically finish setting up your account after an upgrade
 - Visual updates and others
  - The page title and search bar have been moved to the sidebar
  - Taskbar settings have been moved from System to Personalization
