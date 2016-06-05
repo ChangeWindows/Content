@@ -48,6 +48,32 @@
 - Holographic is now capable of remembering where you left your holograms better
 
 ### Fixed issues
-
+- Fixes an issue that prevented XAML apps from resuming
+- Fixes an issue that would cause the device to crash and leave a black screen with some jagged lines
+- Fixes an issue that caused scrolling to scroll into the wrong direction
+- Fixes an issue that would make the LEDs indicate the device was off while it was on
+- Fixes an issue where Wi-Fi would be turned off after waking up from stand-by
+- Fixes an issue that made the Xbox identity provider offer a gamertag and getting stuck in a loop
+- Fixes the shell crashing when selecting a file in the OneDrive File Picker
+- Fixes an issue that made pressing and holding a link would cause a new broken tab to appear with a contextmenu
+- Fixes an issue that made Windows Device Protal prevent IPD adjustments from 50 to 80
+- Fixes an issue that caused Photos to crash when starting due to pinned photos
+- Fixes photos being displayed in the wrong orientation
+- Fixes videos restarting after continuing a paused video
+- Fixes an issue that prevented a shared video from playing when it was shared during playback
+- Mixed Reality Capture recodrings will no longer begin with a 0.5-1 second video delay
+- Fixes the sync button disappearing during initial OneDrive sync
+- Fixes an issue where a refresh was needed in Settings when the environment changes
+- Fixes an issue that made 'Enter' on the keyboard not behave like clicking Next in some dialogs
+- Fixes an issue that made it hard to see if the clicker failed to pair
+- Fixes an issue that would cause Settings to become unresponsive with Wi-Fi disconnect and connect
+- Fixes an issue where Cortana would get stuck on the "Listening"-message
+- Fixes an issue where asking "Hey Cortana, what can I say" from an exclusive mode app would get stuck when answered with maybe, yes or no
+- Fixes an issue that made Cortana's listening UI fail to resume after asking Cortana to go to sleep and resume again
+- Fixes "What network am I connected to?" and "Am I connected?" failing
+- Fixes an issue that caused signing out of Cortana made it impossible to sign in again without reboot
+- Fixes an issue where Cortana could not launch when Mixed Reality Capture was active
 
 ### Known issues
+- The Live Preview feature in Mixed Reality Capture may have several seconds of latency
+- When using Kiosk Mode, users can't return to an exclusive app after opening Edge or the soft keyboard
