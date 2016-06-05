@@ -1,8 +1,3 @@
-## What's new in Windows 10 Mobile build 10514.0?
-### And further
-- Unknown changes
-
-## What's new in Windows 10 Mobile build 10536.1000?
 ### General
 - Make device visible for USB Ethernet Emulation Model
 - Make device show up trough USB connection and in local network

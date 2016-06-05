@@ -1,0 +1,2 @@
+### Build 10514 requirement
+When upgrading from 10512 to 10536, Windows Insiders will also get this build delivered. This build is required to overcome an upgrading issue in 10512. Upgrading from Windows Phone 8.1 won't trigger this build.
