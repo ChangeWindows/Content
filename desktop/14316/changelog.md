@@ -21,13 +21,13 @@
 - Edge has been updated from version 34.14295 to version 37.14316 with the following updates
  - You can now upload folders
  - On Mobile, when an app opens a new tab, pressing back will now close it
- - On Mobile, when typing in a text box, you can now use the pase button above the keyboard
+ - On Mobile, when typing in a text box, you can now use the paste button above the keyboard
  - Edge now supports importing favorites from Firefox
  - Imported favorites will now be put in their own folder, instead of the already existing favorites folder
  - The Favorites hub now uses a tree view
  - When closing Edge with running downloads, Edge will now warn you
  - You can now set a default save location for downloads
- - Edges default opening settings are now a dropdown
+ - Edge's default opening settings are now a dropdown
  - When Flash content isn't the focus, Edge will pause it automatically
  - There is now an accessibility tree view in F12
  - You can now debug extensions through F12
@@ -55,15 +55,15 @@
  - You can now choose how many notifications an app can have in the Action Center
  - You can now choose between dark and light mode
  - The color for title bars and the color for the taskbar, start and Action Center can now be toggled separately from each other
- - You can now manage on a per-app base if an app can run in the background or not, or if this has to be hanled by Windows
+ - You can now manage on a per-app basis if an app can run in the background or not, or if this has to be handled by Windows
  - Windows Update now allows you to set the time you're most active in so that it can avoid updating at that point
  - You can now override Active Hours with the Restart Options
- - The Windows Update notification after installing an update now takes you to the device's update history
+ - The Windows Update notification, after installing an update, now takes you to the device's update history
  - You can now enable Device Portal
  - You can now enable a number of developer-focused settings for File Explorer
  - There are now a number of developer-focused settings for Remote Desktop
  - You can now share your Wi-Fi as a hotspot
- - PowerShell also has a number for develop-focused settings
+ - PowerShell also has a number of developer-focused settings
 - Visual updates and others
  - The Settings app has a new design for its home page
  - The accent color table has been redesigned and is now always shown
@@ -84,13 +84,13 @@
 
 ### And further
 - The emoji set has been completely revamped
-- The default emoji’s are no longer grey, but yellow
+- The default emojis are no longer grey, but yellow
 
 ### Fixed issues
 - Fixes an issue where the audio on devices with TPM chips may glitch
 - Fixes an issue where the network adapter would show an error indicator when using Hyper-V with a Virtual Switch
 - Fixes the Wi-Fi fly out UI with a more polished design
-- Fixes an issue where multi monitor setups would make Windows Explorer crash
+- Fixes an issue where multi-monitor setups would make Windows Explorer crash
 - Fixes an issue where tiles for Win32 apps would move to another location after updating to a new build
 - Fixes an issue where the Update and Restart/Shut Down options wouldn't start the update
 
@@ -99,4 +99,4 @@
 - Narrator and other screen reader apps might fail to read menu options or selected text in different apps
 - Large downloads in Microsoft Edge might appear to be stuck at 99%
 - Enabling Developer Mode may make the Settings app crash
-- Some notification may not show the actual notification, but only the icon
+- Some notifications may not show the actual notification, but only the icon

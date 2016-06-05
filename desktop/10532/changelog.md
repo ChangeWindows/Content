@@ -1,5 +1,5 @@
 ### Desktop
-- Context menus have now a more consistent design
+- Context menus now have a more consistent design
 - Improved dark and light theming
 
 ### Edge

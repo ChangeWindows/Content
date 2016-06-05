@@ -1,5 +1,5 @@
 ### Start and Action Center
-- The Power button is now showed above the All apps button
+- The Power button is now shown above the All apps button
 - It is now possible to resize the start menu
 - The amount of columns per group is now 3 by default (upgrades are not affected and remain with 4 columns)
 - Start now shows the progress of apps that are being installed
@@ -40,7 +40,7 @@
  - Improved support for CSS3
  - Default parameter
  - Generators
- - RegExp Build-ins (ES6)
+ - RegExp Built-ins (ES6)
  - ASM.js
  - Media Capture and Streams
  - Meta Referrer

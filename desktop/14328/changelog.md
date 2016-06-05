@@ -2,7 +2,7 @@
 - The All Apps list and Most Used have been merged
 - "Recently added" can now show up to 3 apps instead of just one
 - All Apps is now full screen in tablet mode
-- The left rail now only consists out of icons that can be expanded with the hamburger button
+- The left rail now only consists of icons that can be expanded with the hamburger button
 - The Action Center icon has been moved to the right hand side of the clock
 - The Action Center icon now shows the number of new notifications and logos of the apps that have triggered them
 - Individual app notifications no longer have icons, instead the header now shows the icon
@@ -60,9 +60,8 @@
  - Settings now has a network speed test integrated
  - Hotspot 2.0 settings have been added under Wi-Fi
  - You can now disable badges on taskbar buttons
- - You can now enable the lock screen to show your email address
  - You can now see all add-ons per app
- - Under "Temporary Files", Windows now shows the amount of storage pending updates and builds are using
+ - Under "Temporary Files", Windows now shows the amount of storage that pending updates and builds are using
  - Some of the activation info has been removed from "Activation"
  - Under Privacy, you can now enable apps on other devices to start on your PC to continue where you left off
  - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
@@ -88,9 +87,9 @@
 - Fixes an issue that caused the Xbox One Controller to lag when connected to your PC
 - Fixes an issue where the two factor authentication dialog wasn't formatted corretly after receiving an error
 - Fixes an issue where the column width in Task Manager was to small on high DPI screens
-- Fixes an issue that caused devices to get stuck on "Restarting..." when programs where prevented the PC from restarting due to unsaved work
+- Fixes an issue that caused devices to get stuck on "Restarting..." when programs where preventing the PC from restarting due to unsaved work
 - Fixes an issue that caused the Chinese Input Method Editor candidate list to not show up in full screen
-- Fixes an issue that caused notifications to not be able to dismiss
+- Fixes an issue that caused notifications to not be able to be dismissed
 - Fixes an issue that resulted in overlapping icons and clipped text in File Explorer
 - Fixes an issue that caused Quicken to not launch
 
@@ -99,7 +98,7 @@
 - All Edge extensions will be removed after upgrading to this build
 - Feedback Hub will show in English only, no matter what language your device is on
 - It will take 20 to 30 minutes before the Feedback Hub populates itself
-- The Desktop App Converter Preview (Project Centennial) won't work
+- The Desktop App Converter Preview (Project Centennial) doesn't work
 - All Tencent online games do not work in this build
 - ALT + Y is broken in the new User Account Control UI
 - If you are in an app and click on an URL that is longer than 260 characters, it will open the "Open with..."-dialog instead of your browser

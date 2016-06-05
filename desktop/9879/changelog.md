@@ -45,12 +45,12 @@
  - Under "Privacy", Cortana options have been added
 
 ### System
-- Touch gestures on a touchpad are now build in and universal across all Windows devices
-- Improvements to multi monitor support have been made
+- Touch gestures on a touchpad are now built-in and universal across all Windows devices
+- Improvements to multi-monitor support have been made
 - MKV support has been improved
 
 ### Apps
-- Insider Hub has been added as a new app, news portal for Windows Insiders
+- Insider Hub has been added as a new app, a news portal for Windows Insiders
 - OneDrive has been removed as an app
 - You can now pin the search app to the taskbar and start screen
 - Windows Feedback

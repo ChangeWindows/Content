@@ -6,7 +6,7 @@
 - Tiles no longer use a gradient and border
 - The Action Center now takes the full height of the screen
 - You can now change quick settings in the Action Center
-- Notifications now can contain actions
+- Notifications can now contain actions
 - A swipe from the right now opens the Action Center
 - Quick settings can now contain more settings
 - Notifications have received a new design
@@ -126,9 +126,9 @@
 - Edge 20.10240 has been added with the following features
  - You can now draw on web-pages
  - Comments can now be added to web-pages (like Office)
- - Reading Mode is now build-in for desktops
- - Reading List is now build-in
- - Cortana is now build-in
+ - Reading Mode is now built-in for desktops
+ - Reading List is now built-in
+ - Cortana is now built-in
  - You can now find your downloads in the download manager
  - You can now open Internet Explorer from within Spartan
  - The "Add to" dialogue has been improved
@@ -245,10 +245,10 @@
  - Multiple sections have been renamed, replaced, merged, or split
 
 ### System
-- Touch gestures on a touchpad are now build in and universal across all Windows devices
+- Touch gestures on a touchpad are now built-in and universal across all Windows devices
 - Improvements to multi monitor support have been made
-- Build-in MKV-file support
-- Build-in HVEC-file support
+- Built-in MKV-file support
+- Built-in HVEC-file support
 - System-wide support for the FLAC & ALAC audio formats
 - Apps can now run on a 1024x600 resolution
 - Win32 apps now also use gestures
@@ -259,7 +259,7 @@
 - Win32 apps can no longer ask to change the default app for any file format and have to use the method used by Universal Windows Apps
 
 ### Apps
-We will no longer cover changes to build-in apps other then Microsoft Edge as this is almost impossible to keep track off and updates to these apps aren't bound to any version of Windows. And in case you do want to know the differences between the build-in Windows 8.1 and build-in Windows 10 apps: they are basically all redone
+We will no longer cover changes to built-in apps other then Microsoft Edge as this is almost impossible to keep track off and updates to these apps aren't bound to any version of Windows. And in case you do want to know the differences between the built-in Windows 8.1 and built-in Windows 10 apps: they are basically all redone
 
 - Classic Calculator has been removed
 
@@ -269,7 +269,7 @@ We will no longer cover changes to build-in apps other then Microsoft Edge as th
 - Command prompt
  - Standardized key shortcuts
  - Selecting text is now possible
- - Past from clipboard is now possible
+ - Paste from clipboard is now possible
  - Text wrap can be altered on resize
  - Leading zeros can now be trimmed in selections
  - You can alter the opacity of the window between 30 and 100 percent

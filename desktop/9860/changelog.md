@@ -8,13 +8,13 @@
 ### User Interface
 - Universal Apps now have a black title bar instead of a colored one
 - Multiple animations have been altered
-- Swiping down from the screens edge will show an apps title bar
+- Swiping down from the screen's edge will show an apps title bar
 
 ### Settings
 - New panels, settings and options
  - DataSense is added to manage data connections
  - Battery Saver is added to manage energy consumption on mobile devices
- - You can now choose if you want new Windows builds as soon as they are released, or want to wait a couple of days
+ - You can now choose if you want new Windows builds as soon as they are released, or if you want to wait a couple of days
  - You can now add Optional Features through the app
  - Battery Saver (Devices) has been added to show usage details
  - Personalization settings have been added

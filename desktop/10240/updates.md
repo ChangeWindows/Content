@@ -1,5 +1,5 @@
 ## Previous updates
-Unknown changes and fixes where applied in the versions listed below released on their respective dates for the Current Branch, Current Branch for Business and Long-Term Support Branch:
+Unknown changes and fixes were applied in the versions listed below released on their respective dates for the Current Branch, Current Branch for Business and Long-Term Support Branch:
 
 - 10240.16405, _released on 29 July 2015, [KB 3074683](https://support.microsoft.com/?kbid=3074683)_
 - 10240.16413, _released on 5 August 2015, [KB 3081424](https://support.microsoft.com/?kbid=3081424)_
@@ -74,8 +74,8 @@ _Released on 10 May 2016 for the Preview Release Ring, Current Branch, Current B
 ### Fixed issues
 - Fixes a memory leak caused by opening a PDF more than once
 - Fixes an issue with text alignment for RTL languages in Edge
-- Fixes an issue that caused sign ins to fail after changing the password
-- Fixes an issue that caused some CompactFlash cards to got corrupted
-- Fixes an issue that caused network connectivity to get lost when roaming between Wi-Fi access points
+- Fixes an issue that caused sign-ins to fail after changing the password
+- Fixes an issue that caused some CompactFlash cards to become corrupted
+- Fixes an issue that caused a loss of network connectivity when roaming between Wi-Fi access points
 - Fixes additional issues with Internet Explorer 11
 - Fixes security issues in Microsoft Graphics Component, remote procedure calls, Internet Explorer 11, Microsoft Edge, Windows Journal, JScript, Schannel, Windows Shell and Virtual Secure Mode

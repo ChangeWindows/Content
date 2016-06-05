@@ -4,18 +4,18 @@
 ### Interface
 - Jumplists have a new design
 - Some context menus have been changed
-- Some icons have been replaced (including the Register Editor)
-- Title bar colors are now the same color as you accent color instead of a faded variation of it
+- Some icons have been replaced (including the Registry Editor)
+- Title bar colors are now the same color as your accent color instead of a faded variation of it
 - WinRT apps will no longer show a colored icon on the taskbar if available
 
 ### Features
 - Cortana
  - Cortana can now understand your inked notes
- - Cortana can now track you movies and ticketed events
+ - Cortana can now track your movies and ticketed events
  - Cortana can now warn you for missed phone calls
- - Cortana can now save enery when you're away
+ - Cortana can now save energy when you're away
 - You're default printer is now the last printer you've used
-- You can now uwe Hyper-V within another Hyper-V guest machine
+- You can now use Hyper-V within another Hyper-V guest machine
 
 ### Lock screen
 - Windows Spotlight can now be set as the lock screen for Enterprise and Education users
@@ -30,12 +30,12 @@
 - The note feature has a new icon
 
 ### Settings
-- The settings app splash screen now uses the accent color of the user
+- The settings app splash screen now uses the user's accent color
 - The About page now shows the Windows 10 logo in the user's accent color
 - Installing apps to another drive has been enabled again
-- You can now change where Windows has to store offline maps
+- You can now change where Windows stores offline maps
 - Changing the scalling settings will now go in effect when changed, without clicking "Apply"
-- You can now locate your device with GPS and Location tracking in "Find my device"
+- You can now locate your device with GPS and location tracking in "Find my device"
 - The Windows Insider Ring now has to be set with a slider instead of a dropdown
 - The Activation-screen no longer shows a product ID and key but the status if you've been digitally entitled
 

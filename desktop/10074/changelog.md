@@ -33,7 +33,7 @@
 
 ### Apps
 - Getting started
- - Gettings started has a new tile icon (which appeared on the splash screen in 10061)
+ - Getting started has a new tile icon (which appeared on the splash screen in 10061)
 - People
  - People has been revamped
 
