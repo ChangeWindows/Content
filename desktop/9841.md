@@ -6,15 +6,15 @@
 ### Desktop
 - Task view has been added
 - Support for multiple desktops
-- Task view replaced the App Switcher
-- Modern UI apps now can run on the desktop
+- Task view has replaced the App Switcher
+- Modern UI apps can now be run on the desktop
 - Aero Snap has been updated
  - You can now snap up to 4 windows
  - When you snap a window and resize it, then snap another window to the other side, it will fill up the left screen instead of half the screen
  - When snapping an app, Windows will prompt a overview of other running apps to snap along
 - Universal Apps now can create a shortcut on the desktop or any other folder
 - You can now pin the Recycle Bin to the taskbar
-- You can now scroll a windows by pointing the cursor to it
+- You can now scroll a window by pointing the cursor to it
 - When used on a touch enabled device, the icons in the notification area have more space
 
 ### File Explorer
@@ -49,7 +49,7 @@
 - Command prompt
  - Standardized key shortcuts
  - Selecting text is now possible
- - Past from clipboard is now possible
+ - Paste from clipboard is now possible
  - Text wrap can be altered on resize
  - Leading zeros can now be trimmed in selections
  - You can alter the opacity of the window between 30 and 100 percent

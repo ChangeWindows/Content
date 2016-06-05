@@ -9,7 +9,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - In All apps, the numbered apps are now listed under "#" instead of "0-9"
 - "Recently added" can now show up to 3 apps instead of just one
 - All Apps is now full screen in tablet mode
-- The left rail now only consists out of icons that can be expanded with the hamburger button
+- The left rail now only consists of icons that can be expanded with the hamburger button
 - You can now sync notifications between desktop and Mobile (as long as Mobile is on build 14352+)
 - The Action Center icon has been moved to the right hand side of the clock
 - The Action Center icon now shows the number of new notifications and logos of the apps that have triggered them
@@ -17,7 +17,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Notifications now support hero images and more
 - Clicking the Wi-Fi quick action will now open the Network fly-out instead of toggling Wi-Fi on and off
 - You can now manage all your playback devices from the Sound fly-out
-- You can now right-click on header of an app in the Action Center instead of only the name and close icon
+- You can now right-click on the header of an app in the Action Center instead of only the name and close icon
 - Dismissing all notifications from one app has been made easier with a larger target
 - When an app is shown with a name like "@{&lt;app package name&gt;}", there will now be an option to remove it
 - You can now dismiss notifications by middle clicking on them
@@ -42,20 +42,20 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now share map directions between your devices
 - Cortana can now automatically fetch the required speech language for you
 - Cortana can now give reminder suggestions
-- When you missed a call, got a message, etc. Cortana will now notify you on te desktop
+- When you missed a call, recieved a message, etc. Cortana will now notify you on the desktop
 - OneDrive is now intergrated in search
 - Improved share UI for reminders
 - Cortana can now search in your Office 365 account
 - You can now let Cortana play music from the Groove Music Catalog
 - You can now set a timer in Cortana
 - You can now enable Cortana to help you on the lock screen with reminders, appointments and messages
-- The buttons for Settings and Feedback in ther ail have been moved to the bottom
+- The buttons for Settings and Feedback in the rail have been moved to the bottom
 - When listening to you, Cortana now shows a sound wave instead of random characters
 
 ### Desktop
 - You can now show a window on all your desktops
 - You can now set the taskbar to auto hide only for tablet mode
-- The clock on the taskbar now has calendar integrated into it
+- The clock on the taskbar now has the calendar integrated into it
 - The clock is now visible on all monitors the taskbar is visible on
 - UWP apps can now show a badge on top of their icon in the taskbar
 - You can now switch desktops by swiping with 4 fingers over the touchpad
@@ -94,17 +94,17 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - The address bar now supports "Paste and go"
  - The address bar now supports "Paste and search"
  - When a download has completed, Edge will not show a notification in the Action Center
- - When the window becomes to narrow, the Hub, Web Notes and Share button will appear in the ellipses menu as icons instead of text
+ - When the window becomes too narrow, the Hub, Web Notes and Share button will appear in the ellipses menu as icons instead of text
  - You can now upload folders
  - On Mobile, when an app opens a new tab, pressing back will now close it
- - On Mobile, when typing in a text box, you can now use the pase button above the keyboard
+ - On Mobile, when typing in a text box, you can now use the paste button above the keyboard
  - When Flash content isn't the focus, Edge will pause it automatically
  - Edge now supports importing favorites from Firefox
  - Imported favorites will now be put in their own folder, instead of the already existing favorites folder
  - The Favorites hub now uses a tree view
  - When closing Edge with running downloads, Edge will now warn you
  - You can now set a default save location for downloads
- - Edges default opening settings are now a dropdown
+ - Edge's default opening settings are now a dropdown
  - There is now an accessibility tree view in F12
  - You can now debug extensions through F12
  - You can now use DOM API profiling
@@ -149,15 +149,15 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now choose between dark and light mode
  - You can now let your PC only be visible to project when plugged in
  - The color for title bars and the color for the taskbar, start and Action Center can now be toggled separately from each other
- - You can now manage on a per-app base if an app can run in the background or not, or if this has to be hanled by Windows
- - Windows Update now allows you to set the time you're most active in so that it can avoid updating at that point
+ - You can now manage on a per-app basis if an app can run in the background or not, or if this has to be handled by Windows
+ - Windows Update now allows you to set the time you're most active in so that it can avoid updating during that period
  - You can now override Active Hours with the Restart Options
- - The Windows Update notification after installing an update now takes you to the device's update history
+ - The Windows Update notification, after installing an update, now takes you to the device's update history
  - You can now enable Device Portal
  - You can now enable a number of developer-focused settings for File Explorer
  - There are now a number of developer-focused settings for Remote Desktop
  - You can now share your Wi-Fi as a hotspot
- - PowerShell also has a number for develop-focused settings
+ - PowerShell also has a number of develop-focused settings
  - You can now set the position of all quick actions in the Action Center and choose which should be visible
  - The Pen settings have been updated to allow you to set pen shortcuts
  - You can now reset an app from the App settings
@@ -172,14 +172,13 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Settings now has a network speed test integrated
  - Hotspot 2.0 settings have been added under Wi-Fi
  - You can now disable badges on taskbar buttons
- - You can now enable the lock screen to show your email address
  - You can now see all add-ons per app
- - Under "Temporary Files", Windows now shows the amount of storage pending updates and builds are using
+ - Under "Temporary Files", Windows now shows the amount of storage that pending updates and builds are using
  - Some of the activation info has been removed from "Activation"
  - Apps for websites has been added under System
  - Sharing a network with your contacts in Wi-Fi Sense is no longer possible
- - The IME Settings page now have a "Clear Input History" option
- - Upgrading from Pro to Enterprise no longer requires you to wipe the system and won't require a reboot
+ - The IME Settings page now has a "Clear Input History" option
+ - Upgrading from Pro to Enterprise no longer requires you to wipe the system and doesn't require a reboot
  - You can now enable Limited Periodic Scanning which provides a second line of defence when using other Antivirus solutions than Windows Defender
  - Under Privacy, you can now enable apps on other devices to start on your PC to continue where you left off
  - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
@@ -198,7 +197,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Battery settings are now displayed on one single page
  - Under "Activation" Windows will now say that the license is coupled to your account
  - Update History is moved out of Advanced Options in Windows Update
- - Insiders can no longer set change the Feedback behavior, it is now set to always ask questions
+ - Insiders can no longer change the Feedback behavior, it is now set to always ask questions
  - The "Updates installed" notification now links to the Update history instead of Windows Update
  - Some icons have been updated for individual pages
  - Ctrl + E now sets focus to the search bar
@@ -210,7 +209,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows now has a one-handed Japanese kana keyboard
 - The Text Input Canvas has a new Japanese lined-mode
 - Improved Japanese IME with improved predictions, cloud suggestion and typing history
-- Improved battery life for Connected Standby PC's
+- Improved battery life for Connected Standby PCs
 - You can now enable paths with more than 260 characters for NTFS
 - The installation is no longer divided in 3 steps and now shows as just 1 step
 - Improved performance for account migration
@@ -223,12 +222,12 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Messaging Everywhere Beta has been added to the Messaging app
 - You can now swipe a conversation to delete it in Messaging
 - You can now attach photos in Skype messages
-- Option to use the Camera app to take a photo and send it with Skype
+- Option is now available to use the Camera app to take a photo and send it with Skype
 - Messaging + Skype will now sync your messages between your phone and PCs
 - The Windows Feedback app has been removed
 - The Insider Hub app has been renamed to Feedback Hub and can now process Feedback
  - You can now react on feedback in the Feedback Hub
- - The Feedback Hub now suggest a category when you've typed in your feedback
+ - The Feedback Hub now suggests a category when you've typed in your feedback
  - The "Alerts" page in the Feedback Hub has been removed
  - The Feedback Hub will now show Microsoft responses
 
@@ -243,7 +242,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Command Prompt has improved font selection, international characters rendering, cursor rendering and hiding improvements, background color pointing improvements and improved scrolling
 - Improvements to OneCore
 - The emoji set has been completely revamped
-- The default emoji’s are no longer grey, but yellow
+- The default emojis are no longer grey, but yellow
 - Windows 10 Education is now supported for the Windows Insider Preview
 - Improved performance for Japanse IME
 - The Windows build number is now synced between desktop and Mobile

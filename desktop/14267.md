@@ -24,7 +24,7 @@
 
 ### Apps
 - You can now attach photos in Skype messages
-- Option to use the Camera app to take a photo and send it with Skype
+- Option now available to use the Camera app to take a photo and send it with Skype
 
 ### And further
 - Windows 10 Education is now supported for the Windows Insider Preview
@@ -36,4 +36,4 @@
 - Fixes an issue where Windows would display the wrong storage capacity for the system volume
 
 ### Known issues
-- Upgrading to this build when using Hyper-V wih more than one vswitch or multiple virtual network adapters may cause your networking connectivity to be lost
+- Upgrading to this build when using Hyper-V with more than one vswitch or multiple virtual network adapters may cause your networking connectivity to be lost

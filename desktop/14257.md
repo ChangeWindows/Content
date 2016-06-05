@@ -10,5 +10,5 @@
 ### Known issues
 - Using "Reset This PC" would make your PC unusable
 - A WSClient.dll error dialog might appear after logging in
-- The front-facing camera on PCs with Intel RealSense won't work, rendering Windows Hello defect
+- The front-facing camera on PCs with Intel RealSense won't work, rendering Windows Hello unusable
 - Windows may show that Airplane Mode is enabled, though your WiFi is still working

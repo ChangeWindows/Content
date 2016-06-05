@@ -49,7 +49,7 @@
 - New panels, settings and options
  - The Windows Spotlight lock screen has been removed for non-Home
  - Automatic color picker now works
- - You can now enable features that aren't enabled by default trough Windows Update
+ - You can now enable features that aren't enabled by default through Windows Update
  - You can now exit the Windows Insider program
 - Visual updates and others
  - There are new animations when switching applets
@@ -66,11 +66,11 @@
 - New "Phone companion" app
 - New "Microsoft Wi-Fi" app
 - Photos
- - The photos app now supports GIFs
+ - The Photos app now supports GIFs
  - You can now choose to open a picture with another app
 - Insider Hub
  - The Insider Hub has to be activated in "Add features"
- - There Insider Hub has a new icon
+ - The Insider Hub has a new icon
 
 ### Other features
 - You can now set a timer in the snapping tool

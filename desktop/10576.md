@@ -1,5 +1,5 @@
 ### Interface
-- The context menus in start no longer use your accent color
+- The context menus in start no longer use the user's accent color
 - The title bar of WinRT apps will now take the color of the splash screen while starting
 - Some context menus have been updated
 
@@ -24,10 +24,10 @@
 
 ### Fixed issues
 - Fixes an issue where the Xbox app would consume gigabytes of memory on your PC when any Win32 game is installed that is identified as a game in the Xbox app
-- The Search box will now work again in a no-Cortana location
+- The Search box will now work again in a location that Cortana is not supported
 
 ### Known issues
-- Notification sounds gets reduced by 75% for a period of time
-- Upgrading will cause the lose of all your Skype messages and contacts in the Messaging app
-- On small formfactors with rotation or virtual mode screen size set larger than the physical screen will experience bluescreens when upgrading
+- Notification sounds get reduced by 75% for a period of time
+- Upgrading will cause the loss of all your Skype messages and contacts in the Messaging app
+- On small formfactors with rotation or virtual mode, screen size set larger than the physical screen will experience bluescreens when upgrading
 - Surface Pro 3s may shut down instead of going into sleep when using the power button
