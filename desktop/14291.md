@@ -9,13 +9,13 @@
 - The address bar now supports "Paste and go"
 - The address bar now supports "Paste and search"
 - When a download has completed, Edge will not show a notification in the Action Center
-- When the window becomes too narrow, the Hub, Web Notes and Share button will appear in the ellipses menu as icons instead of text
+- When the window becomes too narrow, the Hub, Web Notes and Share buttons will appear in the ellipses menu as icons instead of text
 - The padding between the URL bar and Hub-icon is slightly larger
 - Edge now supports VP9 behind a flag
 
 ### Settings
-- You can now remove temporary files, downloads, recycle bin and previous Windows installaties from Storage
-- Wi-Fi Sense and and Paid Wi-Fi settings are now relacted to Wi-Fi Settings
+- You can now remove temporary files, downloads, recycle bin and previous Windows installations from Storage
+- Wi-Fi Sense and and Paid Wi-Fi settings are now relocated to Wi-Fi Settings
 
 ### System
 - Windows now has a one-handed Japanese kana keyboard

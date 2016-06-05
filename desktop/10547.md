@@ -4,8 +4,8 @@
 - Tiles now can have jumplists
 - Cortana now also works for local accounts
 - The context menus for tiles have been reorganized
- - You can now share apps trough this menu
- - You can now review apps trough this menu
+ - You can now share apps through this menu
+ - You can now review apps through this menu
 - Desktop app tiles now can have their own color
 - Start now supports up to 2048 tiles (up from 512)
 
@@ -53,7 +53,7 @@
 
 ### Windows Apps
 - Windows Apps now have an opening and closing animation
-- Windows Apps now can have jumplists
+- Windows Apps can now have jumplists
 - Multiple apps now use a colored icon (Windows Store, Mail, Calendar, Calculator, etc.)
 - Many apps have been updated
 
@@ -72,5 +72,5 @@
 
 ### Known issues
 - Windows Store apps might fail to update automatically
-- When using notepad from the command line to open a file wiht just the file name will triger a permission error
+- When using notepad from the command line to open a file with just the file name will triger a permission error
 - Clicking on toggles in the Action Center to quickly might cause the Windows Shell to block and no longer open any fly-outs like battery, audio, network, etc.

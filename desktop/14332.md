@@ -40,7 +40,7 @@
 - All Edge extensions will be removed after upgrading to this build
 - Feedback Hub will show in English only, no matter what language your device is on
 - It will take 20 to 30 minutes before the Feedback Hub populates itself
-- The Desktop App Converter Preview (Project Centennial) won't work
+- The Desktop App Converter Preview (Project Centennial) doesn't work
 - All Tencent online games do not work in this build
 - ALT + Y is broken in the new User Account Control UI
 - If you played DRM-protected content in services like Groove, Movies & TV, Netflix, Amazon or Hulu, updating to this build may make it impossible to play content

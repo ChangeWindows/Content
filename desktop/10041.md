@@ -1,5 +1,5 @@
 ### Start and Action Center
-- The start menu now can be made transparent
+- The start menu can now be made transparent
 - You can now pin tiles by dragging apps from the "All apps" list to the start screen
 - "Places" no longer have icons, and the "Places" title has been removed
 - You can now put the PC to sleep with the power button in start

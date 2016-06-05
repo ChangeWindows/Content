@@ -27,7 +27,7 @@
  - There is a new Internet Explorer-like New tabs page
  - There is a new MSN.com-like New tabs page
  - Pages that are using sound now show this in their tab
- - You can now pin sites to start again
+ - You can now pin sites to the start menu again
  - Edge can now save passwords and forms
  - Edge now supports InPrivate browsing
  - When Reading Mode-compatible content is found, the icon will animate

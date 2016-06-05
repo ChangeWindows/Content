@@ -19,7 +19,7 @@
 
 ### File Explorer
 - You can now choose the default folder for File Explorer
-- A "Pin to quick access" options has been added to the ribbon in the File Explorer, replacing Favorites
+- A "Pin to quick access" option has been added to the ribbon in the File Explorer, replacing Favorites
 - Apps can now run within File Explorer (or pick a photo, Photos will load in File Explorer, for example)
 
 ### User Interface
@@ -90,9 +90,9 @@
  - KB3034229 is required to see the new OneNote app
 - Photos
  - Photos has been revamped
- - New Photos manage settings and features
- - Photos now remove duplicates automatically
- - Photos are now enhanced automatically
+ - New Photos, manage settings and features
+ - Photos now removes duplicates automatically
+ - Images are now enhanced automatically
 - Settings
  - Settings has been merged with Control Panel
  - Settings has been revamped completely

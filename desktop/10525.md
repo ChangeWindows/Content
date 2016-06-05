@@ -5,7 +5,7 @@
 - Base for Object RTC support
 
 ### Settings
-- The Settings-icon on the taskbar has no longer a background color
+- The Settings-icon on the taskbar no longer has a background color
 - The Settings-tile is now transparent for non-fresh installs too
 
 ### And further

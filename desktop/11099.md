@@ -9,7 +9,7 @@
 - The full buildstring is now displayed at the bottom of the desktop
  
 ### Fixed issues
-- Fixes the progress dialogues for copy/past actions
+- Fixes the progress dialogues for copy/move actions
 
 ### Known issues
 - Log on for devices using Citrix XenDesktop may be broken
