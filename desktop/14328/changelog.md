@@ -60,6 +60,7 @@
  - Settings now has a network speed test integrated
  - Hotspot 2.0 settings have been added under Wi-Fi
  - You can now disable badges on taskbar buttons
+ - You can now prevent the lock screen from showing your email address
  - You can now see all add-ons per app
  - Under "Temporary Files", Windows now shows the amount of storage that pending updates and builds are using
  - Some of the activation info has been removed from "Activation"
