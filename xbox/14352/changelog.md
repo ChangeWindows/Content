@@ -1,8 +1,3 @@
-This changelog is cumulative of every build released after 10586.1202 and will form the changelog for the Xbox One Summer Update. This is a draft and is subject to change.
-
-### Last updated to match with version 10.0.14352
-Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
-
 ### Dashboard
 - Cortana is now available on Xbox One and integrated in the dashboard
 - The "Xbox"-voice command has been replaced with "Hey Cortana"
