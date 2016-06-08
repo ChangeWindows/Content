@@ -9,6 +9,7 @@
 
 ### Cortana and search
 - Cortana should now listen more reliably after tapping the mic button
+- Cortana's home UI no longer shows your cards but hints and a button to show the cards
 
 ### Desktop
 - WIN + Alt + D can now open the clock flyout

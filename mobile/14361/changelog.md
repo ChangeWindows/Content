@@ -3,6 +3,7 @@
 
 ### Cortana and search
 - Cortana should now listen more reliably after tapping the mic button
+- Cortana's home UI no longer shows your cards but hints and a button to show the cards
 
 ### User Interface
 - A number of icons, like the network icon have been updated
