@@ -17,10 +17,8 @@
 - A number of icons, like the Blu-Ray icon and network icon have been updated
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 37.14316 with the following updates
+- Edge has been updated from version 38.14352 to version 38.14361 with the following updates
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 12.10586 to version 12.14316 with the following updates
-- The following flags have been added
 
 ### Settings
 - New panels, settings and options
