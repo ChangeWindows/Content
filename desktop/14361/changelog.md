@@ -19,12 +19,16 @@
 ### Microsoft Edge
 - Edge has been updated from version 38.14352 to version 38.14361 with the following updates
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
+- The following flags have been added
+ - TCP Fast Open is disabled by default but can be enabled
+ - A flag has been added to enable Standard Fullscreen API
 
 ### Settings
 - New panels, settings and options
  - Active hours can now be set to a range of up to 12 hours instead of 10
  - Windows Defender will no longer sow recap notification in normal mode
 - Visual updates and others
+ - Some of the options under Network and Internet > Status now have an icon and description
  - The app has received a visual overhaul with a new active-indication for panels
  - The sidebar and titlebar are now white or black, depending on your color, instead of gray
  - Titles in the app are slightly larger

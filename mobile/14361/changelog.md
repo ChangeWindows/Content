@@ -10,6 +10,9 @@
 ### Microsoft Edge
 - Edge has been updated from version 38.14352 to version 38.14361 with the following updates
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
+- The following flags have been added
+ - TCP Fast Open is disabled by default but can be enabled
+ - A flag has been added to enable Standard Fullscreen API
 
 ### Settings
 - New panels, settings and options
