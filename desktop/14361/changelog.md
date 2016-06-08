@@ -34,6 +34,9 @@
 ### System
 - Windows 10 now provides support for Hyper-V containers
 
+### Apps
+- The Feedback Hub has a cleaner UI
+
 ### Other features
 - Task Manager settings will now be saved after upgrading to a new build
 
