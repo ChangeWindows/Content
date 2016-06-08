@@ -15,6 +15,7 @@
 
 ### User Interface
 - A number of icons, like the Blu-Ray icon and network icon have been updated
+- The circling line-loading icon has been replaced globally with the circling dots-loading icon again
 
 ### Microsoft Edge
 - Edge has been updated from version 38.14352 to version 38.14361 with the following updates
