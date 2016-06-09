@@ -29,6 +29,7 @@
 - New panels, settings and options
  - Active hours can now be set to a range of up to 12 hours instead of 10
  - Windows Defender will no longer sow recap notification in normal mode
+ - Notifications has been added under "Privacy"
 - Visual updates and others
  - Some of the options under Network and Internet > Status now have an icon and description
  - The app has received a visual overhaul with a new active-indication for panels
