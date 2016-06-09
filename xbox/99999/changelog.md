@@ -34,6 +34,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The interface language and keyboard language are no longer tied to the region
 - When starting or shuting down the console with the controller, it will now make a beep-noise
 - TV's that use overscanning can now be compensated by showing borders around apps
+- You can now enable and disable SmartScreen
+- You can now enable and disable Advertising ID
 
 ### And further
 - You can now communicate with gamers playing a Win32-game, including party chats, game clips and screenshots
