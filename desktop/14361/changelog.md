@@ -1,9 +1,9 @@
 ### Start and Action Center
 - The margin at the top off start is now smaller
 - Scrollbars will now disappear in start as soon as you leave their active area
-- The size of icons in Action Center has been decreased frop 64x64 to 48x48
-- The Windows Ink ruler is now longer
-- The Touch Ink icon hass been changed to better  resemble the Workspace icon
+- The size of icons in Action Center has been decreased from 64x64 to 48x48
+- The Windows Ink ruler is now longer to make it cover the screen of a Surface Book
+- The Touch Ink icon has been changed to better resemble the Workspace icon
 - Sketchpad's thumbnail should now load faster
 - "Clear all" is now its own seperate button instead of being part of the "Erase"-button
 
@@ -32,7 +32,7 @@
 - Visual updates and others
  - Some of the options under Network and Internet > Status now have an icon and description
  - The app has received a visual overhaul with a new active-indication for panels
- - The sidebar and titlebar are now white or black, depending on your color, instead of gray
+ - The sidebar and title bar are now white or black, depending on your color, instead of gray
  - Titles in the app are slightly larger
 
 ### System
@@ -53,13 +53,13 @@
 - Fixes an issue in Edge that caused icons to disappear after changing the DPI settings
 - Fixes an issue where thumbnails for DNG files where not shown in File Explorer
 - Fixes an issue with clipping on the bottom or side of context menus in start
-- Fixes an issue where pressing the Enter-key would now submit your Wi-Fi password in the network flyout
+- Fixes an issue where pressing the Enter-key would now submit your Wi-Fi password in the network fly out
 - Fixes the focus being lost from the search field after using backspace
 - Fixes an issue that kept apps like Photos from changing the desktop background
 - Fixes an issue where opening Sticky Notes from Start wouldn't dismiss Start
 - Fixes an issue that prevented you from making a profile picture with the camera in Settings
 - Fixes an issue where the Command Prompt wouldn't be maximized correctly on high DPI monitors
-- Fixes an issue where Command Prompt wouldn't refresh when executing an upards Ctrl + F search with long output of text
+- Fixes an issue where Command Prompt wouldn't refresh when executing an upwards Ctrl + F search with long output of text
 - Fixes an issue where the taskbar's volume icon would show a wrong state for 0% and muted
 - Fixes an issue where applying a new save location in Storage Settings would result in any other not-saved changes being lost
 
