@@ -1,5 +1,5 @@
 ## What's new in Xbox One Update version 10.0.14352.1020?
-_Released on 9 June 2016_
+_Released on 8 June 2016_
 
 ### Settings and behavior
 - You can now enable and disable SmartScreen
