@@ -6,6 +6,7 @@
 - The Touch Ink icon has been changed to better resemble the Workspace icon
 - Sketchpad's thumbnail should now load faster
 - "Clear all" is now its own seperate button instead of being part of the "Erase"-button
+- Notes now stay on the desktop after closing the Sticky Notes workspace
 
 ### Cortana and search
 - Cortana should now listen more reliably after tapping the mic button
@@ -29,10 +30,11 @@
 - New panels, settings and options
  - Active hours can now be set to a range of up to 12 hours instead of 10
  - Windows Defender will no longer sow recap notification in normal mode
- - Notifications has been added under "Privacy"
+ - Notifications has been added under "Privacy" to change which apps have access to your notifications
+ - "Activation" now has a description to help people change their product key
 - Visual updates and others
  - Some of the options under Network and Internet > Status now have an icon and description
- - The app has received a visual overhaul with a new active-indication for panels
+ - The app has received a visual overhaul with a new active-indication for panels and the home button located above the search bar and taking the full width of the sidebar
  - The sidebar and title bar are now white or black, depending on your color, instead of gray
  - Titles in the app are slightly larger
 
@@ -41,9 +43,14 @@
 
 ### Apps
 - The Feedback Hub has a cleaner UI
+- The color-selector for Sticky Notes has been redesigned
+- Before removing a note, Sticky Notes will now warn you
 
 ### Other features
 - Task Manager settings will now be saved after upgrading to a new build
+
+### And further
+- Windows now identifies itself as version 1607
 
 ### Fixed issues
 - Fixes an issue where the pencil tool in Ink would not be flush along the ruler
