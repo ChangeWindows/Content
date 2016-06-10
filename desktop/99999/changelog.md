@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14352
+### Last updated to match with version 10.0.14361
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -21,6 +21,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Dismissing all notifications from one app has been made easier with a larger target
 - When an app is shown with a name like "@{&lt;app package name&gt;}", there will now be an option to remove it
 - You can now dismiss notifications by middle clicking on them
+- Scrollbars will now disappear in start as soon as you leave their active area
 
 ### Cortana and search
 - Cortana is now available on the lock screen
@@ -51,6 +52,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - You can now enable Cortana to help you on the lock screen with reminders, appointments and messages
 - The buttons for Settings and Feedback in the rail have been moved to the bottom
 - When listening to you, Cortana now shows a sound wave instead of random characters
+- Cortana should now listen more reliably after tapping the mic button
+- Cortana's home UI no longer shows your cards but hints and a button to show the cards
 
 ### Desktop
 - You can now show a window on all your desktops
@@ -62,6 +65,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The File Explorer has a new icon
 - File Explorer is no longer pinned to the taskbar by default
 - Windows will now remember the "Show windows from this app on all desktops"-setting for each window
+- WIN + Alt + D can now open the clock flyout
 
 ### User Interface
 - The lock screen no longer shows your email address
@@ -71,14 +75,14 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Controls in taskbar previews look now better on high resolutions
 - Fast user switching now also works with Picture Password
 - The logon screen now uses the lockscreen image as background
-- There is a new loading animation
 - The upgrade and installation experience has a new design
 - When closing a snapped app in tablet mode, the other app will take the full screen
 - The "Shutdown Windows"-dialog has a new icon
 - When your profile starts to load, the background on the lock screen will zoom in a little
+- A number of icons, like the Blu-Ray icon and network icon have been updated
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14342 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14361 with the following updates
  - Edge now supports Extensions
  - Extensions can now add an icon to the address bar
  - Extensions can now be downloaded from the Windows Store
@@ -110,7 +114,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now use DOM API profiling
  - Developer items no longer appear by default in context menus and have to be enabled by visiting the F12 tools one time
  - "What's new and tips" has been added to the menu in Edge
-- EdgeHTML has been updated from version 13.10586 to version 14.14342 with the following updates
+ - Download notificaions in Edge now include filenames, download status and site domain on separate lines
+- EdgeHTML has been updated from version 13.10586 to version 14.14361 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
@@ -137,6 +142,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now allow Edge to use an unrestricted amount of memory
  - You can now enable H.264/AVC for Object RTC
  - Experimental support for TCP Fast Open can be enabled
+ - TCP Fast Open is disabled by default but can be enabled
+ - A flag has been added to enable Standard Fullscreen API
 
 ### Settings
 - New panels, settings and options
@@ -185,6 +192,9 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
  - Recovery now shows a link to a help thread about starting anew with Windows
  - You can now allow Windows to use your login credentials to automatically finish setting up your account after an upgrade
+ - Windows Defender will no longer sow recap notification in normal mode
+ - Notifications has been added under "Privacy" to change which apps have access to your notifications
+ - "Activation" now has a description to help people change their product key
 - Visual updates and others
  - The page title and search bar have been moved to the sidebar
  - Taskbar settings have been moved from System to Personalization
@@ -205,8 +215,13 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Ctrl + E now sets focus to the search bar
  - The "Change product key" link now has an icon
  - Windows Defender has been updated to version 4.10
+ - Some of the options under Network and Internet > Status now have an icon and description
+ - The app has received a visual overhaul with a new active-indication for panels and the home button located above the search bar and taking the full width of the sidebar
+ - The sidebar and title bar are now white or black, depending on your color, instead of gray
+ - Titles in the app are slightly larger
 
 ### System
+- Windows 10 now provides support for Hyper-V containers
 - You can now use the Ubuntu Bash natively in Windows
 - Windows now has a one-handed Japanese kana keyboard
 - The Text Input Canvas has a new Japanese lined-mode
@@ -238,6 +253,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The Game Bar now supports more full-screen games
 - The Credentials window now allows you to paste into the name and password fields
 - Tapping anywhere in the "Set location" notification will now allow you to set a default location
+- Task Manager settings will now be saved after upgrading to a new build
 
 ### And further
 - Command Prompt has been improved for High-DPI displays
@@ -249,4 +265,5 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Improved performance for Japanse IME
 - The Windows build number is now synced between desktop and Mobile
 - The full buildstring is now displayed at the bottom of the desktop for preview releases
+- Windows now identifies itself as version 1607
 - Copyright info has been updated to 2016

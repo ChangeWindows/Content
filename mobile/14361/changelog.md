@@ -6,7 +6,6 @@
 - Cortana's home UI no longer shows your cards but hints and a button to show the cards
 
 ### User Interface
-- A number of icons, like the network icon have been updated
 - The circling line-loading icon has been replaced globally with the circling dots-loading icon again
 
 ### Microsoft Edge

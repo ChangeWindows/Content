@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14356
+### Last updated to match with version 10.0.14361
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -16,6 +16,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The size of notification icons has been decreased from 64x64 to 48x48
 - App names on Live tiles now follow the Ease of Access Text Scaling setting
 - The default wallpaper for a new device has been changed
+- When you dismiss multiple notifications at once, the background will no longer fade to black between them
 
 ### Cortana and search
 - Cortana is now available in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
@@ -36,6 +37,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - You can now send a picture from your phone to your PC through Cortana
 - Notifications on your phone will now be synced to your PC with Cortana
 - Cortanas listening animation has been updated
+- Cortana should now listen more reliably after tapping the mic button
+- Cortana's home UI no longer shows your cards but hints and a button to show the cards
 
 ### User Interface
 - The back-button on the lock screen has been replaced with a camera button
@@ -44,10 +47,9 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The data migration process now uses a larger font
 - The "Goodbye" message will now stay visible until the device has been shut down completely
 - Glance screen now follows the Ease of Access scaling settings
-- The circling dots-loading animation is now globally replaced with a new animation
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to 38.14342
+- Edge has been updated from version 25.10586 to 38.14361
  - You can now swipe to go back and forward
  - The X-button to close tabs is now larger
  - Word Flow now works in the Edge address bar
@@ -56,7 +58,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Edge now shows a "Go forward" item in the ellipses menu
  - When an app opens a new tab, pressing back will now close it
  - When typing in a text box, you can now use the pase button above the keyboard
-- EdgeHTML has been updated from version 13.10586 to 14.14342
+ - Download notificaions in Edge now include filenames, download status and site domain on separate lines
+- EdgeHTML has been updated from version 13.10586 to 14.14361
  - Default parameters
  - Async/await
  - Object.values and Object.entries
@@ -81,6 +84,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now set a flag to enable VP9 support
  - ES6 Regex symbols
  - Web Payments
+ - TCP Fast Open is disabled by default but can be enabled
+ - A flag has been added to enable Standard Fullscreen API
 
 ### Settings
 - New panels, settings and options
@@ -104,6 +109,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "Always show Glance screen when charging" is now the default behavior for Glance screen
  - The Mobile Hotstpot page now gives clearer errors when setting up a hotspot fails due to the lack of a SIM being connected
  - The refresh rate for Wi-Fi data usage is now faster
+ - Active hours can now be set to a range of up to 12 hours instead of 10
+ - As of build 14361, your DPI settings will be backed up in the cloud and restored after your device is refreshed
 - Visual updates and others
  - Adjust brightness automatically is now enabled by default
  - Every page in Settings now has its own icon
@@ -112,21 +119,6 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - The background of the category overview and sub-category overview is now black instead of dark grey
  - A selected sub-category now has a Groove-like select state
  - The title of pages is now displayed larger
-
-### Apps
-- Messaging now supports Messaging Everywhere
-- You can now swipe a conversation to delete it in Messaging
-- The phone app now show an indicator for missed calls and voicemails
-- You can now attach photos in Skype messages
-- Multiple mojis are now available in messages
-- Option to use the Camera app to take a photo and send it with Skype
-- Windows Maps has been redesigned
-- The alarm will now go louder faster when using your music
-- FM Radio is no longer installed as a default app
-- The Insider Hub and Windows Feedback apps have been merged to Feedback Hub
- - You can now react on feedback in the Feedback Hub
- - The Feedback Hub now suggest a category when you've typed in your feedback
- - The "Alerts" page in the Feedback Hub has been removed
 
 ### System
 - Continuum now supports USB Ethernet
@@ -144,6 +136,24 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The call in-progress banner is now shown above notifications so you no longer need to dismiss that notification to end the call
 - The emoji set has been completely revamped
 - The default emoji’s are no longer grey, but yellow
+- The text prediction engine has bene improved to show candidates based on the current keyboard language, instead of the language that was used when the word was written
+- 5-inch devices like the Lumia 640 and 830 can now also use the one-handed keyboard
+
+### Apps
+- Messaging now supports Messaging Everywhere
+- You can now swipe a conversation to delete it in Messaging
+- The phone app now show an indicator for missed calls and voicemails
+- You can now cycle through pages in the phone app infinitely
+- You can now attach photos in Skype messages
+- Multiple mojis are now available in messages
+- Option to use the Camera app to take a photo and send it with Skype
+- Windows Maps has been redesigned
+- The alarm will now go louder faster when using your music
+- FM Radio is no longer installed as a default app
+- The Insider Hub and Windows Feedback apps have been merged to Feedback Hub
+ - You can now react on feedback in the Feedback Hub
+ - The Feedback Hub now suggest a category when you've typed in your feedback
+ - The "Alerts" page in the Feedback Hub has been removed
 
 ### And further
 - Windows now identifies itself as version 1607
