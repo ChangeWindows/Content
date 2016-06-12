@@ -100,8 +100,6 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - When a download has completed, Edge will not show a notification in the Action Center
  - When the window becomes too narrow, the Hub, Web Notes and Share button will appear in the ellipses menu as icons instead of text
  - You can now upload folders
- - On Mobile, when an app opens a new tab, pressing back will now close it
- - On Mobile, when typing in a text box, you can now use the paste button above the keyboard
  - When Flash content isn't the focus, Edge will pause it automatically
  - Edge now supports importing favorites from Firefox
  - Imported favorites will now be put in their own folder, instead of the already existing favorites folder

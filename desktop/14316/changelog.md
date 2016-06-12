@@ -20,8 +20,6 @@
 ### Edge
 - Edge has been updated from version 34.14295 to version 37.14316 with the following updates
  - You can now upload folders
- - On Mobile, when an app opens a new tab, pressing back will now close it
- - On Mobile, when typing in a text box, you can now use the paste button above the keyboard
  - Edge now supports importing favorites from Firefox
  - Imported favorites will now be put in their own folder, instead of the already existing favorites folder
  - The Favorites hub now uses a tree view
