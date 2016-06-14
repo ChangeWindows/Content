@@ -128,7 +128,3 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 - Fixes an issue with location services that may cause apps like Maps to lag behind for the user's location
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, DNS Server, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player, JScript and VBScript and WPAD
-
-
-Fixed issue that caused phones to stop ringing from an incoming call, if interrupted by an SMS. 
-Fixed issue that caused some phones to be unable to re-add a primary Microsoft account without resetting after upgrading from Windows Phone 8.1. 
