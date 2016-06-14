@@ -178,13 +178,16 @@ _Released on 31 May 2016 to the Preview Release Ring_
 _Released on 14 June 2016 to the Preview Release Ring and Current Branch
 
 ### And further
-- Improved reliability of Microsoft Edge, Cortana, audio playback (in Groove and other apps), Maps app, Miracast and File Explorer
-- Improves Narrator's ability to read lists, hyperlinks and image info
+- Improved stability, accuracy and reduced latency with driving directions in Maps
+- Improved reliability of syncing messages
+- Phones will now take less longer to shut down completely after "Goodbye" is no longer displayed
+- Devices now have to restart within 7 days instead of 14 to install updates
 
 ### Fixes issues
-- Fixes an issue that may prevent VPN from working correctly when switching between different network interfaces
-- Fixes an issue with location services that may cause apps like Maps to lag behind for the user's location
+- Fixes an issue with Cortana that caused the app to crash when performing a search
+- Fixes incorrct times after Daylight Savings Time has been appplied on meeting cards and reminders
+- Fixes an issue that caused the battery to drain energy when syncing mail over IMAP
+- Fixes an issue that caused some devices to be unable to readd a Microsoft Account without reset after upgrading from Windows Phone 8.1
+- Fixes an issue that caused some devices to be unable to install other keyboards and languages without reset after upgrading from Windows Phone 8.1
 - Fixes an issue that caused phones to stop rining to notify for an incoming call if that notificaiton is interrupted by an SMS
-- Fixes an issue that caused some devices to be enable to readd a Microsoft Account after upgrading from Windows Phone 8.1
-- Fixes additional issues with Microsoft Edge, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
-- Fixes additional security issues with Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, Windows Diagnostic Hub, Kernel mode drivers,  Windows Structured Query and WPAD
+- Fixes an issue that kept Project My Screen from working on some devices
