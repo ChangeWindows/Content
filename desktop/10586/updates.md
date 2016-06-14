@@ -113,3 +113,22 @@ _Released on 2 June 2016 to the Preview Release Ring_
 - Fixes an issue that made VPN to now work properly when switching between network interfaces like Wi-Fi and cellular
 - Fixes an issue in location that caused apps to lag behind the user's actual location
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
+
+## What's new in Windows 10 Mobile build 10586.420?
+_Released on 14 June 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3163018](https://support.microsoft.com/?kbid=3163018)_
+
+### And further
+- Improved reliability of Internet Explorer 11, Microsoft Edge, Cortana, audio playback (in Groove and other apps), Maps app, Miracast and File Explorer
+- Improves Narrator's ability to read lists, hyperlinks and image info
+- Improved performance of loading websites in Internet Explorer 11 when using roaming user profiles
+
+### Fixes issues
+- Fixes an issue that would make balloon tip notifications appear in the left top corner of the screen
+- Fixes an issue that may prevent VPN from working correctly when switching between different network interfaces
+- Fixes an issue with location services that may cause apps like Maps to lag behind for the user's location
+- Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
+- Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, DNS Server, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player, JScript and VBScript and WPAD
+
+
+Fixed issue that caused phones to stop ringing from an incoming call, if interrupted by an SMS. 
+Fixed issue that caused some phones to be unable to re-add a primary Microsoft account without resetting after upgrading from Windows Phone 8.1. 

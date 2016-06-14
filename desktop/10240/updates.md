@@ -16,7 +16,7 @@ Unknown changes and fixes were applied in the versions listed below released on 
 - 10240.16644, _released on 12 Januery 2016, [KB 3124266](https://support.microsoft.com/?kbid=3124266)_
 
 ## What's new in Windows 10 build 10240.16683?
-_Released on 9 February 2016 for the Preview Release Ring, Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3135174](https://support.microsoft.com/?kbid=3135174)_
+_Released on 9 February 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3135174](https://support.microsoft.com/?kbid=3135174)_
 
 ### And further
 - Improves the installation time of updates
@@ -32,7 +32,7 @@ _Released on 9 February 2016 for the Preview Release Ring, Current Branch, Curre
 - Fixed additional security issues with the .NET Framework, PDF library, Windows Journal, kernel-mode drivers, Remote Desktop and WebDAV
 
 ## What's new in Windows 10 build 10240.16725?
-_Released on 8 March 2016 for the Preview Release Ring, Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3140745](https://support.microsoft.com/?kbid=3140745)_
+_Released on 8 March 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3140745](https://support.microsoft.com/?kbid=3140745)_
 
 ### And further
 - Improved support for apps, smart card logon, dual Ethernet cards and Appraiser
@@ -47,7 +47,7 @@ _Released on 8 March 2016 for the Preview Release Ring, Current Branch, Current 
 - Fixes multiple security issues with Microsoft Edge, Internet Explorer 11, USB storage driver, kernel mode drivers, the .NET Framework, graphic fonts, OLE, secondary logon and PDF library
 
 ## What's new in Windows 10 build 10240.16771?
-_Released on 12 April 2016 for the Preview Release Ring, Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3147461](https://support.microsoft.com/?kbid=3147461)_
+_Released on 12 April 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3147461](https://support.microsoft.com/?kbid=3147461)_
 
 ### And further
 - Improved reliability for Windows Explorer, Bluetooth, application deployment service, Microsoft Installer, Cortana and reboot
@@ -64,7 +64,7 @@ _Released on 12 April 2016 for the Preview Release Ring, Current Branch, Current
 - Fixes multiple security issues with Microsoft Edge, HTTP.sys, Microsoft graphics component, secondary logon, Internet Explorer 11, Microsoft XML Core Service, Security Account Manager Remote protocol, .NET Framework and Windows Hyper-V
 
 ## What's new in Windows 10 build 10240.16854?
-_Released on 10 May 2016 for the Preview Release Ring, Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3156387](https://support.microsoft.com/?kbid=3156387)_
+_Released on 10 May 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3156387](https://support.microsoft.com/?kbid=3156387)_
 
 ### And further
 - Improved security in the Windows kernel
@@ -79,3 +79,18 @@ _Released on 10 May 2016 for the Preview Release Ring, Current Branch, Current B
 - Fixes an issue that caused a loss of network connectivity when roaming between Wi-Fi access points
 - Fixes additional issues with Internet Explorer 11
 - Fixes security issues in Microsoft Graphics Component, remote procedure calls, Internet Explorer 11, Microsoft Edge, Windows Journal, JScript, Schannel, Windows Shell and Virtual Secure Mode
+
+## What's new in Windows 10 Mobile build 10240.16942?
+_Released on 14 June 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3163017](https://support.microsoft.com/?kbid=3163017)_
+
+### And further
+- Improved reliability in Internet Explorer 11, Microsoft Edge and File Explorer
+- Improved performance of loading websites in Internet Explorer 11 when using roaming user profiles
+- Improved support for special characters for some keyboard languages in the sign in screen
+
+### Fixes issues
+- Fixes an issue that would make balloon tip notifications appear in the left top corner of the screen
+- Fixes an issue causing the Shell to stop working when logging in with an administrator account
+- Fixes an issue that may cause devices with many processors to hang when rebooted or resuming from sleep
+- Fixes additional issues with Microsoft Edge, Internet Explorer 11, File Explorer, PCI, revised daylight saving time and Microsoft Graphics component
+- Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB, Microsoft Graphics Component, Group Policy, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player and WPAD
