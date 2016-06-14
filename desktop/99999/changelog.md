@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14361
+### Last updated to match with version 10.0.14366
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -22,6 +22,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - When an app is shown with a name like "@{&lt;app package name&gt;}", there will now be an option to remove it
 - You can now dismiss notifications by middle clicking on them
 - Scrollbars will now disappear in start as soon as you leave their active area
+- The Recently installed-list is now displayed above Most used
+- Recently installed apps now stay visible under Recently installed for 7 days
 
 ### Cortana and search
 - Cortana is now available on the lock screen
@@ -54,6 +56,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - When listening to you, Cortana now shows a sound wave instead of random characters
 - Cortana should now listen more reliably after tapping the mic button
 - Cortana's home UI no longer shows your cards but hints and a button to show the cards
+- Right-clicking on a file will now allow you to open its location
 
 ### Desktop
 - You can now show a window on all your desktops
@@ -82,7 +85,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - A number of icons, like the Blu-Ray icon and network icon have been updated
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14361 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14366 with the following updates
  - Edge now supports Extensions
  - Extensions can now add an icon to the address bar
  - Extensions can now be downloaded from the Windows Store
@@ -113,7 +116,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Developer items no longer appear by default in context menus and have to be enabled by visiting the F12 tools one time
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to version 14.14361 with the following updates
+- EdgeHTML has been updated from version 13.10586 to version 14.14366 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
@@ -193,6 +196,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Windows Defender will no longer sow recap notification in normal mode
  - Notifications has been added under "Privacy" to change which apps have access to your notifications
  - "Activation" now has a description to help people change their product key
+ - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
 - Visual updates and others
  - The page title and search bar have been moved to the sidebar
  - Taskbar settings have been moved from System to Personalization
