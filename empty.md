@@ -9,8 +9,8 @@
 ### User Interface
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 37.14316 with the following updates
-- EdgeHTML has been updated from version 12.10586 to version 12.14316 with the following updates
+- Edge has been updated from version 38.14361 to version 3x.14366 with the following updates
+- EdgeHTML has been updated from version 14.14361 to version 14.14366 with the following updates
 - The following flags have been added
 
 ### Settings
