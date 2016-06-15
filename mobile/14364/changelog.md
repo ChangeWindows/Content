@@ -1,6 +1,7 @@
 ### Settings
 - Visual updates and others
  - Minor visual enhancements, like improved spacing
+ - In portrait mode, the Settings UI now looks like it's pre-14356 counterpart
 
 ### Fixed issues
 - Fixes missing progress indicators in the Settings app

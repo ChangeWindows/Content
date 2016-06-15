@@ -13,6 +13,9 @@
 - New panels, settings and options
  - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
 
+### And further
+- The expiration date has been moved to 2 October 2016
+
 ### Fixed issues
 - Fixes an issue with the French version of Windows 10, making it available to all systems that have French as their base language
 - The Settings app will no longer crash by navigating to the privacy-settings
