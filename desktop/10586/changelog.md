@@ -18,8 +18,6 @@
 - Task View now allows to snap apps to the screen or replace apps
 - When you snap a window and select another window to snap beside it, you can resize both windows at once (only horizontal)
 
-### File Explorer
-
 ### User Interface
 - When colors for start, taskbar and Action Center are enabled, title bars will now also be affected
 - Context menus now have a more consistent design
