@@ -17,6 +17,8 @@
 - New panels, settings and options
 - Visual updates and others
 
+### Ink Workspace
+
 ### System
 
 ### Apps
