@@ -7,11 +7,13 @@
 
 ### Desktop
 - The size of the Windows Ink Workspace icon in the system tray now fits better in with the other system tray icons
-- The X-button in Ink will now become red when hovering over it
 
 ### Settings
 - New panels, settings and options
  - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
+
+### Ink Workspace
+- The X-button in Ink will now become red when hovering over it
 
 ### And further
 - The expiration date has been moved to 2 October 2016

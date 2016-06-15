@@ -2,11 +2,6 @@
 - The margin at the top off start is now smaller
 - Scrollbars will now disappear in start as soon as you leave their active area
 - The size of icons in Action Center has been decreased from 64x64 to 48x48
-- The Windows Ink ruler is now longer to make it cover the screen of a Surface Book
-- The Touch Ink icon has been changed to better resemble the Workspace icon
-- Sketchpad's thumbnail should now load faster
-- "Clear all" is now its own seperate button instead of being part of the "Erase"-button
-- Notes now stay on the desktop after closing the Sticky Notes workspace
 
 ### Cortana and search
 - Cortana should now listen more reliably after tapping the mic button
@@ -37,6 +32,13 @@
  - The app has received a visual overhaul with a new active-indication for panels and the home button located above the search bar and taking the full width of the sidebar
  - The sidebar and title bar are now white or black, depending on your color, instead of gray
  - Titles in the app are slightly larger
+
+### Ink Workspace
+- The Windows Ink ruler is now longer to make it cover the screen of a Surface Book
+- The Touch Ink icon has been changed to better resemble the Workspace icon
+- Sketchpad's thumbnail should now load faster
+- "Clear all" is now its own seperate button instead of being part of the "Erase"-button
+- Notes now stay on the desktop after closing the Sticky Notes workspace
 
 ### System
 - Windows 10 now provides support for Hyper-V containers

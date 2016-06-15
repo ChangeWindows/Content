@@ -4,40 +4,36 @@ This changelog is cumulative of every build released after 10586 and will form t
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
-- The start menu has a new default tile layout
+- You can now right-click on the header of an app in the Action Center instead of only the name and close icon
+- Dismissing all notifications from one app has been made easier with a larger target
 - The All Apps list and Most Used have been merged
-- In All apps, the numbered apps are now listed under "#" instead of "0-9"
 - "Recently added" can now show up to 3 apps instead of just one
 - All Apps is now full screen in tablet mode
 - The left rail now only consists of icons that can be expanded with the hamburger button
-- You can now sync notifications between desktop and Mobile (as long as Mobile is on build 14352+)
 - The Action Center icon has been moved to the right hand side of the clock
 - The Action Center icon now shows the number of new notifications and logos of the apps that have triggered them
 - Individual app notifications no longer have icons, instead the header now shows the icon
 - Notifications now support hero images and more
 - Clicking the Wi-Fi quick action will now open the Network fly-out instead of toggling Wi-Fi on and off
 - You can now manage all your playback devices from the Sound fly-out
-- You can now right-click on the header of an app in the Action Center instead of only the name and close icon
-- Dismissing all notifications from one app has been made easier with a larger target
 - When an app is shown with a name like "@{&lt;app package name&gt;}", there will now be an option to remove it
 - You can now dismiss notifications by middle clicking on them
+- The Action Center has a more polished interface
+- The start menu has a new default tile layout
+- In All apps, the numbered apps are now listed under "#" instead of "0-9"
+- The target to dismiss notifications is now larger
+- You can now sync notifications between desktop and Mobile (as long as Mobile is on build 14352+)
+- The Action Center icon no longer shows the number of new notifications when the taskbar is set to small icons
+- The margin at the top off start is now smaller
 - Scrollbars will now disappear in start as soon as you leave their active area
+- The size of icons in Action Center has been decreased from 64x64 to 48x48
 - The Recently installed-list is now displayed above Most used
 - Recently installed apps now stay visible under Recently installed for 7 days
 
 ### Cortana and search
-- Cortana is now available on the lock screen
-- You can now create reminders with photos or shared info from apps
-- Cortana no longer needs to be initiated to get started
-- Cortana now fully supports cross device functionality
-- You can no longer disable Cortana from within her settings
-- Reminders are now no longer sorted on type, but are shown in one list
 - Cortana will now show a button on the top to search for music
 - Cortana is now supported in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
-- You can now change Cortana's language
-- Cortana's Settings have been moved outside the Notebook
 - Cortana now provides more freedom when creating new reminders
-- Cortana now has an option to also show your phone's notifications
 - Cortana can now provide turn-by-turn directions with the new Maps app
 - Cortana can now sync across devices
  - You'll now get a notification whenever your mobile device is running out of battery
@@ -45,7 +41,14 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now share map directions between your devices
 - Cortana can now automatically fetch the required speech language for you
 - Cortana can now give reminder suggestions
-- When you missed a call, recieved a message, etc. Cortana will now notify you on the desktop
+- You can now change Cortana's language
+- Cortana's Settings have been moved outside the Notebook
+- Cortana is now available on the lock screen
+- You can now create reminders with photos or shared info from apps
+- Cortana no longer needs to be initiated to get started
+- Cortana now fully supports cross device functionality
+- You can no longer disable Cortana from within her settings
+- Reminders are now no longer sorted on type, but are shown in one list
 - OneDrive is now intergrated in search
 - Improved share UI for reminders
 - Cortana can now search in your Office 365 account
@@ -59,9 +62,10 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Right-clicking on a file will now allow you to open its location
 
 ### Desktop
+- Controls in taskbar previews now look better on high resolutions
 - You can now show a window on all your desktops
 - You can now set the taskbar to auto hide only for tablet mode
-- The clock on the taskbar now has the calendar integrated into it
+- The clock on the taskbar now has calendar integrated into it
 - The clock is now visible on all monitors the taskbar is visible on
 - UWP apps can now show a badge on top of their icon in the taskbar
 - You can now switch desktops by swiping with 4 fingers over the touchpad
@@ -70,50 +74,55 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows will now remember the "Show windows from this app on all desktops"-setting for each window
 - WIN + Alt + D can now open the clock flyout
 
+### File Explorer
+- Nothing to share yet
+
 ### User Interface
+- The logon screen now uses the lockscreen image as background
+- The upgrade experience has a new design
+- The emoji set has been completely revamped
+- The default emojis are no longer grey, but yellow
 - The lock screen no longer shows your email address
 - When playing media, the media controls will now be shown on top of the lock screen
 - User Account Control has been reworked to match the Windows 10 design language
-- The credential window has also been redesigned
-- Controls in taskbar previews look now better on high resolutions
-- Fast user switching now also works with Picture Password
-- The logon screen now uses the lockscreen image as background
-- The upgrade and installation experience has a new design
+- The credential window has been redesigned
 - When closing a snapped app in tablet mode, the other app will take the full screen
-- The "Shutdown Windows"-dialog has a new icon
 - When your profile starts to load, the background on the lock screen will zoom in a little
 - A number of icons, like the Blu-Ray icon and network icon have been updated
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14366 with the following updates
- - Edge now supports Extensions
- - Extensions can now add an icon to the address bar
- - Extensions can now be downloaded from the Windows Store
- - You can now swipe to go back and forward
- - Tabs can now be pinned to the tab bar
+- Edge has been updated from version 25.10586 to version 3x.14366 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
+ - The ellipses-menu has a slightly new design
+ - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
  - When closing Edge, you can now choose to clear the browsing data
  - You can now change the favorites bar to only show icons
  - You can now create a folder right from the favorites bar
  - You can now rename items from the favorites bar
  - You can now require a prompt to pop up before a download starts
  - You can now choose the location where a download should be stored
+ - Edge now supports Extensions
+ - Extensions can now add an icon to the address bar
+ - Tabs can now be pinned to the tab bar
  - The address bar now supports "Paste and go"
  - The address bar now supports "Paste and search"
  - When a download has completed, Edge will not show a notification in the Action Center
- - When the window becomes too narrow, the Hub, Web Notes and Share button will appear in the ellipses menu as icons instead of text
+ - When the window becomes too narrow, the Hub, Web Notes and Share buttons will appear in the ellipses menu as icons instead of text
+ - The padding between the URL bar and Hub-icon is slightly larger
  - You can now upload folders
- - When Flash content isn't the focus, Edge will pause it automatically
  - Edge now supports importing favorites from Firefox
  - Imported favorites will now be put in their own folder, instead of the already existing favorites folder
  - The Favorites hub now uses a tree view
  - When closing Edge with running downloads, Edge will now warn you
  - You can now set a default save location for downloads
  - Edge's default opening settings are now a dropdown
+ - When Flash content isn't the focus, Edge will pause it automatically
  - There is now an accessibility tree view in F12
  - You can now debug extensions through F12
  - You can now use DOM API profiling
  - Developer items no longer appear by default in context menus and have to be enabled by visiting the F12 tools one time
+ - Extensions can now be downloaded from the Windows Store
+ - You can now swipe to go back and forward
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
 - EdgeHTML has been updated from version 13.10586 to version 14.14366 with the following updates
@@ -128,17 +137,16 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Color input type
  - Canvas Path2D objects
  - Web Speech API
+ - The User Agent String has been updated
  - Improved accessibility features
  - Web Notification API
  - Beacon API
  - Fetch API
- - The User Agent String has been updated
 - The following flags have been added
- - You can now enable the ability to unload unpacked extensions under about:flags
+ - You can now enable the ability to unload unpacked extensions
  - You can now set a flag for "Compose scrollbar thumbs independently"
  - You can now set a flag for DirectX settings "Use Windows.UI.Composition"
  - A flag for WebRTC 1.0 is available but not functional and will be removed in a later version
- - You can now set a flag for VP9
  - ES6 Regex symbols
  - You can now allow Edge to use an unrestricted amount of memory
  - You can now enable H.264/AVC for Object RTC
@@ -149,23 +157,25 @@ Note that when a new build is released, we usually wait a day or two to make sur
 ### Settings
 - New panels, settings and options
  - You can now back-up your Startscreen layout, accounts and passwords to OneDrive
- - Power and sleep settings contain some new information about behavior of the lockscreen when using slideshows
+ - Windows Defender has been updated to version 4.10
  - Taskbar settings have been added under System
  - Your personal info and email settings are now split up under Accounts
+ - Insiders can no longer change the Feedback behavior, it is now set to always ask questions
+ - Windows Defender can now be used offline
+ - You can now remove temporary files, downloads, recycle bin and previous Windows installations from Storage
  - You can now choose which app's notifications are more important to you
  - You can now choose how many notifications an app can have in the Action Center
  - You can now choose between dark and light mode
- - You can now let your PC only be visible to project when plugged in
  - The color for title bars and the color for the taskbar, start and Action Center can now be toggled separately from each other
  - You can now manage on a per-app basis if an app can run in the background or not, or if this has to be handled by Windows
- - Windows Update now allows you to set the time you're most active in so that it can avoid updating during that period
+ - Windows Update now allows you to set the time you're most active in so that it can avoid updating at that point
  - You can now override Active Hours with the Restart Options
  - The Windows Update notification, after installing an update, now takes you to the device's update history
  - You can now enable Device Portal
  - You can now enable a number of developer-focused settings for File Explorer
  - There are now a number of developer-focused settings for Remote Desktop
  - You can now share your Wi-Fi as a hotspot
- - PowerShell also has a number of develop-focused settings
+ - PowerShell also has a number of developer-focused settings
  - You can now set the position of all quick actions in the Action Center and choose which should be visible
  - The Pen settings have been updated to allow you to set pen shortcuts
  - You can now reset an app from the App settings
@@ -184,88 +194,89 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now see all add-ons per app
  - Under "Temporary Files", Windows now shows the amount of storage that pending updates and builds are using
  - Some of the activation info has been removed from "Activation"
+ - Under Privacy, you can now enable apps on other devices to start on your PC to continue where you left off
+ - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
  - Apps for websites has been added under System
  - Sharing a network with your contacts in Wi-Fi Sense is no longer possible
  - The IME Settings page now has a "Clear Input History" option
+ - You can now let your PC only be visible to project when plugged in
  - Upgrading from Pro to Enterprise no longer requires you to wipe the system and doesn't require a reboot
  - You can now enable Limited Periodic Scanning which provides a second line of defence when using other Antivirus solutions than Windows Defender
- - Under Privacy, you can now enable apps on other devices to start on your PC to continue where you left off
- - Under Privacy, you can now enable apps on other devices to start on your PC through Bluetooth to continue where you left off
  - Recovery now shows a link to a help thread about starting anew with Windows
  - You can now allow Windows to use your login credentials to automatically finish setting up your account after an upgrade
+ - Active hours can now be set to a range of up to 12 hours instead of 10
  - Windows Defender will no longer sow recap notification in normal mode
  - Notifications has been added under "Privacy" to change which apps have access to your notifications
  - "Activation" now has a description to help people change their product key
  - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
 - Visual updates and others
+ - The selected accent color now has a new marking
+ - Power and sleep settings contain some new information about behavior of the lockscreen when using slideshows
+ - Wi-Fi Sense and and Paid Wi-Fi settings are now relocated to Wi-Fi Settings
+ - The Settings app has a new design for its home page
+ - The accent color table has been redesigned and is now always shown
+ - Battery settings are now displayed on one single page
+ - Under "Activation" Windows will now say that the license is coupled to your account
+ - Update History is moved out of Advanced Options in Windows Update
  - The page title and search bar have been moved to the sidebar
  - Taskbar settings have been moved from System to Personalization
  - Individual pages now have their own icon
  - Every sign-in method (Windows Hello, Picture password, etc.) now has an icon, except for PIN
  - Windows Insider Program settings have been moved out of Windows Update
  - When using Search in settings, the initial results will appear in a dropdown instead of full screen
- - The selected accent color now has a new marking
- - "Your info" has an updated design
- - The Settings app has a new design for its home page
- - The accent color table has been redesigned and is now always shown
- - Battery settings are now displayed on one single page
- - Under "Activation" Windows will now say that the license is coupled to your account
- - Update History is moved out of Advanced Options in Windows Update
- - Insiders can no longer change the Feedback behavior, it is now set to always ask questions
+ - Multiple icons have been updated for individual pages
  - The "Updates installed" notification now links to the Update history instead of Windows Update
  - Some icons have been updated for individual pages
  - Ctrl + E now sets focus to the search bar
  - The "Change product key" link now has an icon
- - Windows Defender has been updated to version 4.10
  - Some of the options under Network and Internet > Status now have an icon and description
  - The app has received a visual overhaul with a new active-indication for panels and the home button located above the search bar and taking the full width of the sidebar
  - The sidebar and title bar are now white or black, depending on your color, instead of gray
  - Titles in the app are slightly larger
 
+### Ink Workspace
+- The Windows Ink Workspace is now available
+
 ### System
-- Windows 10 now provides support for Hyper-V containers
-- You can now use the Ubuntu Bash natively in Windows
+- Improvements to OneCore
+- Fast user switching now also works with Picture Password
+- Improved performance for Japanse IME
 - Windows now has a one-handed Japanese kana keyboard
 - The Text Input Canvas has a new Japanese lined-mode
+- You can now use the Ubuntu Bash natively in Windows
 - Improved Japanese IME with improved predictions, cloud suggestion and typing history
-- Improved battery life for Connected Standby PCs
+- Improved battery life for Connected Standby PC's
 - You can now enable paths with more than 260 characters for NTFS
 - The installation is no longer divided in 3 steps and now shows as just 1 step
 - Improved performance for account migration
+- Windows 10 now provides support for Hyper-V containers
 
 ### Apps
-- Skype Preview has been added as a default app
+- The Get Skype app has been removed
+- The Windows Feedback app has been removed
+- Skype has been added as a default app
 - Connect has been added as a default app
 - Paid WiFi & Cellular has been added as a default app
 - Sticky Notes has been added as a default app
-- Messaging Everywhere Beta has been added to the Messaging app
+- Feedback Hub has been added as a default app
+- Option now available to use the Camera app to take a photo and send it with Skype
+- Messaging will now sync your messages between your phone and PCs and allow you to send messages from both
+- The Alarms & Clocks app now can use an inline time selector
+- You can now react on feedback in the Feedback Hub
 - You can now swipe a conversation to delete it in Messaging
-- You can now attach photos in Skype messages
-- Option is now available to use the Camera app to take a photo and send it with Skype
-- Messaging + Skype will now sync your messages between your phone and PCs
-- The Windows Feedback app has been removed
-- The Insider Hub app has been renamed to Feedback Hub and can now process Feedback
- - You can now react on feedback in the Feedback Hub
- - The Feedback Hub now suggests a category when you've typed in your feedback
- - The "Alerts" page in the Feedback Hub has been removed
- - The Feedback Hub will now show Microsoft responses
+- The Feedback Hub now suggests a category when you've typed in your feedback
+- The "Alerts" page in the Feedback Hub has been removed
+- The Feedback Hub will now show Microsoft responses
 
 ### Other features
-- Windows Defender can now be used offline
-- The Game Bar now supports more full-screen games
 - The Credentials window now allows you to paste into the name and password fields
 - Tapping anywhere in the "Set location" notification will now allow you to set a default location
+- The Game Bar now supports more full-screen games
 - Task Manager settings will now be saved after upgrading to a new build
 
 ### And further
-- Command Prompt has been improved for High-DPI displays
-- Command Prompt has improved font selection, international characters rendering, cursor rendering and hiding improvements, background color pointing improvements and improved scrolling
-- Improvements to OneCore
-- The emoji set has been completely revamped
-- The default emojis are no longer grey, but yellow
 - Windows 10 Education is now supported for the Windows Insider Preview
-- Improved performance for Japanse IME
-- The Windows build number is now synced between desktop and Mobile
-- The full buildstring is now displayed at the bottom of the desktop for preview releases
-- Windows now identifies itself as version 1607
 - Copyright info has been updated to 2016
+- Windows now identifies itself as version 1607
+- The full buildstring is now displayed at the bottom of the desktop for previews
+- The build numbers for desktop and Mobile are now synced

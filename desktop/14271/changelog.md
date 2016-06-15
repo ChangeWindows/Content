@@ -1,16 +1,19 @@
-### Action Center
+### Start and Action Center
 - You can now right-click on the header of an app in the Action Center instead of only the name and close icon
 - Dismissing all notifications from one app has been made easier with a larger target
 
-### Settings
-- Taskbar settings have been added under System
-- Your personal info and email settings are now split up under Accounts
-- Insiders can no longer change the Feedback behavior, it is now set to always ask questions
-
-### And further
+### Desktop
 - Controls in taskbar previews now look better on high resolutions
+
+### Settings
+- New panels, settings and options
+ - Taskbar settings have been added under System
+ - Your personal info and email settings are now split up under Accounts
+ - Insiders can no longer change the Feedback behavior, it is now set to always ask questions
+ - Windows Defender can now be used offline
+
+### System
 - Fast user switching now also works with Picture Password
-- Windows Defender can now be used offline
 
 ### Fixed issues
 - Fixes an issue where window borders would become black after updating

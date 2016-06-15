@@ -74,14 +74,17 @@
  - Windows Insider Program settings have been moved out of Windows Update
  - When using Search in settings, the initial results will appear in a dropdown instead of full screen
 
+### Ink Workspace
+- The Windows Ink Workspace is now available
+
+### System
+- Improved Japanese IME with improved predictions, cloud suggestion and typing history
+
 ### Apps
 - You can now swipe a conversation to delete it in Messaging
 - Paid WiFi & Cellular has been added as a default app
 - Sticky Notes has been added as a default app
 - Test Taker has been removed
-
-### System
-- Improved Japanese IME with improved predictions, cloud suggestion and typing history
 
 ### Fixed issues
 - The Visual Studio emulator for HoloLens and Windows 10 Mobile works again

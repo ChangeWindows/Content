@@ -1,16 +1,15 @@
-### Start and Cortana
+### Cortana and search
 - Cortana is now supported in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
 - Cortana now provides more freedom when creating new reminders
 
-### Interface
+### User Interface
 - The logon screen now uses the lockscreen image as background
- - Spotlight does not yet show a background on the lockscreen
+
+### System
+- Improved performance for Japanse IME
 
 ### Apps
 - Messaging + Skype will now sync your messages between your phone and PCs
-
-### And further
-- Improved performance for Japanse IME
 
 ### Fixed issues
 - Fixes an issue that caused Edge and Cortana to crash when using roaming profiles

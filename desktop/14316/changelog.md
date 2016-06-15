@@ -1,4 +1,4 @@
-### Start and Cortana
+### Cortana and search
 - Cortana can now sync across devices
  - You'll now get a notification whenever your mobile device is running out of battery
  - Find my phone/Ring my phone is now available through Cortana
@@ -16,6 +16,8 @@
 - Windows Spotlight is now supported with the new lockscreen animation
 - Some apps like Edge, Skype and more are using a new loading animation
 - The upgrade experience has a new design
+- The emoji set has been completely revamped
+- The default emojis are no longer grey, but yellow
 
 ### Edge
 - Edge has been updated from version 34.14295 to version 37.14316 with the following updates
@@ -79,10 +81,6 @@
 - You can now react on feedback in the Feedback Hub
 - Messaging Everywhere Beta has been added to the Messaging app
 - The Get Skype app has been removed
-
-### And further
-- The emoji set has been completely revamped
-- The default emojis are no longer grey, but yellow
 
 ### Fixed issues
 - Fixes an issue where the audio on devices with TPM chips may glitch

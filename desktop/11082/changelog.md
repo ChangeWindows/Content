@@ -1,19 +1,16 @@
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 25.11082
-- Experimental support for VP9 has been added
-- Minor design changes, including different spacing for the Hub-icon
+- Edge has been updated from version 25.10586 to version 25.11082 with the following updates
+ - Minor design changes, including different spacing for the Hub-icon
+- The following flags have been added
+ - Experimental support for VP9 has been added
+
+### System
+- Improvements to OneCore
 
 ### Apps
 - The Insider Hub has been added again
 
-### Organizatorial changes
-These are not by definition changes to Windows, but to the Windows Insider Program.
-
-- The requirements for new Insider builds have been losened
-- The fast ring will receive new builds more quickly
-
 ### And further
-- Improvements to OneCore
 - Copyright info has been updated to 2016
 
 ### Known issues

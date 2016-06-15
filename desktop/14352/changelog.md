@@ -1,14 +1,6 @@
 ### Start and Action Center
 - The start menu has a new default tile layout
 - In All apps, the numbered apps are now listed under "#" instead of "0-9"
-- The ruler in the Inking Workspace now has a compass
-- Sticky Notes can now convert written lists, links, etc. to text lists, links, etc.
-- Sketchpad will now be dismissed when pressing Esc, Win + D or Win + S
-- The export icon has been changed to a more classic floppy disk
-- Sketchpad will now open faster when many strokes have been applied
-- When you do not have a pen, Sketchpad and Screen Sketch will now have touch inking enabled by default
-- The state of the Windows Ink Workspace will be saved for future build upgrades
-- The Sticky Notes app now shows its name when hovering over the taskbar
 - The target to dismiss notifications is now larger
 - You can now sync notifications between desktop and Mobile (as long as Mobile is on build 14352+)
 - The Action Center icon no longer shows the number of new notifications when the taskbar is set to small icons
@@ -44,6 +36,15 @@
  - Ctrl + E now sets focus to the search bar
  - The "Change product key" link now has an icon
 
+### Ink Workspace
+- The ruler in the Inking Workspace now has a compass
+- Sticky Notes can now convert written lists, links, etc. to text lists, links, etc.
+- Sketchpad will now be dismissed when pressing Esc, Win + D or Win + S
+- The export icon has been changed to a more classic floppy disk
+- Sketchpad will now open faster when many strokes have been applied
+- When you do not have a pen, Sketchpad and Screen Sketch will now have touch inking enabled by default
+- The state of the Windows Ink Workspace will be saved for future build upgrades
+
 ### System
 - You can now enable paths with more than 260 characters for NTFS
 - The installation is no longer divided in 3 steps and now shows as just 1 step
@@ -51,6 +52,7 @@
 
 ### Apps
 - The Feedback Hub will now show Microsoft responses
+- The Sticky Notes app now shows its name when hovering over the taskbar
 
 ### Other features
 - The Game Bar now supports more full-screen games

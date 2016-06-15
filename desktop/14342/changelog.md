@@ -24,6 +24,9 @@
 - Visual updates and others
  - Multiple icons have been updated for individual pages
 
+### Ink Workspace
+- Improved cropping of images in Screen Sketch
+
 ### System
 - Bash on Ubuntu on Windows has been updated including support for symlinks on mounted Windows directories
 
@@ -33,7 +36,6 @@
 
 ### Other features
 - The Credentials window now allows you to paste into the name and password fields
-- Improved cropping of images in Screen Sketch
 - Tapping anywhere in the "Set location" notification will now allow you to set a default location
 
 ### Fixed issues

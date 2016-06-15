@@ -1,21 +1,24 @@
-### Start and Cortana
+### Cortana and search
 - Cortana can now provide turn-by-turn directions with the new Maps app
 
-### Edge
-- Edge has been updated from version 31.14279 to 34.14291
-- Edge now supports Extensions
-- Extensions can now add an icon to the address bar
-- Tabs can now be pinned to the tab bar
-- The address bar now supports "Paste and go"
-- The address bar now supports "Paste and search"
-- When a download has completed, Edge will not show a notification in the Action Center
-- When the window becomes too narrow, the Hub, Web Notes and Share buttons will appear in the ellipses menu as icons instead of text
-- The padding between the URL bar and Hub-icon is slightly larger
-- Edge now supports VP9 behind a flag
+### Microsoft Edge
+- Edge has been updated from version 31.14279 to version 31.14291 with the following updates
+ - Edge now supports Extensions
+ - Extensions can now add an icon to the address bar
+ - Tabs can now be pinned to the tab bar
+ - The address bar now supports "Paste and go"
+ - The address bar now supports "Paste and search"
+ - When a download has completed, Edge will not show a notification in the Action Center
+ - When the window becomes too narrow, the Hub, Web Notes and Share buttons will appear in the ellipses menu as icons instead of text
+ - The padding between the URL bar and Hub-icon is slightly larger
+- The following flags have been added
+ - Edge now supports VP9 behind a flag
 
 ### Settings
-- You can now remove temporary files, downloads, recycle bin and previous Windows installations from Storage
-- Wi-Fi Sense and and Paid Wi-Fi settings are now relocated to Wi-Fi Settings
+- New panels, settings and options
+ - You can now remove temporary files, downloads, recycle bin and previous Windows installations from Storage
+- Visual updates and others
+ - Wi-Fi Sense and and Paid Wi-Fi settings are now relocated to Wi-Fi Settings
 
 ### System
 - Windows now has a one-handed Japanese kana keyboard

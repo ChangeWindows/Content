@@ -11,7 +11,7 @@
 ### System
 - Improved battery life for Connected Standby PC's
 
-### And further
+### Other features
 - Command Prompt has been improved for High-DPI displays
 - Command Prompt has improved font selection, international characters rendering, cursor rendering and hiding improvements, background color pointing improvements and improved scrolling
 
