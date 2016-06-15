@@ -22,18 +22,11 @@
 - When colors for start, taskbar and Action Center are enabled, title bars will now also be affected
 - Context menus now have a more consistent design
 - Improved dark and light theming
-- Context menus have now have a grey design instead of white
 - The look for dropdowns has been changed system wide
 - Windows Apps now have an opening and closing animation
-- Some icons have been replaced
 - Jumplists have a new design
-- Some context menus have been changed
 - Some icons have been replaced (including the Registry Editor)
-- Title bar colors are now the same color as your accent color instead of a faded variation of it
-- WinRT apps will no longer show a colored icon on the taskbar if available
-- The context menus in start no longer use the user's accent color
 - The title bar of WinRT apps will now take the color of the splash screen while starting
-- Some context menus have been updated with a new design
 - The text that is shown while preparing your account has been updated
 
 ### Microsoft Edge
