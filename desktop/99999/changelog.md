@@ -208,29 +208,22 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "Activation" now has a description to help people change their product key
  - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
 - Visual updates and others
+ - The Settings app has a new design
  - The selected accent color now has a new marking
  - Power and sleep settings contain some new information about behavior of the lockscreen when using slideshows
  - Wi-Fi Sense and and Paid Wi-Fi settings are now relocated to Wi-Fi Settings
- - The Settings app has a new design for its home page
  - The accent color table has been redesigned and is now always shown
  - Battery settings are now displayed on one single page
  - Under "Activation" Windows will now say that the license is coupled to your account
  - Update History is moved out of Advanced Options in Windows Update
- - The page title and search bar have been moved to the sidebar
- - Taskbar settings have been moved from System to Personalization
  - Individual pages now have their own icon
- - Every sign-in method (Windows Hello, Picture password, etc.) now has an icon, except for PIN
+ - Every sign-in method (Windows Hello, Picture password, etc.) now has an icon
  - Windows Insider Program settings have been moved out of Windows Update
  - When using Search in settings, the initial results will appear in a dropdown instead of full screen
- - Multiple icons have been updated for individual pages
  - The "Updates installed" notification now links to the Update history instead of Windows Update
- - Some icons have been updated for individual pages
  - Ctrl + E now sets focus to the search bar
  - The "Change product key" link now has an icon
  - Some of the options under Network and Internet > Status now have an icon and description
- - The app has received a visual overhaul with a new active-indication for panels and the home button located above the search bar and taking the full width of the sidebar
- - The sidebar and title bar are now white or black, depending on your color, instead of gray
- - Titles in the app are slightly larger
 
 ### Ink Workspace
 - The Windows Ink Workspace is now available
