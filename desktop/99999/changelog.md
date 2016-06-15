@@ -26,7 +26,6 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The Action Center icon no longer shows the number of new notifications when the taskbar is set to small icons
 - The margin at the top off start is now smaller
 - Scrollbars will now disappear in start as soon as you leave their active area
-- The size of icons in Action Center has been decreased from 64x64 to 48x48
 - The Recently installed-list is now displayed above Most used
 - Recently installed apps now stay visible under Recently installed for 7 days
 
@@ -204,7 +203,6 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now enable Limited Periodic Scanning which provides a second line of defence when using other Antivirus solutions than Windows Defender
  - Recovery now shows a link to a help thread about starting anew with Windows
  - You can now allow Windows to use your login credentials to automatically finish setting up your account after an upgrade
- - Active hours can now be set to a range of up to 12 hours instead of 10
  - Windows Defender will no longer sow recap notification in normal mode
  - Notifications has been added under "Privacy" to change which apps have access to your notifications
  - "Activation" now has a description to help people change their product key
