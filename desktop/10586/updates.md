@@ -101,7 +101,7 @@ _Released on 10 May 2016 to the Preview Release Ring, Current Branch and Current
 - Fixes security issues in kernel mode drivers, remote procedure calls, the Microsoft Graphics Component, Internet Explorer 11, Microsoft Edge, Windows Shell, Windows Journal, Virtual Secure Mode, Schannel and Jscript
 
 ## What's new in Windows 10 Mobile build 10586.338?
-_Released on 2 June 2016 to the Preview Release Ring_
+_Released on 2 June 2016 to the Preview Release Ring, [KB 3163014](https://support.microsoft.com/?kbid=3163014)_
 
 ### And further
 - Improved reliability for Internet Explorer 11, Microsoft Edge, Cortana and audio playback, Groove, Maps, Miracast and File Explorer
