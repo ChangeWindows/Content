@@ -1,16 +1,17 @@
-### Desktop
+### User Interface
 - Context menus now have a more consistent design
 - Improved dark and light theming
 
-### Edge
-- Improved support for ECMAScript 6.0 and 7.0
-- Support for new input types
-- Support for Pointer Lock
-- Support for Canvas blending modes
-- Additional improved support for standards
+### Microsoft Edge
+- EdgeHTML has been updated from version 12.10525 to version 12.10532 with the following updates
+ - Improved support for ECMAScript 6.0 and 7.0
+ - Support for new input types
+ - Support for Pointer Lock
+ - Support for Canvas blending modes
+ - Additional improved support for HTML5 and CSS3
 
-### And further
-- You can now share feedback more easly
+### Apps
+- You can now share feedback more easly from Windows Feedback
 
 ### Known issues
 - Windows Hello face sign-on will not work on this build with some devices (fingerprint will work)

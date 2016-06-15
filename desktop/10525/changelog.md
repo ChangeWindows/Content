@@ -1,14 +1,18 @@
-### Desktop
-- New color options for title bars
+### User Interface
+- When colors for start, taskbar and Action Center are enabled, title bars will now also be affected
 
-### Edge
-- Base for Object RTC support
+### Microsoft Edge
+- EdgeHTML has been updated from version 12.10240 to version 12.10525 with the following updates
+ - Base for Object RTC support
 
 ### Settings
-- The Settings-icon on the taskbar no longer has a background color
-- The Settings-tile is now transparent for non-fresh installs too
+- New panels, settings and options
+ - Colors for start, the taskbar and Action Center now also apply to title bars
+- Visual updates and others
+ - The Settings-icon on the taskbar no longer has a background color
+ - The Settings-tile is now transparent for non-fresh installs too
 
-### And further
+### System
 - Improved memory management
 
 ### Known issues

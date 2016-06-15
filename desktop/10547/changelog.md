@@ -1,31 +1,33 @@
-### Start
+### Start and Action Center
 - You can now show either 3 or 4 medium tiles per group
 - The letters in the app list now take less space when "Show more tiles" is enabled
 - Tiles now can have jumplists
-- Cortana now also works for local accounts
-- The context menus for tiles have been reorganized
- - You can now share apps through this menu
- - You can now review apps through this menu
+- The context menus for tiles have been reorganized and provide quick links to share and review apps
 - Desktop app tiles now can have their own color
 - Start now supports up to 2048 tiles (up from 512)
 
+### Cortana and search
+- Cortana now works on local accounts
+
 ### Desktop
+- Task View now allows to snap apps to the screen or replace apps
+- When you snap a window and select another window to snap beside it, you can resize both windows at once (only horizontal)
+
+### User Interface
 - Context menus have now have a grey design instead of white
 - The look for dropdowns has been changed system wide
-- When you snap a window and select another window to snap beside it, you can resize both windows at once (only horizontal)
- - This needs to be enabled under System > Multitasking
-
-### Tablet mode
-- Task View now allows to snap apps to the screen or replace apps
-
-### Lock screen
-- Windows Spotlight can now be set as the lock screen for Pro users
-- You can now disable the background for the logon screen
+- Windows Apps now have an opening and closing animation
+- Some icons have been replaced
 
 ### Microsoft Edge
-- Edge has been upgraded from version 20.10532 to 21.10547
-- EdgeHTML has been upgraded from version 12.10532 to 13.10547
-- Extended support for HTML5 and CSS3
+- Edge has been updated from version 20.10532 to version 21.10547 with the following updates
+ - You can now open proxy settings from within the Microsoft Edge settings
+ - Edge has a new First start-home page
+ - You can now share media to other screens
+ - When a page is properly paginated, the next button will light up to go to the next page
+ - Tabs won't resize when you're closing tabs until your mouse leaves the tabbar
+- EdgeHTML has been updated from version 12.10532 to version 13.10547 with the following updates
+ - Extended support for HTML5 and CSS3
  - Support for the download-attribute in an anchor
  - Support for the picture-element
  - Support for :in-range, :out-of-range, :read-only and :read-write
@@ -34,34 +36,30 @@
  - Support for ellipses
  - Support for Object RTC
  - Support for HTML Templates
-- Improved support for ECMAScript 7
-- You can now open proxy settings from within the Microsoft Edge settings
-- Edge has a new First start-home page
-- You can now share media to other screens
-- When a page is properly paginated, the next button will light up to go to the next page
-- Tabs won't resize when you're closing tabs until your mouse leaves the tabbar
+ - Improved support for ECMAScript 7
 
 ### Settings
-- You can now (dis)allow apps to access your call history
-- You can now (dis)allow apps to access and send emails
-- You can now make Windows select the correct time zone automatically
-- You can now choose to shuffel backgrounds when using a slideshow
-- The "Storage" tab now has icons for each file format
-- You can let Windows notify you when there are issues with any USB-connected device
-- The Insider settings now show your account details and allow you to stop receiving builds for a limited amount of days
-- The Control Panel's Theme Settings have been extended, back to the state from Windows 8.1
+- New panels, settings and options
+ - Windows Spotlight can now be set as the lock screen for Pro users
+ - You can now disable the background for the logon screen
+ - You can now (dis)allow apps to access your call history
+ - You can now (dis)allow apps to access and send emails
+ - You can now make Windows select the correct time zone automatically
+ - You can now choose to shuffel backgrounds when using a slideshow
+ - You can let Windows notify you when there are issues with any USB-connected device
+ - The Insider settings now show your account details and allow you to stop receiving builds for a limited amount of days
+ - The Control Panel's Theme Settings have been extended, back to the state from Windows 8.1
+ - There is a new system in place to warn you for common issues when using the Insider Preview
+- Visual updates and others
+ - The "Storage" tab now has icons for each file format
 
-### Windows Apps
-- Windows Apps now have an opening and closing animation
+### Apps
 - Windows Apps can now have jumplists
 - Multiple apps now use a colored icon (Windows Store, Mail, Calendar, Calculator, etc.)
-- Many apps have been updated
 
-### And further
+### Other features
 - Improvements to the text input panel, including expanding when more space is required and punctuation improvements
 - New emojis have been added
-- Some icons have been replaced
-- There is a new system in place to warn you for common issues when using the Insider Preview
 - The "Environmental Variables" window has been reworked
 
 ### Fixed issues
