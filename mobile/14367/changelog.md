@@ -6,6 +6,8 @@
 - Edge will now consume less energy when running in the background
 
 ### Settings
+- New panels, settings and options
+ - Kids Corner is no longer available
 - Visual updates and others
  - The icons under Update & Security have been updated to be more reflective of their meaning
 
