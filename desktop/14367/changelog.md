@@ -16,7 +16,7 @@
 - Ctrl + Shift + P can now be used to turn of Private mode when Japanese Input Method Editor is used
 
 ### Apps
-- Feedback Hub can now be opened with Win + F
+- You can now make a screenshot and open Feedback Hub directly with Win + F
 
 ### Fixed issues
 - Fixes an issue where notifcations from other devices would display emojis as square boxes
