@@ -1,0 +1,34 @@
+### Start and Action Center
+- Action Center has an improved design to make the font size of notification dropdowns better fit in with the rest of the Action Center
+- If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
+
+### Microsoft Edge
+- Edge will now consume less energy when running in the background
+
+### Settings
+- Visual updates and others
+ - The icons under Update & Security have been updated to be more reflective of their meaning
+
+### Fixed issues
+- Visual Studio 2015 Update 2 can now deploy apps again
+- Fixes an issue where the order of your Quick Actions would be lost after upgrading
+- Fixes an issue where Cortana would fail to display existing reminders in the reminder section
+- Fixes an error when trying to save a new reminder
+- Fixes an issue where High DPI devices would show text selection grippers very tiny
+- Fixes an issue that caused Battery Saver to not turn on after tapping the notification that asks you to turn on Battery Saver
+- Fixes an issue that could result in dropped keystrokes when typing in Word or Outlook Mail
+- Fixes an issue where "3G only" and "Only 3G or 4G" would not work, resulting in 2G to be selected
+- Fixes an issue with the Japanese Input Method Editor not working properly in the All apps search box
+- Fixes an issue where swiping on a full screen VoIP notification, the dimmed screen would flash
+- Fixes an issue that would keep you from receiving notification toasts until the Action Center was opened if you had tapped on a notification on the lock screen but aported it to enter a pin
+- Fixes an issue where the lock screen settings may show incorrect information while loading
+- Fixes an issue where the Quiet Hours might unexpectedly turn off when having been turned on manually with Quick Actions
+- Fixes an issue where certain sample images where displayed in portrait instead of landscape when used as a lock screen background while the phone was connected to an external monitor
+- Fixes an issue where some key presses would be entered multiple times over Miracast
+- Fixes an issue where the "The accessory you’re connecting to isn’t working"-error would be truncated on the Connect settings page
+- Fixes an issue where the Windows Hello icon would get stuck on the screen after logging in
+- Fixes an issue where selecting a letter from the All apps list would sometimes scroll that letter to the bottom of the screen instead of the top
+
+### Known issues
+- Some apps won't be able to set the background of start or the lock screen
+- There is an issue with cellular data for Dual-SIM devices causing the second SIM to not function properly
