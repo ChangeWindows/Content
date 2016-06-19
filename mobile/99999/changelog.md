@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14364
+### Last updated to match with version 10.0.14367
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -17,6 +17,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - App names on Live tiles now follow the Ease of Access Text Scaling setting
 - The default wallpaper for a new device has been changed
 - When you dismiss multiple notifications at once, the background will no longer fade to black between them
+- If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
 
 ### Cortana and search
 - Cortana is now available in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
@@ -111,6 +112,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - The refresh rate for Wi-Fi data usage is now faster
  - Active hours can now be set to a range of up to 12 hours instead of 10
  - As of build 14361, your DPI settings will be backed up in the cloud and restored after your device is refreshed
+ - Kids Corner is no longer available
 - Visual updates and others
  - Adjust brightness automatically is now enabled by default
  - Every page in Settings now has its own icon
@@ -119,6 +121,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - The background of the category overview and sub-category overview is now black instead of dark grey
  - A selected sub-category now has a Groove-like select state
  - The title of pages is now displayed larger
+ - The icons under Update & Security have been updated to be more reflective of their meaning
 
 ### System
 - Continuum now supports USB Ethernet

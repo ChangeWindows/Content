@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14366
+### Last updated to match with version 10.0.14367
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -28,6 +28,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Scrollbars will now disappear in start as soon as you leave their active area
 - The Recently installed-list is now displayed above Most used
 - Recently installed apps now stay visible under Recently installed for 7 days
+- If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
 
 ### Cortana and search
 - Cortana will now show a button on the top to search for music
@@ -88,9 +89,10 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - When closing a snapped app in tablet mode, the other app will take the full screen
 - When your profile starts to load, the background on the lock screen will zoom in a little
 - A number of icons, like the Blu-Ray icon and network icon have been updated
+- The width for the Japanese 12 key keyboard is now wider on small screens in portrait mode
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 3x.14366 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14367 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
  - The ellipses-menu has a slightly new design
  - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
@@ -124,7 +126,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now swipe to go back and forward
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to version 14.14366 with the following updates
+- EdgeHTML has been updated from version 13.10586 to version 14.14367 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
@@ -241,6 +243,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The installation is no longer divided in 3 steps and now shows as just 1 step
 - Improved performance for account migration
 - Windows 10 now provides support for Hyper-V containers
+- Handwriting Recognition support for 23 additional languages
+- Ctrl + Shift + P can now be used to turn of Private mode when Japanese Input Method Editor is used
 
 ### Apps
 - The Get Skype app has been removed
@@ -258,6 +262,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The Feedback Hub now suggests a category when you've typed in your feedback
 - The "Alerts" page in the Feedback Hub has been removed
 - The Feedback Hub will now show Microsoft responses
+- You can now make a screenshot and open Feedback Hub directly with Win + F
 
 ### Other features
 - The Credentials window now allows you to paste into the name and password fields

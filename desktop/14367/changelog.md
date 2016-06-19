@@ -5,7 +5,7 @@
 - Cross-device notifications should now be more reliable and faster
 
 ### User Interface
-- The width for the Japanse 12 key keyboard is now wider on small screens in portrait mode
+- The width for the Japanese 12 key keyboard is now wider on small screens in portrait mode
 
 ### Settings
 - Visual updates and others

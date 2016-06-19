@@ -3,7 +3,8 @@
 - If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
 
 ### Microsoft Edge
-- Edge will now consume less energy when running in the background
+- Edge has been updated from version 38.14364 to 38.1436
+ - Edge will now consume less energy when running in the background
 
 ### Settings
 - New panels, settings and options
