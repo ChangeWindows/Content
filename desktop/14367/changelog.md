@@ -19,9 +19,9 @@
 - You can now make a screenshot and open Feedback Hub directly with Win + F
 
 ### Fixed issues
-- Fixes an issue where notifcations from other devices would display emojis as square boxes
-- Fixes an issue where some emojis would appear as square boxes in apps like Notepad
-- Fixes an issue with the Destkop App Converter Preview
+- Fixes an issue where notifications from other devices would display emoji’s as square boxes
+- Fixes an issue where some emoji’s would appear as square boxes in apps like Notepad
+- Fixes an issue with the Desktop App Converter Preview
 - Fixes an issue resulting in the dialog when joining the PC to an Azure AD appearing large on certain devices
 - Fixes an issue where the Win + A wouldn't work if the Action Center icon was turned off
 - Fixes an issue where notification would keep the Action Center from launching when their toast was still visible
@@ -30,7 +30,7 @@
 - Fixes an issue where PowerShell shortcuts on the taskbar could only open one functional window, while other windows would not accept input
 - Fixes an issue that caused Sticky Notes to flash black and white when a certain number of notes was already created
 - Fixes an issue that caused Office apps to not show up in Most used in start
-- Fixes an issue where Cortana would launch behind the Ink Workspade when activated with "Hey Cortana"
+- Fixes an issue where Cortana would launch behind the Ink Workspace when activated with "Hey Cortana"
 - Fixes an issue that caused explorer.exe to crash when selecting "Open Command window here" from File Explorer's context menu
 
 ### Known issues

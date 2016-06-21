@@ -10,7 +10,7 @@
 - Fixes an issue where Cortana would ask you to unlock the device to read a text over Bluetooth
 - Fixes an issue where Microsoft Edge would crash when trying to scroll on some pages
 - Fixes an issue where disconnecting Bluetooth speakers resulted in the phone being set to vibrate
-- Fixes an issue that caused the cross-device notifcation settings in Cortana to only give a blank page
+- Fixes an issue that caused the cross-device notification settings in Cortana to only give a blank page
 
 ### Known issues
 - You can't deploy an app via Visual Studio 2015 Update 2

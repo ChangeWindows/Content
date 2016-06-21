@@ -22,7 +22,7 @@
 - Fixes an issue with the French version of Windows 10, making it available to all systems that have French as their base language
 - The Settings app will no longer crash by navigating to the privacy-settings
 - Fixes an issue that prevented PC and Mobile devices from projecting to another PC
-- Start will now launch again when an app is being installed on Chinees and Portuguese devices
+- Start will now launch again when an app is being installed on Chinese and Portuguese devices
 - Fixes an issue where scrolling in Windows Ink would not change the angle of the ruler
 - Fixes an issue with the share pane or accepting to go into or out of tablet mode to dismiss the Ink Workspace
 - Fixes an issue where monitors would switch order under display settings after being clicked, causing a number of scaling changes

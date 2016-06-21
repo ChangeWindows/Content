@@ -23,7 +23,7 @@
 - Fixes an issue where "3G only" and "Only 3G or 4G" would not work, resulting in 2G to be selected
 - Fixes an issue with the Japanese Input Method Editor not working properly in the All apps search box
 - Fixes an issue where swiping on a full screen VoIP notification, the dimmed screen would flash
-- Fixes an issue that would keep you from receiving notification toasts until the Action Center was opened if you had tapped on a notification on the lock screen but aported it to enter a pin
+- Fixes an issue that would keep you from receiving notification toasts until the Action Center was opened if you had tapped on a notification on the lock screen but aborted it to enter a pin
 - Fixes an issue where the lock screen settings may show incorrect information while loading
 - Fixes an issue where the Quiet Hours might unexpectedly turn off when having been turned on manually with Quick Actions
 - Fixes an issue where certain sample images where displayed in portrait instead of landscape when used as a lock screen background while the phone was connected to an external monitor
