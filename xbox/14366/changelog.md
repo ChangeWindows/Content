@@ -1,0 +1,5 @@
+### Xbox Store
+- When you buy a pre-order, the funds will be deducted 10 days or less in advance of the release of that game
+
+### Settings and behavior
+- The interface language and keyboard language are no longer tied to the region

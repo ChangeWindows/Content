@@ -29,6 +29,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - You can now place a review and upvote other reviews
 - Sales are now indicated clearly in searches and lists
 - A number of new channels are available to find new games
+- When you buy a pre-order, the funds will be deducted 10 days or less in advance of the release of that game
 
 ### Settings and behavior
 - The interface language and keyboard language are no longer tied to the region

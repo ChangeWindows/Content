@@ -26,7 +26,6 @@
 - A number of new channels are available to find new games
 
 ### Settings and behavior
-- The interface language and keyboard language are no longer tied to the region
 - When starting or shuting down the console with the controller, it will now make a beep-noise
 - TV's that use overscanning can now be compensated by showing borders around apps
 
