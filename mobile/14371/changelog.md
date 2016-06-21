@@ -1,0 +1,34 @@
+### System
+- Improve reliability of Bluetooth in cars
+- The back-up format is changed, causing back-ups to take less from your OneDrive space, however, back-ups are incompatible with older versions of Windows 10 Mobile
+
+### Fixed issues
+- Fixes an issue where the Settings icon wuld be missing from the Background apps and Data usage pages
+- Fixes an issue where the Add-button was clipped on some pages
+- Fixes an issue that caused the Battery settings page to crash when changing the "Usage by apps" time interval while the list was loading
+- Fixes an issue that caused a pitch change when the track is changed when listening to ALAC files streamed to Groove from OneDrive
+- Fixes an issue where tapping on a notification in Action Center wouldn't work if Action Center was opened above the lock screen when "Enter pin" was shown
+- Fixes an issue that made some notifications appear with unneccesary black space
+- Fixes an issue that caused the start screen to turn green or kaleidoscope-like for a short time when quickly opening Actino Center, closing it and panning the screen
+- Fixes an issue that caused spoken directions over Bluetooth to get clipped at the start in some situations
+- Fixes an issue that might prevent sound from not being heard from speakers connected over Bluetooth
+- Fixes an issue that caused the keyboard to go the the last keyboard listed on the Language settings page after a reboot instead of the preferred keyboard
+- Fixes an issue that might freeze the device when turning cellular data off while there is no internet connection
+- Fixes an issue that prevented the ninja cat emoji from displaying correctly
+- Fixes a number of issues with Cortana above the lock screen where she would request a pin, but not perform the command
+- Fixes an issue where Cortana would require a pin after sending a message with voice while not necessary
+- Fixes an issue that caused manual time and date changes to get overwritten after a reboot and connecting to Wi-Fi
+- Fixes an issue that caused Edge to stop responding after tapping a website's "print this page" if it was implenetedi n JavaScript
+- Fixes an issue where apps wouldn't be removed from the taskbar in Continuum if they crashed, causing icons to appear twice
+- Fixes an issue that kept apps from changing the start and lock screen background
+- Fixes a minor stutter and out of order frames when the screen rotates while watching a video in Movies and TV
+- Fixes an issue where the camera button would stay visible on prompts above the lock screen that required a back-button
+- Fixes an issue where some apps would not scroll up far enough when tapping a text box, causing it to get covered by the app bar
+- Fixes an issue where Narrator spoke at an accelerated rate
+- Fixes an issue where icons could be rendered larger than usual on a secondary monitor over Continuum
+- Fixes an issue that resulted in un-pairing of some Bluetooth devices never to finish after rebooting the device while it was connected
+- Fixes an issue that could result in entire playlists to fail in Groove Music if a song fails
+
+### Known issues
+- Devices like the Lumia 830, 930 and 1520 may experience decreased battery live (SoC 8974 chipsets)
+- Wi-Fi might randomly disconnect
