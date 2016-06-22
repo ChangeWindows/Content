@@ -1,5 +1,5 @@
 ## What's new in Xbox One Update version 10.0.14366.1006?
-_Released on 23 November 2015_
+_Released on 21 June 2016_
 
 ### Store
 - The product detail page has an updated layout
