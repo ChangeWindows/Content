@@ -2,7 +2,7 @@
 - The Action Center now has an animation when notifications are deleted or moved by Windows
 
 ### Microsoft Edge
-- Edge has been updated from version 38.14367 to version 3x.14371 with the following updates
+- Edge has been updated from version 38.14367 to version 38.14371 with the following updates
  - When a download is opened outside of Edge, Edge will now launch with the download hub enabled
 
 ### Settings
