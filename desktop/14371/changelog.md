@@ -14,21 +14,21 @@
 - It is now possible to link your Microsoft Account to your digital license
 
 ### Other features
-- Improved learning speed and prediction in the Japanse IME
+- Improved learning speed and prediction in the Japanese IME
 - Improved sound and network icon on non-standard DPI settings
 - Improved reliability for the Action Center
 
 ### Fixed issues
 - Narrator will now work again when toggled in the Settings app
 - Narrator will now speak at a normal speed again
-- Fixes an issue where the Japanse IME would hang for a short time
-- Fixes an issue where keyboard focus would move to the next favorite when editing the name of a favorite causes the the caret to go beyond the end of the textbox
+- Fixes an issue where the Japanese IME would hang for a short time
+- Fixes an issue where keyboard focus would move to the next favorite when editing the name of a favorite causes the caret to go beyond the end of the textbox
 - Fixes an issue where pressing enter would not trigger Edge to navigate to that URL of you opened a tab and started typing shortly afterwards
 - MPEG-2 videos will no longer show the wrong duration in the Movies and TV app
 - Fixes an issue where the "Scan options" text in Defender would be clipped on High-DPI screens
 - Fixes an issue where offline scan event wasn't correctly formatted and would show an exposed parameter in the Event Logs
 - Fixes an issue where the permission dialog for a new extension in Edge appears under the favorites bar
-- Fixes the "Please allow third party cookies in your browser"-error on some wbesites when using OneNote Web Clipper in Edge
+- Fixes the "Please allow third party cookies in your browser"-error on some websites when using OneNote Web Clipper in Edge
 - Fixes an issue that caused the Action Center icon to be clipped by the Show desktop icon at 225% DPI
 - Fixes an issue that caused old appointments to show up between today's events
 - Fixes an issue that caused some keys to stop working when switching between the OCT and HEX mode
@@ -44,4 +44,4 @@
 - Fixes an issue where a focus box was sometimes visible in start, preventing type-to-search from working
 
 ### Known issues
-- Clicking the network and VPN toglles in the network flyout won't launch the network settings
+- Clicking the network and VPN toggles in the network fly out won't launch the network settings
