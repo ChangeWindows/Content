@@ -1,0 +1,9 @@
+### System
+- Improved performance and reliability
+
+### Fixed issues
+- Unknown bug fixes
+
+### Known issues
+- Devices like the Lumia 830, 930 and 1520 may experience decreased battery live (SoC 8974 chipsets)
+- Wi-Fi might randomly disconnect
