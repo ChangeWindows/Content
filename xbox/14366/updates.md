@@ -14,3 +14,11 @@ _Released on 21 June 2016_
 
 ### Fixed issues
 - The Store's UI will no longer appear to zoom in when confirming your payment information
+
+## What's new in Xbox One Update version 10.0.14366.1011?
+_Released on 23 June 2016_
+
+### Fixed issues
+- You can now buy, rent and play movies and TV show from the Store
+- Fixes an issue where Xbox Live Gold subscribers would see the wrong price
+- Game and app installations in progress will now continue when the device goes in standby when Instant-On is enabled
