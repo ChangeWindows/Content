@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14367
+### Last updated to match with version 10.0.14372
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -141,6 +141,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The default emoji’s are no longer grey, but yellow
 - The text prediction engine has bene improved to show candidates based on the current keyboard language, instead of the language that was used when the word was written
 - 5-inch devices like the Lumia 640 and 830 can now also use the one-handed keyboard
+- Improve reliability of Bluetooth in cars
+- The back-up format is changed, causing back-ups to take less from your OneDrive space, however, back-ups are incompatible with older versions of Windows 10 Mobile
 
 ### Apps
 - Messaging now supports Messaging Everywhere

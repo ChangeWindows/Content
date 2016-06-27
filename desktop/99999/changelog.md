@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14367
+### Last updated to match with version 10.0.14372
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -29,6 +29,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The Recently installed-list is now displayed above Most used
 - Recently installed apps now stay visible under Recently installed for 7 days
 - If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
+- The Action Center now has an animation when notifications are deleted or moved by Windows
 
 ### Cortana and search
 - Cortana will now show a button on the top to search for music
@@ -92,7 +93,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The width for the Japanese 12 key keyboard is now wider on small screens in portrait mode
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14367 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14372 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
  - The ellipses-menu has a slightly new design
  - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
@@ -126,7 +127,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - You can now swipe to go back and forward
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to version 14.14367 with the following updates
+ - When a download is opened outside of Edge, Edge will now launch with the download hub enabled
+- EdgeHTML has been updated from version 13.10586 to version 14.14372 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
@@ -209,6 +211,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - Notifications has been added under "Privacy" to change which apps have access to your notifications
  - "Activation" now has a description to help people change their product key
  - The name, IP address, and mac address to be selectable for Mobile Hotspot are now selectable so that you can copy them
+ - The 3D display state will now be saved when upgrading
 - Visual updates and others
  - The Settings app has a new design
  - The selected accent color now has a new marking
@@ -245,6 +248,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows 10 now provides support for Hyper-V containers
 - Handwriting Recognition support for 23 additional languages
 - Ctrl + Shift + P can now be used to turn of Private mode when Japanese Input Method Editor is used
+- You can now troubleshoot activations
+- It is now possible to link your Microsoft Account to your digital license
 
 ### Apps
 - The Get Skype app has been removed
@@ -269,6 +274,9 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Tapping anywhere in the "Set location" notification will now allow you to set a default location
 - The Game Bar now supports more full-screen games
 - Task Manager settings will now be saved after upgrading to a new build
+- Improved learning speed and prediction in the Japanese IME
+- Improved sound and network icon on non-standard DPI settings
+- Improved reliability for the Action Center
 
 ### And further
 - Windows 10 Education is now supported for the Windows Insider Preview
