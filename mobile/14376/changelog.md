@@ -1,9 +1,10 @@
+### Settings
+- Visual updates and others
+ - Improved performance for loading the app list under Storage settings
+
 ### Apps
 - Messaging Everywhere has been removed from the Messaging app
-
-### Other features
 - Improved reliability for navigating between camera roll and the Camera app
-- Improved performance for loading the app list under Storage settings
 
 ### Fixed issues
 - Fixes issues with the Gadgets app and Microsoft Display Dock

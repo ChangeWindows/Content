@@ -1,12 +1,14 @@
 ### User Interface
 - Windows Hello will no longer show your name when logging in
 
+### System
+- Improved consistency in scrolling and zooming speeds between monitors when using a multiple-monitor setup with a precision touchpad
+
 ### Apps
 - Messaging Everywhere has been removed from the Messaging app
 
 ### Other features
 - Narrator now supports using physical volume buttons to change the volume while Narrator is in Scan mode
-- Improved consistency in scrolling and zooming speeds between monitors when using a multiple-monitor setup with a precision touchpad
 
 ### Fixed issues
 - Clicking the networks or VPN Quick Action now opens the network settings page

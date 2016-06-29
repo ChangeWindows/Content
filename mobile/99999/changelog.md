@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14372
+### Last updated to match with version 10.0.14376
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -50,7 +50,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Glance screen now follows the Ease of Access scaling settings
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to 38.14364
+- Edge has been updated from version 25.10586 to 38.14376
  - You can now swipe to go back and forward
  - The X-button to close tabs is now larger
  - Word Flow now works in the Edge address bar
@@ -60,7 +60,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - When an app opens a new tab, pressing back will now close it
  - When typing in a text box, you can now use the pase button above the keyboard
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to 14.14364
+- EdgeHTML has been updated from version 13.10586 to 14.14376
  - Default parameters
  - Async/await
  - Object.values and Object.entries
@@ -122,6 +122,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - A selected sub-category now has a Groove-like select state
  - The title of pages is now displayed larger
  - The icons under Update & Security have been updated to be more reflective of their meaning
+ - Improved performance for loading the app list under Storage settings
 
 ### System
 - Continuum now supports USB Ethernet
@@ -145,7 +146,6 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The back-up format is changed, causing back-ups to take less from your OneDrive space, however, back-ups are incompatible with older versions of Windows 10 Mobile
 
 ### Apps
-- Messaging now supports Messaging Everywhere
 - You can now swipe a conversation to delete it in Messaging
 - The phone app now show an indicator for missed calls and voicemails
 - You can now cycle through pages in the phone app infinitely
@@ -155,6 +155,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows Maps has been redesigned
 - The alarm will now go louder faster when using your music
 - FM Radio is no longer installed as a default app
+- Improved reliability for navigating between camera roll and the Camera app
 - The Insider Hub and Windows Feedback apps have been merged to Feedback Hub
  - You can now react on feedback in the Feedback Hub
  - The Feedback Hub now suggest a category when you've typed in your feedback
