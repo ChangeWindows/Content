@@ -175,7 +175,7 @@ _Released on 31 May 2016 to the Preview Release Ring_
 - Fixes additional issues with Microsoft Edge, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 
 ## What's new in Windows 10 Mobile build 10586.420?
-_Released on 14 June 2016 to the Preview Release Ring and Current Branch
+_Released on 14 June 2016 to the Preview Release Ring and Current Branch_
 
 ### And further
 - Improved stability, accuracy and reduced latency with driving directions in Maps
@@ -191,3 +191,9 @@ _Released on 14 June 2016 to the Preview Release Ring and Current Branch
 - Fixes an issue that caused some devices to be unable to install other keyboards and languages without reset after upgrading from Windows Phone 8.1
 - Fixes an issue that caused phones to stop rining to notify for an incoming call if that notificaiton is interrupted by an SMS
 - Fixes an issue that kept Project My Screen from working on some devices
+
+## What's new in Windows 10 Mobile build 10586.456?
+_Released on 29 June 2016 to the Preview Release Ring_
+
+### And further
+- Unknown changes
