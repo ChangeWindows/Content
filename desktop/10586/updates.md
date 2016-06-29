@@ -128,3 +128,9 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 - Fixes an issue with location services that may cause apps like Maps to lag behind for the user's location
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, DNS Server, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player, JScript and VBScript and WPAD
+
+## What's new in Windows 10 Mobile build 10586.456?
+_Released on 29 June 2016 to the Preview Release Ring_
+
+### And further
+- Unknown changes
