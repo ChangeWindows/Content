@@ -130,7 +130,7 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, DNS Server, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player, JScript and VBScript and WPAD
 
 ## What's new in Windows 10 Mobile build 10586.456?
-_Released on 29 June 2016 to the Preview Release Ring_
+_Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
 
 ### And further
 - Unknown changes
