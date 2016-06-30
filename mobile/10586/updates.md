@@ -183,7 +183,7 @@ _Released on 14 June 2016 to the Preview Release Ring and Current Branch_
 - Phones will now take less longer to shut down completely after "Goodbye" is no longer displayed
 - Devices now have to restart within 7 days instead of 14 to install updates
 
-### Fixes issues
+### Fixed issues
 - Fixes an issue with Cortana that caused the app to crash when performing a search
 - Fixes incorrct times after Daylight Savings Time has been appplied on meeting cards and reminders
 - Fixes an issue that caused the battery to drain energy when syncing mail over IMAP
@@ -196,4 +196,14 @@ _Released on 14 June 2016 to the Preview Release Ring and Current Branch_
 _Released on 29 June 2016 to the Preview Release Ring_
 
 ### And further
-- Unknown changes
+- Improved reliability for Windows Explorer, Miracast and Windows kernel
+- Improved support to honor the data backup settings of applications
+- Improved support for playback of video in some applications that did not render the video while the audio continued after resuming from sleep
+
+### Fixed issues
+- Fixes an issue with some users noticing a black screen instead of the lock screen, when resuming from connected standby
+- Fixes an issue where the DirectAccess Disconnect button appears sometimes even when the connection is not fully established.
+- Fixes an issue where local user accounts weren’t locked out after a number of failed sign in attempts
+- Fixes an issue where the Windows Phone sometimes loses user authentication certificates after upgrading to Windows 10 Mobile
+- Fixes an issue where Microsoft Silverlight based application won't install, after joining Azure Active Directory
+- Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Networking and Wi-Fi connectivity

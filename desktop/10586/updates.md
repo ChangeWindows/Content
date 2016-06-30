@@ -132,5 +132,15 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 ## What's new in Windows 10 Mobile build 10586.456?
 _Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
 
+## What's new in Windows 10 Mobile build 10586.456?
+_Released on 29 June 2016 to the Preview Release Ring_
+
 ### And further
-- Unknown changes
+- Improved reliability for Windows Media player, Internet Explorer 11, Windows Explorer, Miracast and Windows kernel
+- Improved support for playback of video in some applications that did not render the video while the audio continued after resuming from sleep
+
+### Fixed issues
+- Fixes an issue with some users noticing a black screen instead of the lock screen, when resuming from connected standby
+- Fixes an issue where the DirectAccess Disconnect button appears sometimes even when the connection is not fully established
+- Fixes an issue where local user accounts weren’t locked out after a number of failed sign in attempts
+- Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Internet Explorer, Networking and Wi-Fi connectivity
