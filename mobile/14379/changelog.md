@@ -1,0 +1,8 @@
+### Fixed issues
+- Fixes an issue where a focus rectangle could be visible in some apps after bringing up the keyboard
+- Fixes an issue where the aspect ratio of images on live tiels wasn't preserved when made smaller
+
+### Known issues
+- Devices like the Lumia 830, 930 and 1520 may experience decreased battery live (SoC 8974 chipsets)
+- Wi-Fi might randomly disconnect
+- You won't be able to interact with PDFs in Edge

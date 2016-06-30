@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14376
+### Last updated to match with version 10.0.14379
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -50,7 +50,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Glance screen now follows the Ease of Access scaling settings
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to 38.14376
+- Edge has been updated from version 25.10586 to 38.14379
  - You can now swipe to go back and forward
  - The X-button to close tabs is now larger
  - Word Flow now works in the Edge address bar
@@ -60,7 +60,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - When an app opens a new tab, pressing back will now close it
  - When typing in a text box, you can now use the pase button above the keyboard
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to 14.14376
+- EdgeHTML has been updated from version 13.10586 to 14.14379
  - Default parameters
  - Async/await
  - Object.values and Object.entries
