@@ -1,4 +1,4 @@
-### And further
+### System
 - Improved battery life for Surface devices
 - Projecting to a PC auto-discoverability is now off by default
 

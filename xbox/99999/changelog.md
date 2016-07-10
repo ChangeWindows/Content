@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586.1202 and will form the changelog for the Xbox One Summer Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14366.1005
+### Last updated to match with version 10.0.14383.1000
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Dashboard
@@ -18,10 +18,14 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The RB and LB buttons have been replaced with LT and RT to be more consistent with the dashboard
 - You can now see the speed with which your games are downloaded
 - The Queue tab now shows you your most recent installed games and apps
+- A new section to download updates has been added
 
 ### Activity feed
 - Content from Win32-games can now show up in your Activity feed (game clip and screenshot)
 - You now have more control over what is posted on the Acitivty feed
+
+### Media
+- You can now playback movies and TV shows in the Movies & TV app
 
 ### Xbox Store
 - The Xbox Store app is no longer integrated in the OS itself, and can be updated seperately through the Store
@@ -30,6 +34,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Sales are now indicated clearly in searches and lists
 - A number of new channels are available to find new games
 - When you buy a pre-order, the funds will be deducted 10 days or less in advance of the release of that game
+- You can now purchase and rent movies and TV shows from the Store
 
 ### Settings and behavior
 - The interface language and keyboard language are no longer tied to the region
@@ -37,6 +42,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - TV's that use overscanning can now be compensated by showing borders around apps
 - You can now enable and disable SmartScreen
 - You can now enable and disable Advertising ID
+- You can now manage add-ons from the Settings app
 
 ### And further
 - You can now communicate with gamers playing a Win32-game, including party chats, game clips and screenshots

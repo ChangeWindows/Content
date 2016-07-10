@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14379
+### Last updated to match with version 10.0.14385
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -61,6 +61,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Cortana should now listen more reliably after tapping the mic button
 - Cortana's home UI no longer shows your cards but hints and a button to show the cards
 - Right-clicking on a file will now allow you to open its location
+- The keyboard shortcut to open Cortana in listening mode is now Win + Shift + C
 
 ### Desktop
 - Controls in taskbar previews now look better on high resolutions
@@ -252,6 +253,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - You can now troubleshoot activations
 - It is now possible to link your Microsoft Account to your digital license
 - Improved consistency in scrolling and zooming speeds between monitors when using a multiple-monitor setup with a precision touchpad
+- Improved battery life for Surface devices
+- Projecting to a PC auto-discoverability is now off by default
 
 ### Apps
 - The Get Skype app has been removed

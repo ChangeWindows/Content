@@ -144,6 +144,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - 5-inch devices like the Lumia 640 and 830 can now also use the one-handed keyboard
 - Improve reliability of Bluetooth in cars
 - The back-up format is changed, causing back-ups to take less from your OneDrive space, however, back-ups are incompatible with older versions of Windows 10 Mobile
+- Improved battery performance for people that often turn the screen on and off again to look at the lock screen
 
 ### Apps
 - You can now swipe a conversation to delete it in Messaging

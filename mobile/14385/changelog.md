@@ -1,4 +1,4 @@
-### And further
+### System
 - Improved battery performance on older devices like the Lumia 830, 830 and 1520
 
 ### Fixed issues

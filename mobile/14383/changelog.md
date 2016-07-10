@@ -1,4 +1,4 @@
-### And further
+### System
 - Improved battery performance for people that often turn the screen on and off again to look at the lock screen
 
 ### Fixed issues
