@@ -1,0 +1,25 @@
+### Cortana and search
+- The keyboard shortcut to open Cortana in listening mode is now Win + Shift + C
+
+### Microsoft Edge
+- Edge has been updated from version 38.14379 to version 38.14383 with the following updates
+ - "Get more extensions from the Store" now links to the Windows Store
+
+### Settings
+- New panels, settings and options
+ - Quick Action locations and visibility will now be preserved when upgrading
+
+### Fixed issues
+- Fixes an issue where disconnecting te Surface Book from an external monitor that was set as the primary monitor may result in the Surface Book showing in portrait mode instead of landscape until the screen was detached and reattached
+- Fixes an issue that caused the settings app to show media controls in the taskbar
+- Fixes an issue where dragging a file comparison or manage library dialog between two monitors with a different DPI would result in the dialogs no longer displaying correctly
+- Fixes an issue where the checkmark used to indicate a selected state in app bar toggle buttons wouldn't be visible in high contrast
+- Fixes an issue where connecting to a PC using Remote Desktop when a maximized window is immediately behind the Remote Desktop dialog would result in the Credential UI window being displayed behind the maximized window
+- Fixes an issue where Explorer would freeze after showing a tooltip
+- Fixes an issue where some Bluetooth mice may accelerate erratically
+- Fixes an issue where some urls on webpages in Edge would not be announced as hyperlinks by Narrator
+- Fixes an issue where some websites would cause a memory leak in Edge when LastPass is enabled
+
+### Known issues
+- Booting a new Windwos Server 2016 Technical Preview 5 virtual machine will fail
+- A 0x80004005 error will appear when enabling Developer Mode on the "For Developers"
