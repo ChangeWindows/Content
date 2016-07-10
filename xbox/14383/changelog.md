@@ -1,0 +1,12 @@
+### My Games & Apps
+- A new section to download updates has been added
+
+### Settings and behavior
+- You can now manage add-ons from the Settings app
+
+### Fixed issues
+- Fixes an issue that allowed users to purchase Xbox 360 backwards compatible games, movies and TV shows without entering a password when "Lock It Down" is enabled
+- Fixes an issue where the Store would show a "Buy"-button instead of an "Install"-button
+- Fixes an issue resulting in a 0x803f8003-error when launching EA Access games
+- Fixes an issue that prevented music videos from playing in Groove Music
+- Fixes issues where some games would stutter and lag

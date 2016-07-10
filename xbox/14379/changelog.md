@@ -1,0 +1,15 @@
+### Xbox Store
+- You can now purchase and rent movies and TV shows from the Store
+- The "Coming soon" section is now available
+
+### Media
+- You can now playback movies and TV shows in the Movies & TV app
+
+### Fixed issues
+- Fixes an issue that prevented the headset controls from appearing in the Guide
+- Fixes an issue that caused the Xbox Avatars app to freeze in the Queue when attempting to download an update
+- Fixes the menu obstructing a part of the screen in the Movies & TV app when playing a video
+- Edge will no longer crash when playing a video and pressing the left thumbstick to go full screen
+- OneDrive and NowTV will now launch properly again
+- Fixes an issue where Narrator would lose focus when navigating the dashboard and Store
+- Fixes an issue that kept some EA Access grames from playing
