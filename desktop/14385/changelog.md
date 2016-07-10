@@ -1,8 +1,16 @@
+### And further
+- Improved battery life for Surface devices
+- Projecting to a PC auto-discoverability is now off by default
+
 ### Fixed issues
-- Fixes an issue where the Crdential UI might scale incorrectly on High DPI
-- Fixes an issue that may cause Action Center to crash after dismissing a big number of notifications
-- Fixes an issue where Centennial apps being launched from Start or Cortana would not be accounted for in the "Most used" list
-- Fixes an issue where no note would have keyboard focus after minimizing then reopening Sticky Notes
+- A pop up that warns you for the evaluation expireing will no longer appear
+- Fixes an issue where Spotify sometiems crashes when playing music
+- Fixes an issue that caused the Googl Chrome windwo to be clipped on the top when maximized
+- Fixes an issue where the host device of a Mobile Hotspot could result the host device bug-checking when used on the 5GHz band
+- Fixes an issue where the pin prompt when connecting to some VPNs would not appear on top of all windows
+- Fixes an issue where LastPass and AdBlock would not show the expected context menu items or status
+- Fixes an issue where some tabs may hang after exiting Web Notes
 
 ### Known issues
-- Using Continuum from your phone on your PC through the Connect app won't work
+- Booting a new Windows Server 2016 Technical Preview 5 virtual machine will fail
+- A 0x80004005 error will appear when enabling Developer Mode on the "For Developers"

@@ -1,0 +1,21 @@
+### And further
+- Improved battery performance for people that often turn the screen on and off again to look at the lock screen
+
+### Fixed issues
+- Fixes an issue where zooming in and out on an embedded map could result in that map jumping to random locations in Edge
+- Fixes an issue where muting the volume would not work on some devices on YouTube when a video uses the OPUS codec
+- Fixes an issue that prevented you from tapping "End Call" when an incoming text is being announced over Bluetooth in a car
+- Fixes an issue that prevented you from making Store purchases using mobile operator billing when you have an Orange SIM
+- Fixes an issue where Groove would pause music after the music has been paused and resumed manually
+- Fixes an issue where the keyboard would output @ and € instead of "a" and "e" in some languages in Windows Phone 8.1 apps
+- Fixes an issue that made Windows Phone 8.1 games appear to play in slow motion on some devices
+- Fixes an issue where incoming notifications would not consider the proximity sensor while the screen was off
+- Fixes an issue where Visual Voicemail setup wouldn't appear after hard resetting a device
+- Fixes an issue that caused tiles pinned from within an app to appear blank
+- Fixes an issue where the "SIM 2" title would be missing from the pinned Messaging and Phone tiles for the second SIM
+- Fixes an issue with Start screen scaling incorrectly after switching from Continuum/Extended Desktop to Mirrored/Duplicated on devices with non-default DPI settings
+- Fixes an issue that resulted in a delay on the missed call count on the Phone Live tile
+
+### Known issues
+- Voice recorder doesn't show up correctly as an option for Call Recording
+- You won't be able to interact with PDFs in Edge

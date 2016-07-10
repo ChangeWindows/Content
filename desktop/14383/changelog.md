@@ -1,6 +1,9 @@
 ### Cortana and search
 - The keyboard shortcut to open Cortana in listening mode is now Win + Shift + C
 
+### Desktop
+- The watermark is no longer visible
+
 ### Microsoft Edge
 - Edge has been updated from version 38.14379 to version 38.14383 with the following updates
  - "Get more extensions from the Store" now links to the Windows Store
@@ -21,5 +24,5 @@
 - Fixes an issue where some websites would cause a memory leak in Edge when LastPass is enabled
 
 ### Known issues
-- Booting a new Windwos Server 2016 Technical Preview 5 virtual machine will fail
+- Booting a new Windows Server 2016 Technical Preview 5 virtual machine will fail
 - A 0x80004005 error will appear when enabling Developer Mode on the "For Developers"
