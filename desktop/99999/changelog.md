@@ -95,7 +95,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows Hello will no longer show your name when logging in
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14379 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14385 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
  - The ellipses-menu has a slightly new design
  - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
@@ -130,7 +130,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
  - When a download is opened outside of Edge, Edge will now launch with the download hub enabled
-- EdgeHTML has been updated from version 13.10586 to version 14.14379 with the following updates
+- EdgeHTML has been updated from version 13.10586 to version 14.14385 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
