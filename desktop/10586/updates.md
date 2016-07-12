@@ -132,9 +132,6 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 ## What's new in Windows 10 Mobile build 10586.456?
 _Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
 
-## What's new in Windows 10 Mobile build 10586.456?
-_Released on 29 June 2016 to the Preview Release Ring_
-
 ### And further
 - Improved reliability for Windows Media player, Internet Explorer 11, Windows Explorer, Miracast and Windows kernel
 - Improved support for playback of video in some applications that did not render the video while the audio continued after resuming from sleep
