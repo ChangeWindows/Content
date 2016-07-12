@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14385
+### Last updated to match with version 10.0.14388
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -95,7 +95,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows Hello will no longer show your name when logging in
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14385 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14388 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
  - The ellipses-menu has a slightly new design
  - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
@@ -130,7 +130,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
  - When a download is opened outside of Edge, Edge will now launch with the download hub enabled
-- EdgeHTML has been updated from version 13.10586 to version 14.14385 with the following updates
+- EdgeHTML has been updated from version 13.10586 to version 14.14388 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
