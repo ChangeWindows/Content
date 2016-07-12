@@ -1,0 +1,7 @@
+### Fixed issues
+- Fixes an issue where the keyboard would not show up in InPrivate mode on Edge
+- Fixes an issue where apps could get stuck after being suspended in a state that keeps them from launching until the device is rebooted
+
+### Known issues
+- Voice recorder doesn't show up correctly as an option for Call Recording
+- When using Tap to Pay on a locked phone, you might be required to enter your PIN twice
