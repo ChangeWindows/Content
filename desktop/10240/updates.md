@@ -80,7 +80,7 @@ _Released on 10 May 2016 for the Current Branch, Current Branch for Business and
 - Fixes additional issues with Internet Explorer 11
 - Fixes security issues in Microsoft Graphics Component, remote procedure calls, Internet Explorer 11, Microsoft Edge, Windows Journal, JScript, Schannel, Windows Shell and Virtual Secure Mode
 
-## What's new in Windows 10 Mobile build 10240.16942?
+## What's new in Windows 10 build 10240.16942?
 _Released on 14 June 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3163017](https://support.microsoft.com/?kbid=3163017)_
 
 ### And further
@@ -94,3 +94,17 @@ _Released on 14 June 2016 to the Current Branch, Current Branch for Business and
 - Fixes an issue that may cause devices with many processors to hang when rebooted or resuming from sleep
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, File Explorer, PCI, revised daylight saving time and Microsoft Graphics component
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB, Microsoft Graphics Component, Group Policy, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player and WPAD
+
+## What's new in Windows 10 build 10240.17024?
+_Released on 12 July 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3163912](https://support.microsoft.com/?kbid=3163912)_
+
+### And further
+- Improved reliability of Internet Explorer 11, Windows Explorer, and Windows Update
+- Improved support for USB 3.0 to mount Small Computer System Interface (SCSI) CD-ROM devices
+
+### Fixes issues
+- Fixed issue in the NT File system (NTFS) that caused some systems to hang while restarting
+- Fixed issue that caused some drivers to fail during installation
+- Fixed issue that caused some apps to become unresponsive when used with an Input Method Editor
+- Fixed additional issues in Microsoft Graphics component, Internet Explorer 11, Scheduled Tasks and .NET Framework
+- Security updates for Microsoft Edge, Internet Explorer, Microsoft Print Spooler, Windows Kernel, Secure Kernel, Kernel Mode Drivers, .NET Framework, JScript and VBScript

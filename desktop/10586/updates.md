@@ -141,3 +141,17 @@ _Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://supp
 - Fixes an issue where the DirectAccess Disconnect button appears sometimes even when the connection is not fully established
 - Fixes an issue where local user accounts weren’t locked out after a number of failed sign in attempts
 - Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Internet Explorer, Networking and Wi-Fi connectivity
+
+## What's new in Windows 10 Mobile build 10586.494?
+_Released on 14 July 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
+
+### And further
+- Improved reliability of Windows Media Player, Internet Explorer 11, Windows Explorer, Miracast, and Windows kernel
+- Improved support for video playback in certain apps that didn't render video correctly after resuming from sleep
+
+### Fixed issues
+- Fixed issue with some people seeing a black screen instead of the lock screen when resuming from connected standby
+- Fixed issue with DirectAccess where the Disconnect button appears in some cases when the connection isn't fully established
+- Fixed issue where local user accounts weren't locked after a number of failed sign in attempts
+- Fixed additional issues in .NET, Windows Kernel, Windows Update, authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Internet Explorer 11, networking and Wi-Fi connectivity
+- Security updates for Microsoft Edge, Internet Explorer 11, Kernel Mode Drivers, Windows Kernel, .NET Framework, Windows Secure Kernel Mode and Microsoft Print Spooler

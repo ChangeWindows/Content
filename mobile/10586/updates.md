@@ -207,3 +207,19 @@ _Released on 29 June 2016 to the Preview Release Ring_
 - Fixes an issue where the Windows Phone sometimes loses user authentication certificates after upgrading to Windows 10 Mobile
 - Fixes an issue where Microsoft Silverlight based application won't install, after joining Azure Active Directory
 - Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Networking and Wi-Fi connectivity
+
+## What's new in Windows 10 Mobile build 10586.494?
+_Released on 14 July 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
+
+### And further
+- Improved reliability of Windows Explorer, Miracast and Windows kernel
+- Improved support for video playback in certain apps that didn't render video correctly after resuming from sleep
+- Improved support of the backup settings of apps
+
+### Fixed issues
+- Fixed issue with some people seeing a black screen instead of the lock screen when resuming from connected standby
+- Fixed issue with DirectAccess where the Disconnect button appears in some cases when the connection isn't fully established
+- Fixed issue where local user accounts weren't locked after a number of failed sign in attempts
+- Fixed issue with Windows Phone losing user authentication certificates after upgrading to Windows 10 Mobile in some cases
+- Fixed issue where Microsoft Silverlight based apps wouldn't install on Windows 10 Mobile after joining Azure Active Directory
+- Fixed additional issues in .NET, Windows Kernel, Windows Update, authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, networking and Wi-Fi connectivity
