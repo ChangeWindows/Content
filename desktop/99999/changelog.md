@@ -272,6 +272,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The "Alerts" page in the Feedback Hub has been removed
 - The Feedback Hub will now show Microsoft responses
 - You can now make a screenshot and open Feedback Hub directly with Win + F
+- The Win32 Sticky Notes app has been removed
 
 ### Other features
 - The Credentials window now allows you to paste into the name and password fields
