@@ -264,14 +264,12 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Paid WiFi & Cellular has been added as a default app
 - Sticky Notes has been added as a default app
 - Feedback Hub has been added as a default app
+ - You can now react on feedback in the Feedback Hub
+ - The Feedback Hub now suggests a category when you've typed in your feedback
+ - The "Alerts" page in the Feedback Hub has been removed
+ - The Feedback Hub will now show Microsoft responses
+ - You can now make a screenshot and open Feedback Hub directly with Win + F
 - Option now available to use the Camera app to take a photo and send it with Skype
-- The Alarms & Clocks app now can use an inline time selector
-- You can now react on feedback in the Feedback Hub
-- You can now swipe a conversation to delete it in Messaging
-- The Feedback Hub now suggests a category when you've typed in your feedback
-- The "Alerts" page in the Feedback Hub has been removed
-- The Feedback Hub will now show Microsoft responses
-- You can now make a screenshot and open Feedback Hub directly with Win + F
 - The Win32 Sticky Notes app has been removed
 
 ### Other features
