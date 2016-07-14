@@ -1,0 +1,2 @@
+### Fixed issues
+- Fixes an issue that sometimes caused notification not to appear

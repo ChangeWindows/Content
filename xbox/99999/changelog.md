@@ -6,6 +6,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 ### Dashboard
 - Cortana is now available on Xbox One and integrated in the dashboard
 - The "Xbox"-voice command has been replaced with "Hey Cortana"
+- You can now opt-out from Cortana, which will enable the legacy "Xbox"-commands again
+- Cortana for France, Italy, Germany and Spain has been temporary removed
 - You can now use your headset for voice commands
 - "My games & apps" is now displayed on the top right corner of your dashboard's main page
 - The dashboard will now display download and installation progress for games and apps you're installing
@@ -35,6 +37,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - A number of new channels are available to find new games
 - When you buy a pre-order, the funds will be deducted 10 days or less in advance of the release of that game
 - You can now purchase and rent movies and TV shows from the Store
+- You can now redeem a 5x5 code for Xbox Live Gold
 
 ### Settings and behavior
 - The interface language and keyboard language are no longer tied to the region
