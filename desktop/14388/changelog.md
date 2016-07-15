@@ -5,4 +5,4 @@
 
 ### Known issues
 - Booting a new Windows Server 2016 Technical Preview 5 virtual machine will fail
-- A 0x80004005 error will appear when enabling Developer Mode on the "For Developers"
+- A 0x80004005 error will appear when enabling Developer Mode on the "For Developers" page
