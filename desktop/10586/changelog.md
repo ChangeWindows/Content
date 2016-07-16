@@ -93,7 +93,7 @@
 ### System
 - Improved memory management
 - Your default printer is now the last printer you've used
-- You can now acitvate Windows 10 with a Windows 7, 8 or 8.1 key
+- You can now activate Windows 10 with a Windows 7, 8 or 8.1 key
 - The build number of a public build no longer has to be dividable by 16
 - WebM and VP9 support has been removed (will return in a later build)
 - Improvements to localization text UI in various languages

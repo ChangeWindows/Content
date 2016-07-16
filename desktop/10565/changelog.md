@@ -39,7 +39,7 @@
 
 ### System
 - Your default printer is now the last printer you've used
-- You can now acitvate Windows 10 with a Windows 7, 8 or 8.1 key
+- You can now activate Windows 10 with a Windows 7, 8 or 8.1 key
 
 ### Apps
 - Skype Video has been added as a default app

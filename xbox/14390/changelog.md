@@ -1,0 +1,6 @@
+### Fixed issues
+- The progress bar in Movies & TV will now update correctly when playing, rewinding or fast forwaring a video
+- Fixes an issue where some currencies would fail to appear in-game after purchasing from the Store
+- Scrolling to the bottom of the Games section in My Games & Apps will no longer cause you to lose focus
+- Fixes error "Something went wrong 0x80073d00" which caused you to get stuck in a loop attemtping to install games or apps
+- A number of unknown localization fixes
