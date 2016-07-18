@@ -1,0 +1,6 @@
+### My Games & Apps
+- Improved performance when scrolling through large collections
+
+### Fixed issues
+- Fixes an issue that may cause purchases to nto appear in games until the game is restarted
+- Fixes an issue to fix CAST from crashing
