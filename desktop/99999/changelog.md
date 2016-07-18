@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Anniversary Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14390
+### Last updated to match with version 10.0.14393
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -95,7 +95,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Windows Hello will no longer show your name when logging in
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to version 38.14390 with the following updates
+- Edge has been updated from version 25.10586 to version 38.14393 with the following updates
  - Right clicking the back-button will now show a dropdown with pages visited earlier
  - The ellipses-menu has a slightly new design
  - The hub-, webnote- and share-items will no longer appear in the settings-menu when there isn't enough space on the addressbar
@@ -130,7 +130,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "What's new and tips" has been added to the menu in Edge
  - Download notificaions in Edge now include filenames, download status and site domain on separate lines
  - When a download is opened outside of Edge, Edge will now launch with the download hub enabled
-- EdgeHTML has been updated from version 13.10586 to version 14.14390 with the following updates
+- EdgeHTML has been updated from version 13.10586 to version 14.14393 with the following updates
  - Support for grab and grabbing values for the cursor property
  - Default parameters
  - Async/await
@@ -255,6 +255,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Improved consistency in scrolling and zooming speeds between monitors when using a multiple-monitor setup with a precision touchpad
 - Improved battery life for Surface devices
 - Projecting to a PC auto-discoverability is now off by default
+- You can now mount iPods as USB mass-storage devices
 
 ### Apps
 - The Get Skype app has been removed
@@ -279,7 +280,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Task Manager settings will now be saved after upgrading to a new build
 - Improved learning speed and prediction in the Japanese IME
 - Improved sound and network icon on non-standard DPI settings
-- Improved reliability for the Action Center
+- Improved reliability of Start, Cortana and Action Center
 - Narrator now supports using physical volume buttons to change the volume while Narrator is in Scan mode
 
 ### And further
