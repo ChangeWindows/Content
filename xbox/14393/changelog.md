@@ -1,0 +1,3 @@
+### Fixed issues
+- Fixes an issue that could result in pinned tiles to link to the wrong Store page
+- Fixes an issue where tile art could be displayed in the wrong resolution

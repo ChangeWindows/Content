@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 10586.1202 and will form the changelog for the Xbox One Summer Update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14392.1001
+### Last updated to match with version 10.0.14393.1018
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Dashboard
@@ -22,6 +22,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The Queue tab now shows you your most recent installed games and apps
 - A new section to download updates has been added
 - Improved performance when scrolling through large collections
+- The user's accent color will now be used on the app tiles apeparing under Updates and Ready to install
 
 ### Activity feed
 - Content from Win32-games can now show up in your Activity feed (game clip and screenshot)
@@ -44,6 +45,8 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The interface language and keyboard language are no longer tied to the region
 - When starting or shuting down the console with the controller, it will now make a beep-noise
 - TV's that use overscanning can now be compensated by showing borders around apps
+- Parents can now change Cortana settings for child accounts
+- A spinner will now be shown when an in-game markerplace is being loaded
 - You can now enable and disable SmartScreen
 - You can now enable and disable Advertising ID
 - You can now manage add-ons from the Settings app
