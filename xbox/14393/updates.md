@@ -30,7 +30,7 @@ _Released on 22 July 2016_
 - Multiple localization fixes for Universal Apps and Home
 - Fixes an issue where the console would crash when entering connected standby
 - Fixes an issue that could result in a low resolution splash screen appearing when launching Universal Apps
-- Saying "Hey Cortana, go to &lt;website&gt;" when using Edge will no longer cause Edge to crash
+- Saying "Hey Cortana, go to "&lt;website&gt;" when using Edge will no longer cause Edge to crash
 - Fixes an issue that keeps you from creating new game clips
 - Fixes an issue where Destiny would fail to load
 
