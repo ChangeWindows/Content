@@ -1,4 +1,3 @@
-## What's new in Windows Phone 8 build 9903?
 ### Start
 - The right side bar has been dropped and the start screen now takes the full width
 - The small tile size has been introduced
