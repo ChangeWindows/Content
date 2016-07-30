@@ -1,3 +1,12 @@
+## What's new in Windows 10 build 14393.0?
+_Released on 18 July 2016 for the Fast Ring and 20 July 2016 for the Slow Ring_
+
+### System
+- You can now mount iPods as USB mass-storage devices
+
+### Other features
+- Improved reliability of Start, Cortana and Action Center
+
 ## What's new in Windows 10 build 14393.3?
 _Released on 22 July 2016 for the Fast Ring and Slow Ring, [KB 3176925](https://support.microsoft.com/?kbid=3176925)_
 
