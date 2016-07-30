@@ -1,3 +1,10 @@
+## What's new in Xbox One Update version 10.0.14393.1001?
+_Released on 18 July 2016
+
+### Fixed issues
+- Fixes an issue that could result in pinned tiles to link to the wrong Store page
+- Fixes an issue where tile art could be displayed in the wrong resolution
+
 ## What's new in Xbox One Update version 10.0.14393.1004?
 _Released on 20 July 2016_
 
