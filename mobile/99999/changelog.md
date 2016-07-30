@@ -1,163 +1,36 @@
-This changelog is cumulative of every build released after 10586 and will form the changelog for the Windows 10 Mobile Anniversary Update. This is a draft and is subject to change.
+This changelog is cumulative of every build released after 14393 and will form the changelog for the Windows 10 Mobile Redstone 2 update. This is a draft and is subject to change.
 
 ### Last updated to match with version 10.0.14393
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
-- Live tiles now update all at once on the startscreen instead of one-by-one if there are updates for their content
-- Live tiles now can update badges and content at the same time
-- Apps will now launch faster if there are incoming live tile
-- The app icon is no longer repeated in the Action Center, instead, it is shown only in the header
-- The All apps list now also follows the "Make Text Larger" option
-- The header for each app is now smaller to make more room for notifications
-- Notifications can now have hero images
-- Notifications in both banners and Action Center now follow the "Text Scaling" setting
-- You can now hold notifications to turn them off for the app or go to the notification settings
-- The size of notification icons has been decreased from 64x64 to 48x48
-- App names on Live tiles now follow the Ease of Access Text Scaling setting
-- The default wallpaper for a new device has been changed
-- When you dismiss multiple notifications at once, the background will no longer fade to black between them
-- If a Quick Action turns a certain functionality in your device on or off (Bluetooth, Flashlight, etc.) it will now show On/Off for a short period
+- Nothing to share yet
 
 ### Cortana and search
-- Cortana is now available in Spanish (Mexico), Portuguese (Brazil) and French (Canada)
-- Cortana will now show a button on the top to search for music
-- Cortana can now provide turn-by-turn directions with the new Maps app
-- Cortana can now sync across devices
- - You'll now get a notification whenever your mobile device is running out of battery
- - Find my phone/Ring my phone is now available through Cortana
- - You can now share map directions between your devices
-- Cortana can now show new notifications in the Action Center
-- Cortana can now automatically fetch the required speech language for you
-- Cortana can now give reminder suggestions
-- You can now change Cortana's language
-- Cortana's Settings have been moved outside the Notebook
-- You can now create reminders with photos or shared info from apps
-- Improved share UI for reminders
-- Cortana can now search in your Office 365 account
-- You can now send a picture from your phone to your PC through Cortana
-- Notifications on your phone will now be synced to your PC with Cortana
-- Cortanas listening animation has been updated
-- Cortana should now listen more reliably after tapping the mic button
-- Cortana's home UI no longer shows your cards but hints and a button to show the cards
+- Nothing to share yet
 
 ### User Interface
-- The back-button on the lock screen has been replaced with a camera button
-- The lock screen now shows media controls directly on the UI
-- The Bing logo on the Bing lock screen has been updated, appears smaller and no longer has the text "Bing"
-- The data migration process now uses a larger font
-- The "Goodbye" message will now stay visible until the device has been shut down completely
-- Glance screen now follows the Ease of Access scaling settings
+- Nothing to share yet
 
 ### Microsoft Edge
-- Edge has been updated from version 25.10586 to 38.14393
- - You can now swipe to go back and forward
- - The X-button to close tabs is now larger
- - Word Flow now works in the Edge address bar
- - The InPrivate browsing icon is now placed next to the "New tab" button in the tab overview
- - You can now require a prompt to pop up before a download starts
- - Edge now shows a "Go forward" item in the ellipses menu
- - When an app opens a new tab, pressing back will now close it
- - When typing in a text box, you can now use the pase button above the keyboard
- - Download notificaions in Edge now include filenames, download status and site domain on separate lines
-- EdgeHTML has been updated from version 13.10586 to 14.14393
- - Default parameters
- - Async/await
- - Object.values and Object.entries
- - Opus audio format
- - Time element
- - Date element
- - Output element
- - Color input type
- - Canvas Path2D objects
- - Web Speech API
- - Improved accessibility features
- - Support for Beacon
- - Web Notification API
- - Beacon API
- - Fetch API
- - The User Agent String has been updated
-- The following flags have been added
- - Foundational work for Web Notifications has been implemented (but not functional)
- - You can now set a flag for "Compose scrollbar thumbs independently"
- - You can now set a flag for DirectX settings "Use Windows.UI.Composition"
- - A flag for WebRTC 1.0 is available but not functional and will be removed in a later version
- - You can now set a flag to enable VP9 support
- - ES6 Regex symbols
- - Web Payments
- - TCP Fast Open is disabled by default but can be enabled
- - A flag has been added to enable Standard Fullscreen API
+- Edge has been updated from version 38.14393 to version 38.14393 with the following updates
+ - Nothing to share yet
+- EdgeHTML has been updated from version 14.14393 to version 14.14393 with the following updates
+ - Nothing to share yet
+- The following flags have been changed
+ - Nothing to share yet
 
 ### Settings
 - New panels, settings and options
- - You can now choose which app's notifications are more important to you
- - You can now choose how many notifications an app can have in the Action Center
- - You can now manage on a per-app base if an app can run in the background or not, or if this has to be hanled by Windows
- - Windows Update now allows you to set the time you're most active in so that it can avoid updating at that point
- - You can now manage the order of Quick Actions in the Action Center for all slots
- - You can now change the charge threshold before Battery Saver is enabled
- - It is now possible to hide Quick Actions you don't use
- - The is now a toggle for the VPN Quick Action button
- - You can now override Active Hours with the Restart Options
- - The Windows Update notification after installing an update now takes you to the device's update history
- - Navigation Bar settings now have their own page
- - You can now opt to use 3G only
- - Dual-SIM devices now support Visual Voicemail
- - You can now manage your Insider settings from the Settings app
- - You can now set how long it takes before Windows Hello requires you to sign in again
- - Apps for websites has been added under System
- - Sharing a network with your contacts in Wi-Fi Sense is no longer possible
- - "Always show Glance screen when charging" is now the default behavior for Glance screen
- - The Mobile Hotstpot page now gives clearer errors when setting up a hotspot fails due to the lack of a SIM being connected
- - The refresh rate for Wi-Fi data usage is now faster
- - Active hours can now be set to a range of up to 12 hours instead of 10
- - As of build 14361, your DPI settings will be backed up in the cloud and restored after your device is refreshed
- - Kids Corner is no longer available
+ - Nothing to share yet
 - Visual updates and others
- - Adjust brightness automatically is now enabled by default
- - Every page in Settings now has its own icon
- - Glance has been moved from Extras to Personalization
- - Improved performance when opening Settings > Update & security > For developers
- - The background of the category overview and sub-category overview is now black instead of dark grey
- - A selected sub-category now has a Groove-like select state
- - The title of pages is now displayed larger
- - The icons under Update & Security have been updated to be more reflective of their meaning
- - Improved performance for loading the app list under Storage settings
+ - Nothing to share yet
 
 ### System
-- Continuum now supports USB Ethernet
-- The Bluetooth AVRCP profile has been updated to version 1.5
-- Windows now has a one-handed Japanese kana keyboard
-- You can now run up to 16 apps in the background
-- Improved performance when retrieving updated GPS coordinates while you're driving
-- Improves app launch reliability
-- Improved logic for refreshing the Live tiles on the start screen
-- Improved reliability for keyboards with large dictionaries
-- The thumbnail logic has been altered to only create a small thumbnail after making a photo, and making the larger thumbnail when required to save storage
-- During the final preparations, Windows will only go through 8 to 10 migration steps
-- The Word Flow keyboard has an improved recognition of longer words
-- You can now abort an autocorrection by tapping on the bolded word
-- The call in-progress banner is now shown above notifications so you no longer need to dismiss that notification to end the call
-- The emoji set has been completely revamped
-- The default emoji’s are no longer grey, but yellow
-- The text prediction engine has bene improved to show candidates based on the current keyboard language, instead of the language that was used when the word was written
-- 5-inch devices like the Lumia 640 and 830 can now also use the one-handed keyboard
-- Improve reliability of Bluetooth in cars
-- The back-up format is changed, causing back-ups to take less from your OneDrive space, however, back-ups are incompatible with older versions of Windows 10 Mobile
-- Improved battery performance for people that often turn the screen on and off again to look at the lock screen
+- Nothing to share yet
 
 ### Apps
-- You can now swipe a conversation to delete it in Messaging
-- The phone app now show an indicator for missed calls and voicemails
-- You can now cycle through pages in the phone app infinitely
-- Option to use the Camera app to take a photo and send it with Skype
-- The alarm will now go louder faster when using your music
-- FM Radio is no longer installed as a default app
-- Improved reliability for navigating between camera roll and the Camera app
-- The Insider Hub and Windows Feedback apps have been merged to Feedback Hub
- - You can now react on feedback in the Feedback Hub
- - The Feedback Hub now suggest a category when you've typed in your feedback
- - The "Alerts" page in the Feedback Hub has been removed
+- Nothing to share yet
 
 ### And further
-- Windows now identifies itself as version 1607
+- Nothing to share yet
