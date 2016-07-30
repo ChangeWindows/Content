@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.10523.1055?
+## The New Xbox One Experience build 10523.1055
 _Released on 22 September 2015_
 
 ### Fixed issues
@@ -7,13 +7,13 @@ _Released on 22 September 2015_
 - The screen will no longer dim in Live TV and other media apps after going to the dashboard, launching another app and then returning to the app
 - SlingTV now works again
 
-## What's new in Xbox One Update version 10.0.10523.1058?
+## The New Xbox One Experience build 10523.1058
 _Released on an unknown date_
 
 ### And further
 - Unknown changes
 
-## What's new in Xbox One Update version 10.0.10523.1059?
+## The New Xbox One Experience build 10523.1059
 _Released on 27 September 2015_
 
 ### Fixes issues

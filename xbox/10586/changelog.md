@@ -1,4 +1,4 @@
-## What's new in the New Xbox One Experience Update version 10.0.10586.1006?
+## The New Xbox One Experience build 10586.1006
 
 ### Interface
 - The dashboard has been redesigned to scroll vertically and show more relevant information
@@ -35,7 +35,7 @@
 ### And further
 - New avatars are now animated
 
-## What's new in Xbox One February 2016 Update version 10.0.10586.1100?
+## Xbox One February 2016 Update build 10586.1100
 _Released on 19 February 2016_
 
 ### Dashboard
@@ -71,7 +71,7 @@ _Released on 19 February 2016_
 - Fixes an issue where some users couldn't purchase items from the Avatar store when multiple accounts where signed-in
 - Fixes an issue that prevented multiplayer matches from connecting
 
-## What's new in Xbox One March 2016 Update version 10.0.10586.1194?
+## Xbox One March 2016 Update build 10586.1194
 _Released on 23 March 2016_
 
 ### Activity feed

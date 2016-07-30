@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.10553.1013?
+## The New Xbox One Experience build 10553.1013
 _Released on 2 October 2015_
 
 ### And further
@@ -8,7 +8,7 @@ _Released on 2 October 2015_
 - Games on the internal or external hard drive no longer appear both in Installed and Ready to Install list
 - Media apps and Live TV should no longer dim the screen after a certain amount of time
 
-## What's new in Xbox One Update version 10.0.10553.1015?
+## The New Xbox One Experience build 10553.1015
 _Released on 3 October 2015_
 
 ### Interface
@@ -23,7 +23,7 @@ _Released on 3 October 2015_
 ### Fixes issues
 - Non-navigational buttons now work again on the Xbox One Media Remote
 
-## What's new in Xbox One Update version 10.0.10553.1020?
+## The New Xbox One Experience build 10553.1020
 _Released on 5 October 2015_
 
 ### And further

@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.14352.1020?
+## Xbox One August Update build 14352.1020
 _Released on 8 June 2016_
 
 ### Settings and behavior
@@ -11,7 +11,7 @@ _Released on 8 June 2016_
 - Fixes an issue where games where installed in the wrong language
 - Fixes an error that would keep you from selecting which content you want to share in the Activity Feed settings
 
-## What's new in Xbox One Update version 10.0.14352.1024?
+## Xbox One August Update build 14352.1024
 _Released on 11 June 2016_
 
 ### Xbox Store

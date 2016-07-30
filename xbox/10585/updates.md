@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.10585.1001?
+## The New Xbox One Experience build 10585.1001
 _Released on 3 November 2016_
 
 ### And further

@@ -10,7 +10,7 @@ Unknown changes and fixes where applied in the versions listed below for the Cur
 - 10586.63, _released on 12 January 2016, [KB 3124263](https://support.microsoft.com/?kbid=3124263)_
 - 10586.71, _released on 27 January 2016, [KB 3124262](https://support.microsoft.com/?kbid=3124262)_
 
-## What's new in Windows 10 build 10586.104?
+## Windows 10 November Update build 10586.104
 _Released on 9 February 2016 for the Preview Release Ring, Current Branch, [KB 3135173](https://support.microsoft.com/?kbid=3135173)_
 
 ### And further
@@ -26,7 +26,7 @@ _Released on 9 February 2016 for the Preview Release Ring, Current Branch, [KB 3
 - Fixes additional issues with Windows UX, Windows 10 Mobile, Internet Explorer 11, Edge and the taskbar
 - Fixes additional issues with the .NET Framework, Windows Journal, Active Directory Federation Services, NPS Radius Server, kernel-mode drivers and WebDAV.
 
-## What's new in Windows 10 build 10586.122?
+## Windows 10 November Update build 10586.122
 _Released on 1 March 2016 for the Preview Release Ring, Current Branch, [KB 3140743](https://support.microsoft.com/?kbid=3140743)_
 
 ### And further
@@ -41,7 +41,7 @@ _Released on 1 March 2016 for the Preview Release Ring, Current Branch, [KB 3140
 - Fixes an issue where favorites are lost after updating
 - Fixes multiple issues that caused apps to fail to launch, update or allow in-app purchases
 
-## What's new in Windows 10 build 10586.164?
+## Windows November Update 10 build 10586.164
 _Released on 8 March 2016 for the Preview Release Ring and Current Branch and 8 April 2016 for Current Branch for Business, [KB 3140768](https://support.microsoft.com/?kbid=3140768)_
 
 ### And further
@@ -56,7 +56,7 @@ _Released on 8 March 2016 for the Preview Release Ring and Current Branch and 8 
 - Fixes multiple issues with the .NET Framework, Internet Explorer 11 and networking
 - Fixed multiple security issues with Microsoft Edge, Internet Explorer 11, USB storage driver, kernel mode drivers, the .NET Framework, graphic fonts, OLE, secondary logon, PDF library and Adobe Flash Player
 
-## What's new in Windows 10 build 10586.218?
+## Windows 10 November Update build 10586.218
 _Released on 12 April 2016 for the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3147458](https://support.microsoft.com/?kbid=3147458)_
 
 ### And further
@@ -72,7 +72,7 @@ _Released on 12 April 2016 for the Preview Release Ring, Current Branch and Curr
 - Fixes multiple issues with shutdown delays, Narrator, Cortana, roaming data usage, buying apps in the Store, video playback, facial recognition, Bluetooth pairing, Microsoft Edge, logon, Internet Explorer 11, Live Tile updates, .NET Framework and Microsoft Installer
 - Fixed multiple security issues with Security Account Manager Remote Protocol, HTTP.sys, secondary logon, Microsoft Graphics component, .NET Framework, CSRSS, Microsoft Edge and Internet Explorer 11
 
-## What's new in Windows 10 Mobile build 10586.240?
+## Windows 10 November Update build 10586.240
 _Released on 27 April 2016 to the Preview Release Ring_
 
 ### And further
@@ -86,7 +86,7 @@ _Released on 27 April 2016 to the Preview Release Ring_
 - Fixes an issue where upgrading to Windows 10 would cause the devise to lose data connections or touch input
 - Fixes an issue where the SD card was not recognized
 
-## What's new in Windows 10 Mobile build 10586.318?
+## Windows 10 November Update build 10586.318
 _Released on 10 May 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3156421](https://support.microsoft.com/?kbid=3156421)_
 
 ### And further
@@ -100,7 +100,7 @@ _Released on 10 May 2016 to the Preview Release Ring, Current Branch and Current
 - Fixes an issue that caused some CompactFlash cards to got corrupted
 - Fixes security issues in kernel mode drivers, remote procedure calls, the Microsoft Graphics Component, Internet Explorer 11, Microsoft Edge, Windows Shell, Windows Journal, Virtual Secure Mode, Schannel and Jscript
 
-## What's new in Windows 10 Mobile build 10586.338?
+## Windows 10 November Update build 10586.338
 _Released on 2 June 2016 to the Preview Release Ring, [KB 3163014](https://support.microsoft.com/?kbid=3163014)_
 
 ### And further
@@ -114,7 +114,7 @@ _Released on 2 June 2016 to the Preview Release Ring, [KB 3163014](https://suppo
 - Fixes an issue in location that caused apps to lag behind the user's actual location
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 
-## What's new in Windows 10 Mobile build 10586.420?
+## Windows 10 November Update build 10586.420
 _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3163018](https://support.microsoft.com/?kbid=3163018)_
 
 ### And further
@@ -129,7 +129,7 @@ _Released on 14 June 2016 to the Preview Release Ring, Current Branch and Curren
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB Server, Microsoft Graphics Component, Group Policy, DNS Server, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player, JScript and VBScript and WPAD
 
-## What's new in Windows 10 Mobile build 10586.456?
+## Windows 10 November Update build 10586.456
 _Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://support.microsoft.com/?kbid=3170411)_
 
 ### And further
@@ -142,7 +142,7 @@ _Released on 29 June 2016 to the Preview Release Ring, [KB 3170411](https://supp
 - Fixes an issue where local user accounts weren’t locked out after a number of failed sign in attempts
 - Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Internet Explorer, Networking and Wi-Fi connectivity
 
-## What's new in Windows 10 Mobile build 10586.494?
+## Windows 10 November Update build 10586.494
 _Released on 12 July 2016 to the Preview Release Ring, Current Branch and Current Branch for Business, [KB 3172985](https://support.microsoft.com/?kbid=3172985)_
 
 ### And further

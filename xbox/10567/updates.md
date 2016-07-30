@@ -1,11 +1,11 @@
-## What's new in Xbox One Update version 10.0.10567.1008?
+## The New Xbox One Experience build 10567.1008
 _Released on 15 October 2015_
 
 ### Fixes issues
 - When downloading an update for a game, it will no longer display massive download sizes when there isn't enough space
 - Game DVR no longer crashes when snapped
 
-## What's new in Xbox One Update version 10.0.10567.1015?
+## The New Xbox One Experience build 10567.1015
 _Released on 17 October 2015_
 
 ### And further

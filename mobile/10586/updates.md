@@ -1,10 +1,10 @@
-## What's new in Windows 10 Mobile build 10586.11?
+## Windows 10 Mobile build 10586.11
 _Released on 18 November 2015 to the Fast Ring and 20 November 2015 to the Slow Ring_
 
 ### And further
 - Unknown bug fixes
 
-## What's new in Windows 10 Mobile build 10586.29?
+## Windows 10 Mobile build 10586.29
 _Released on 4 December 2015 to the Fast and Slow Ring and 8 December 2015 to the Current Branch_
 
 ### And further
@@ -18,14 +18,14 @@ _Released on 4 December 2015 to the Fast and Slow Ring and 8 December 2015 to th
 - Fixes issues with Dual SIM devices
 - Fixes issues with restoring data profiles
 
-## What's new in Windows 10 Mobile build 10586.36?
+## Windows 10 Mobile build 10586.36
 _Released on 17 December 2015 to the Fast and Slow Ring_
 
 ### And further
 - Improved upgrade experience
 - Unknown bug fixes
 
-## What's new in Windows 10 Mobile build 10586.63?
+## Windows 10 Mobile build 10586.63
 _Released on 8 January 2016 to the Fast Ring_
 
 ### And further
@@ -41,7 +41,7 @@ _Released on 8 January 2016 to the Fast Ring_
 - Fixes issues on various individual devices
 - Unknown bug fixes
 
-## What's new in Windows 10 Mobile build 10586.71?
+## Windows 10 Mobile build 10586.71
 _Released on 1 February 2016 to the Fast Ring and 4 February 2016 to the Slow Ring_
 
 ### And further
@@ -60,7 +60,7 @@ _Released on 1 February 2016 to the Fast Ring and 4 February 2016 to the Slow Ri
 - When Groove is reinstalled from the Windows Store, there will no longer be any DRM music playback issues
 - In app purchases will now work correctly when cellular data isn't enabled
 
-## What's new in Windows 10 Mobile build 10586.107?
+## Windows 10 Mobile build 10586.107
 _Released on 10 February 2016 to the Fast Ring and Preview Release Ring, 11 February 2016 to the Slow Ring and 17 February 2016 to the Current Branch_
 
 ### And further
@@ -70,7 +70,7 @@ _Released on 10 February 2016 to the Fast Ring and Preview Release Ring, 11 Febr
 ### Fixed issues
 - Fixes and issue where some tiles might be missing for devices that have been reseted
 
-## What's new in Windows 10 Mobile build 10586.122?
+## Windows 10 Mobile build 10586.122
 _Released on 2 March 2016 to the Slow Ring and Preview Release Ring_
 
 ### And further
@@ -90,7 +90,7 @@ _Released on 2 March 2016 to the Slow Ring and Preview Release Ring_
 - Fixes an issue that caused hitting the "Close all tabs" button to fail to close all tabs
 - Fixes an issue where the OOBE would fail to add your MSA and won't allow to re-add it after failing
 
-## What's new in Windows 10 Mobile build 10586.164?
+## Windows 10 Mobile build 10586.164
 _Released on 8 March 2016 to the Slow Ring, Preview Release Ring and Production Ring_
 
 ### And further
@@ -106,7 +106,7 @@ _Released on 8 March 2016 to the Slow Ring, Preview Release Ring and Production 
 - Fixes an issue that caused Wi-Fi connections to switch off after prolonged use temporarily
 - Fixes an issue where first-party apps would fail to install
 
-## What's new in Windows 10 Mobile build 10586.218?
+## Windows 10 Mobile build 10586.218
 _Released on 12 April 2016 to the Preview Release Ring and Production Ring_
 
 ### Microsoft Edge
@@ -127,7 +127,7 @@ _Released on 12 April 2016 to the Preview Release Ring and Production Ring_
 - Fixes an issue where some apps where prevented from being updated and installed
 - Fixes an issue that caused some apps to show blank tiles after upgrading from Windows Phone 8.1
 
-## What's new in Windows 10 Mobile build 10586.242?
+## Windows 10 Mobile build 10586.242
 _Released on 27 April 2016 to the Preview Release Ring_
 
 ### And further
@@ -141,7 +141,7 @@ _Released on 27 April 2016 to the Preview Release Ring_
 - Fixes an issue where upgrading to Windows 10 would cause the devise to lose data connections or touch input
 - Fixes an issue where the SD card was not recognized
 
-## What's new in Windows 10 Mobile build 10586.318?
+## Windows 10 Mobile build 10586.318
 _Released on 10 May 2016 to the Preview Release Ring and Production Ring_
 
 ### And further
@@ -159,7 +159,7 @@ _Released on 10 May 2016 to the Preview Release Ring and Production Ring_
 - Fixes an issue that caused recorded video to get lost when taking a call
 - Fixes the navigation bar to overlay some apps on a number of devices
 
-## What's new in Windows 10 Mobile build 10586.338?
+## Windows 10 Mobile build 10586.338
 _Released on 31 May 2016 to the Preview Release Ring_
 
 ### And further
@@ -174,7 +174,7 @@ _Released on 31 May 2016 to the Preview Release Ring_
 - Fixes an issue that caused some users to lose their contacts, messages and appointment after upgrading from Windows Phone 8.1
 - Fixes additional issues with Microsoft Edge, Bluetooth, Cortana, Wi-Fi, Windows Camera app, revised daylight saving time, USB, TPM, Graphics, Group Policy, downloading music or movies purchased through the Windows Store, Network Diagnostics and File Explorer
 
-## What's new in Windows 10 Mobile build 10586.420?
+## Windows 10 Mobile build 10586.420
 _Released on 14 June 2016 to the Preview Release Ring and Current Branch_
 
 ### And further
@@ -192,7 +192,7 @@ _Released on 14 June 2016 to the Preview Release Ring and Current Branch_
 - Fixes an issue that caused phones to stop rining to notify for an incoming call if that notificaiton is interrupted by an SMS
 - Fixes an issue that kept Project My Screen from working on some devices
 
-## What's new in Windows 10 Mobile build 10586.456?
+## Windows 10 Mobile build 10586.456
 _Released on 29 June 2016 to the Preview Release Ring_
 
 ### And further
@@ -208,7 +208,7 @@ _Released on 29 June 2016 to the Preview Release Ring_
 - Fixes an issue where Microsoft Silverlight based application won't install, after joining Azure Active Directory
 - Fixes additional issues in .NET, Windows Kernel, Windows Update, Authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Networking and Wi-Fi connectivity
 
-## What's new in Windows 10 Mobile build 10586.494?
+## Windows 10 Mobile build 10586.494
 _Released on 12 July 2016 to the Preview Release Ring and Current Branch, [KB 3172985](https://support.microsoft.com/?kbid=3172985)_
 
 ### And further

@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.10586.1016?
+## The New Xbox One Experience build 10586.1016
 _Released on 23 November 2015_
 
 ### And further
@@ -8,27 +8,27 @@ _Released on 23 November 2015_
 - Fix for users that use Discovery and Launch protocol
 - Minor fixes and improvements
 
-## What's new in Xbox One Update version 10.0.10586.1024?
+## The New Xbox One Experience build 10586.1024
 _Released on 9 December 2015_
 
 ### Fixed issues
 - Fixes an issue in Edge
 - Minor fixes and improvements
 
-## What's new in Xbox One Update version 10.0.10586.1026?
+## The New Xbox One Experience build 10586.1026
 _Released on 7 Janauri 2016_
 
 ### And further
 - Improved performances
 
-## What's new in Xbox One Update version 10.0.10586.1199?
+## Xbox One March Update build 10586.1199
 _Released on 23 March 2016_
 
 ### Fixed issues
 - Fixes an issue where users with their console set to ja-JP couldn't purchase avatars
 - Additional fixes and improvements
 
-## What's new in Xbox One Update version 10.0.10586.1202?
+## Xbox One March Update build 10586.1202
 _Released on 27 March 2016_
 
 ### Fixed issues

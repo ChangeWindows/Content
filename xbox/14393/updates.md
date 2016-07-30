@@ -1,11 +1,11 @@
-## What's new in Xbox One Update version 10.0.14393.1001?
+## Xbox One August Update build 14393.1001
 _Released on 18 July 2016
 
 ### Fixed issues
 - Fixes an issue that could result in pinned tiles to link to the wrong Store page
 - Fixes an issue where tile art could be displayed in the wrong resolution
 
-## What's new in Xbox One Update version 10.0.14393.1004?
+## Xbox One August Update build 14393.1004
 _Released on 20 July 2016_
 
 ### Fixed issues
@@ -16,7 +16,7 @@ _Released on 20 July 2016_
 - Pressing the Xbox button will now correctly launch a game or app after being installed
 - Fixes a number of localization issues in Home, Sign in and Settings
 
-## What's new in Xbox One Update version 10.0.14393.1008?
+## Xbox One August Update build 14393.100
 _Released on 22 July 2016_
 
 ### Settings and behavior
@@ -41,7 +41,7 @@ _Released on 22 July 2016_
 - Fixes an issue that keeps you from creating new game clips
 - Fixes an issue where Destiny would fail to load
 
-## What's new in Xbox One Update version 10.0.14393.1010?
+## Xbox One August Update build 14393.1010
 _Released on 23 July 2016_
 
 ### My Games & Apps
@@ -53,7 +53,7 @@ _Released on 23 July 2016_
 - Fixes an issue where Cortana would fail to launch some games and apps
 - Fixes "Installation Stopped" errors from appearing when downloading or updating the Blu-Ray Player app
 
-## What's new in Xbox One Update version 10.0.14393.1012?
+## Xbox One August Update build 14393.1012
 _Released on 24 July 2016_
 
 ### Fixed issues
@@ -64,7 +64,7 @@ _Released on 24 July 2016_
 - Fixes an issue where UWAs would get stuck for 5+ seconds to show the splash screen when launched first
 - Fixes an issue where purchased gamertag changes would hang in purchase flow
 
-## What's new in Xbox One Update version 10.0.14393.1014?
+## Xbox One August Update build 14393.1014
 _Released on 25 July 2016_
 
 ### Fixed issues
@@ -72,7 +72,7 @@ _Released on 25 July 2016_
 - Fixes an issue where come Universal Apps fail to launch when installed from an external hard drive
 - Fixes Gamertags not being purchaseable from non-US locales
 
-## What's new in Xbox One Update version 10.0.14393.1018?
+## Xbox One August Update build 14393.1018
 _Released on 26 July 2016_
 
 ### Fixed issues

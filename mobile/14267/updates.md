@@ -1,4 +1,4 @@
-## What's new in Windows 10 Mobile build 14267.1004?
+## Windows 10 Mobile Anniversary Update build 14267.1004
 _Released on 24 February 2016 to the Fast Ring_
 
 ### Settings

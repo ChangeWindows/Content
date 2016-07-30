@@ -15,7 +15,7 @@ Unknown changes and fixes were applied in the versions listed below released on 
 - 10240.16601, _released on 8 December 2015, [KB 3116869](https://support.microsoft.com/?kbid=3116869)_
 - 10240.16644, _released on 12 Januery 2016, [KB 3124266](https://support.microsoft.com/?kbid=3124266)_
 
-## What's new in Windows 10 build 10240.16683?
+## Windows 10 build 10240.16683
 _Released on 9 February 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3135174](https://support.microsoft.com/?kbid=3135174)_
 
 ### And further
@@ -31,7 +31,7 @@ _Released on 9 February 2016 for the Current Branch, Current Branch for Business
 - Fixes additional issues with Input Method Editors (IMEs), Direct Access, assigned access, peripheral device detection, barcode scanning, Windows Explorer, Internet Explorer 11, Microsoft Edge and scripting
 - Fixed additional security issues with the .NET Framework, PDF library, Windows Journal, kernel-mode drivers, Remote Desktop and WebDAV
 
-## What's new in Windows 10 build 10240.16725?
+## Windows 10 build 10240.16725
 _Released on 8 March 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3140745](https://support.microsoft.com/?kbid=3140745)_
 
 ### And further
@@ -46,7 +46,7 @@ _Released on 8 March 2016 for the Current Branch, Current Branch for Business an
 - Fixes multiple issues with system sounds, file properties, spellcheck, logon and Internet Explorer 11
 - Fixes multiple security issues with Microsoft Edge, Internet Explorer 11, USB storage driver, kernel mode drivers, the .NET Framework, graphic fonts, OLE, secondary logon and PDF library
 
-## What's new in Windows 10 build 10240.16771?
+## Windows 10 build 10240.16771
 _Released on 12 April 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3147461](https://support.microsoft.com/?kbid=3147461)_
 
 ### And further
@@ -63,7 +63,7 @@ _Released on 12 April 2016 for the Current Branch, Current Branch for Business a
 - Fixes multiple issues with Internet Explorer 11, times zones in Calendar app, Microsoft ODBC Driver for Oracle and .NET Framework
 - Fixes multiple security issues with Microsoft Edge, HTTP.sys, Microsoft graphics component, secondary logon, Internet Explorer 11, Microsoft XML Core Service, Security Account Manager Remote protocol, .NET Framework and Windows Hyper-V
 
-## What's new in Windows 10 build 10240.16854?
+## Windows 10 build 10240.16854
 _Released on 10 May 2016 for the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3156387](https://support.microsoft.com/?kbid=3156387)_
 
 ### And further
@@ -80,7 +80,7 @@ _Released on 10 May 2016 for the Current Branch, Current Branch for Business and
 - Fixes additional issues with Internet Explorer 11
 - Fixes security issues in Microsoft Graphics Component, remote procedure calls, Internet Explorer 11, Microsoft Edge, Windows Journal, JScript, Schannel, Windows Shell and Virtual Secure Mode
 
-## What's new in Windows 10 build 10240.16942?
+## Windows 10 build 10240.16942
 _Released on 14 June 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3163017](https://support.microsoft.com/?kbid=3163017)_
 
 ### And further
@@ -95,7 +95,7 @@ _Released on 14 June 2016 to the Current Branch, Current Branch for Business and
 - Fixes additional issues with Microsoft Edge, Internet Explorer 11, File Explorer, PCI, revised daylight saving time and Microsoft Graphics component
 - Fixes additional security issues with Internet Explorer 11, Microsoft Edge, SMB, Microsoft Graphics Component, Group Policy, Windows Diagnostic Hub, Kernel mode drivers, Microsoft Windows PDF, Windows Structured Query, Adobe Flash Player and WPAD
 
-## What's new in Windows 10 build 10240.17024?
+## Windows 10 build 10240.17024
 _Released on 12 July 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3163912](https://support.microsoft.com/?kbid=3163912)_
 
 ### And further

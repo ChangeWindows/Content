@@ -1,4 +1,4 @@
-## What's new in Xbox One Update version 10.0.14366.1006?
+## Xbox One August Update build 14366.1006
 _Released on 21 June 2016_
 
 ### Store
@@ -15,7 +15,7 @@ _Released on 21 June 2016_
 ### Fixed issues
 - The Store's UI will no longer appear to zoom in when confirming your payment information
 
-## What's new in Xbox One Update version 10.0.14366.1011?
+## Xbox One August Update build 14366.1011
 _Released on 23 June 2016_
 
 ### Fixed issues
@@ -23,7 +23,7 @@ _Released on 23 June 2016_
 - Fixes an issue where Xbox Live Gold subscribers would see the wrong price
 - Game and app installations in progress will now continue when the device goes in standby when Instant-On is enabled
 
-## What's new in Xbox One Update version 10.0.14366.1016?
+## Xbox One August Update build 14366.1016
 _Released on 27 June 2016_
 
 ### Cortana and search

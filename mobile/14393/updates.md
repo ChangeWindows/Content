@@ -1,4 +1,4 @@
-## What's new in Windows 10 build 14393.0?
+## Windows 10 Anniversary Update build 14393.0
 _Released on 18 July 2016 for the Fast Ring and 20 July 2016 for the Slow Ring_
 
 ### Fixed issues
@@ -11,7 +11,7 @@ _Released on 18 July 2016 for the Fast Ring and 20 July 2016 for the Slow Ring_
 - Turning off Bluetooth might result in a crash, reset or freeze of the device
 - When using Tap to Pay on a locked phone, you might be required to enter your PIN twice
 
-## What's new in Windows 10 build 14393.3?
+## Windows 10 Anniversary Update build 14393.3
 _Released on 22 July 2016 for the Fast Ring and Slow Ring, [KB 3176925](https://support.microsoft.com/?kbid=3176925)_
 
 ### Fixed issues
@@ -20,7 +20,7 @@ _Released on 22 July 2016 for the Fast Ring and Slow Ring, [KB 3176925](https://
 - Fixes an issue that could prevent apps from launching due to a licensing issue
 - Fixes an issue with apps that use DDE for inter-process communication
 
-## What's new in Windows 10 build 14393.5?
+## Windows 10 Anniversary Update build 14393.5
 _Released on 25 July 2016 for the Fast Ring and 28 July 2016 for the Slow Ring and Release Preview Ring, [KB 3176927](https://support.microsoft.com/?kbid=3176927)_
 
 ### And further
