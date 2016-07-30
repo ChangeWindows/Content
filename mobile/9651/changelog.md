@@ -1,4 +1,3 @@
-## What's new in Windows Phone 8.1 build 12359.845?
 ### Interface
 - The default start screen has been updated for new devices
 - You can now set a background for your tiles
@@ -106,23 +105,3 @@
 - Devices can now have on-screen buttons
 - Cariers can now install apps when a SIM-card is placed
 - Support for new resolutions
-
-## What's new in Windows Phone 8.1 build 12382.878?
-### And further
-- Improved stability
-- Bug fixes
-- Improved power consumption
-
-## What's new in Windows Phone 8.1 build 12393.890?
-### And further
-- New boot logo for some devices
-- Improved power consumption
-
-## What's new in Windows Phone 8.1 build 12397.895?
-### And further
-- Small changes to some APIs
-- Improved support for new devices
-
-## What's new in Windows Phone 8.1 build 12400.899?
-### And further
-- Bug fixes
