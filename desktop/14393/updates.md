@@ -29,7 +29,15 @@ _Released on 25 July 2016 for the Fast Ring and 28 July 2016 for the Slow Ring a
 - Fixes an issue that keeps you from typing in text into Search or the Store app without restarting the process
 
 ## Windows 10 Anniversary Update build 14393.10
-_Released on 1 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176929](https://support.microsoft.com/?kbid=3176929)_
+_Released on 1 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring and on 2 August 2016 for the Current Branch, [KB 3176929](https://support.microsoft.com/?kbid=3176929)_
 
 ### And further
-- Unknown changes
+- Improved reliability of background tasks and extensions for Microsoft Edge
+
+### Fixes issues
+- Fixes an licensing issue that prevents apps from activating
+- Fixes an issue that prevents changing display orientation after attaching a keyboard dock
+- Fixes an issue with scheduled update scans that are delayed during Connected Standby
+- Fixes an issue that sometimes prevent XAML apps from receiving keyboard input
+- Fixes an issue with event logging that creates very large virtual allocations
+- Fixes additional issues with Cortana, Microsoft Query and Microsoft Excel compatibility and the Korean Input Method Editor (IME)
