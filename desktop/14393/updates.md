@@ -27,3 +27,9 @@ _Released on 25 July 2016 for the Fast Ring and 28 July 2016 for the Slow Ring a
 - Fixes an issue where the battery would be draiend due to the proximity sensor always runing on some devices
 - Fixes an issue with Korean Input Method Editor not having the correct composition on some custom TSF3 edit controls
 - Fixes an issue that keeps you from typing in text into Search or the Store app without restarting the process
+
+## Windows 10 Anniversary Update build 14393.10
+_Released on 1 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176929](https://support.microsoft.com/?kbid=3176929)_
+
+### And further
+- Unknown changes
