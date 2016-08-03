@@ -79,3 +79,15 @@ _Released on 26 July 2016_
 - Fixes an issue that could cause soem blank tiles to remain after removing an Universal App
 - Fixes an issue that could cause Universal Apps to fail to launch
 - Fixes Universal App tiles appearing as 0% installed on the Home dashboard
+
+## Xbox One August Update build 14393.1023
+_Released on 31 July 2016_
+
+### Fixed issues
+- Fixes an issue that made the Skyrock app unusable after updating
+
+## Xbox One August Update build 14393.1025
+_Released on 1 August 2016_
+
+### And further
+- General fixes and improvements
