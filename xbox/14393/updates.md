@@ -16,7 +16,7 @@ _Released on 20 July 2016_
 - Pressing the Xbox button will now correctly launch a game or app after being installed
 - Fixes a number of localization issues in Home, Sign in and Settings
 
-## Xbox One August Update build 14393.100
+## Xbox One August Update build 14393.1008
 _Released on 22 July 2016_
 
 ### Settings and behavior
@@ -88,6 +88,12 @@ _Released on 31 July 2016_
 
 ## Xbox One August Update build 14393.1025
 _Released on 1 August 2016_
+
+### And further
+- General fixes and improvements
+
+## Xbox One August Update build 14393.1027
+_Released on 2 August 2016_
 
 ### And further
 - General fixes and improvements
