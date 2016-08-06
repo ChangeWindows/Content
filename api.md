@@ -15,12 +15,12 @@ string_iot | Contains the build string for the IoT build, only filled when a IoT
 string_server | Contains the build string for the Server build, only filled when a Server build is available. | Available
 string_holographic | Contains the build string for the holographic build, only filled when a holographic build is available. | Available
 version | The version number (e.g. 1507, 1511, 1607). | Deprecated
-name_desktop | Contains the name for the desktop build, in addition to the basic naming. | Available
-name_mobile | Contains the name for the Mobile build, in addition to the basic naming. | Available
-name_xbox | Contains the name for the Xbox build, in addition to the basic naming. | Available
-name_iot | Contains the name for the IoT build, in addition to the basic naming. | Available
-name_server | Contains the name for the Server build, in addition to the basic naming. | Available
-name_holographic | Contains the name for the holographic build, in addition to the basic naming. | Available
+name_desktop | Contains the name for the desktop build, in addition to the basic naming. | Deprecated
+name_mobile | Contains the name for the Mobile build, in addition to the basic naming. | Deprecated
+name_xbox | Contains the name for the Xbox build, in addition to the basic naming. | Deprecated
+name_iot | Contains the name for the IoT build, in addition to the basic naming. | Deprecated
+name_server | Contains the name for the Server build, in addition to the basic naming. | Deprecated
+name_holographic | Contains the name for the holographic build, in addition to the basic naming. | Deprecated
 fast_desktop | Fast Ring release for desktop build. | Available
 slow_desktop | Slow Ring release for desktop build. | Available
 current_desktop | Current Branch release for desktop build. | Available
@@ -103,13 +103,20 @@ Field | Description | Status
 id | **Primary key**, identifies a milestone (e.g. 'redstone1'). | Available
 name | Official name of the milestone (e.g. 'Anniversary Update'). | Available
 version | Version number of the milestone (e.g. '1607'). | Available
-first_build | First build that can be considered part of this particular milestone. | Available
-last_build | Last build that can be considered part of this particular milestone. | Available
+osname | Contain the name of the OS (e.g. 'Window 10'). | Available
+first_build | First build that can be considered part of this particular milestone. | Deprecated
+last_build | Last build that can be considered part of this particular milestone. | Deprecated
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
-is_desktop | 1 if desktop, 0 if not. | Available
-is_mobile | 1 if Mobile, 0 if not. | Available
-is_xbox | 1 if Xbox, 0 if not. | Available
-is_iot | 1 if IoT, 0 if not. | Available
-is_server | 1 if Server, 0 if not. | Available
-is_holographic | 1 if Holographic, 0 if not. | Available
+is_desktop | 1 if desktop, 0 if not. | Deprecated
+is_mobile | 1 if Mobile, 0 if not. | Deprecated
+is_xbox | 1 if Xbox, 0 if not. | Deprecated
+is_iot | 1 if IoT, 0 if not. | Deprecated
+is_server | 1 if Server, 0 if not. | Deprecated
+is_holographic | 1 if Holographic, 0 if not. | Deprecated
+name_desktop | Contains the name for the desktop build, in addition to the basic naming. | To be added
+name_mobile | Contains the name for the Mobile build, in addition to the basic naming. | To be added
+name_xbox | Contains the name for the Xbox build, in addition to the basic naming. | To be added
+name_iot | Contains the name for the IoT build, in addition to the basic naming. | To be added
+name_server | Contains the name for the Server build, in addition to the basic naming. | To be added
+name_holographic | Contains the name for the holographic build, in addition to the basic naming. | To be added
