@@ -97,3 +97,15 @@ _Released on 2 August 2016_
 
 ### And further
 - General fixes and improvements
+
+## Xbox One August Update build 14393.1029
+_Released on 8 August 2016_
+
+### Xbox Store
+- You can now add PayPal as a payment option
+
+### And further
+- Fixes an issue where universal apps would crash the first time they where launched
+- Fixes an issue that keeps users from capturing or editing clips on some apps
+- Fixes an issue that could leave unsupported media pins on the Home dashboard after updating to universal apps
+- Fixes an issue that caused some games to appear under apps in My Games & Apps
