@@ -46,8 +46,14 @@ _Released on 1 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring
 _Released on 9 August 2016 for the Fast Ring, Slow Ring, Release Preview Ring and Current Branch, [KB 3176495](https://support.microsoft.com/?kbid=3176495)_
 
 ### And further
-- Improved reliability for Internet Explorer 11.
+- Improved reliability for Internet Explorer 11
 
 ### Fixes issues
 - Fixes an issue to keep pen click settings after updating to Windows 10 Version 1607
 - Security updates to Kernel Mode Drivers, Microsoft Graphics Component, Microsoft Edge, Internet Explorer 11 and Windows Authentication Methods
+
+## Windows 10 Anniversary Update build 14393.67
+_Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176931](https://support.microsoft.com/?kbid=3176931)_
+
+### Fixes issues
+- Fixes an issue that prevents users from completing the out-of-box experience (OOBE) with a local account using Korean characters
