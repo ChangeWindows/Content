@@ -41,3 +41,13 @@ _Released on 1 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring
 - Fixes an issue that sometimes prevent XAML apps from receiving keyboard input
 - Fixes an issue with event logging that creates very large virtual allocations
 - Fixes additional issues with Cortana, Microsoft Query and Microsoft Excel compatibility and the Korean Input Method Editor (IME)
+
+## Windows 10 Anniversary Update build 14393.51
+_Released on 9 August 2016 for the Fast Ring, Slow Ring, Release Preview Ring and Current Branch, [KB 3176495](https://support.microsoft.com/?kbid=3176495)_
+
+### And further
+- Improved reliability for Internet Explorer 11.
+
+### Fixes issues
+- Fixes an issue to keep pen click settings after updating to Windows 10 Version 1607
+- Security updates to Kernel Mode Drivers, Microsoft Graphics Component, Microsoft Edge, Internet Explorer 11 and Windows Authentication Methods

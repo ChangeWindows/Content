@@ -155,3 +155,18 @@ _Released on 12 July 2016 to the Preview Release Ring, Current Branch and Curren
 - Fixed issue where local user accounts weren't locked after a number of failed sign in attempts
 - Fixed additional issues in .NET, Windows Kernel, Windows Update, authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, Internet Explorer 11, networking and Wi-Fi connectivity
 - Security updates for Microsoft Edge, Internet Explorer 11, Kernel Mode Drivers, Windows Kernel, .NET Framework, Windows Secure Kernel Mode and Microsoft Print Spooler
+
+## Windows 10 November Update build 10586.545
+_Released on 12 July 2016 to the Current Branch and Current Branch for Business, [KB 3176493](https://support.microsoft.com/?kbid=3176493)_
+
+### And further
+- Improved reliability by allowing more time for devices to recover from connected standby mode
+
+### Fixed issues
+- Fixes an issue affecting some devices with Bitlocker enabled that didn’t start up to the BitLocker password entry screen
+- Fixes an issue with MouseUp and MouseDown events not working correctly when using a scroll bar in an Inline Frame (IFrame)
+- Fixes an issue that delays the display of content when resizing the Internet Explorer 11 browser window
+- Fixes an issue with special keys and mouse clicks that don’t work on devices when Remote Assistance is in session
+- Fixes an issue with rendering multi-pixel points in Web Graphics Library (WebGL)
+- Fixes an additional issues with certain devices that can’t transition from connected standby to sleep mode, updates not installing, and Internet Explorer 11
+- Security updates to Internet Explorer 11, Microsoft Edge, Kernel Mode Drivers, Windows Authentication Methods, Microsoft Graphics Component, and Kernel Mode Blacklist

@@ -108,3 +108,18 @@ _Released on 12 July 2016 to the Current Branch, Current Branch for Business and
 - Fixed issue that caused some apps to become unresponsive when used with an Input Method Editor
 - Fixed additional issues in Microsoft Graphics component, Internet Explorer 11, Scheduled Tasks and .NET Framework
 - Security updates for Microsoft Edge, Internet Explorer, Microsoft Print Spooler, Windows Kernel, Secure Kernel, Kernel Mode Drivers, .NET Framework, JScript and VBScript
+
+## Windows 10 build 10240.17071
+_Released on 12 July 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3176492](https://support.microsoft.com/?kbid=3176492)_
+
+### And further
+- Improved reliability for Internet Explorer 11 and WebDAV shares
+
+### Fixes issues
+- Fixes an issue affecting some devices with Bitlocker enabled that didn’t start up to the BitLocker password entry screen
+- Fixes an issue with MouseUp and MouseDown events not working correctly when using a scroll bar in an Inline Frame (IFrame)
+- Fixes an issue that delays the display of content when resizing the Internet Explorer 11 browser window
+- Fixes an issue in DNS Subnet Prioritization that was impacting network connectivity
+- Fixes an issue with OLE drag and drop that prevents the download of more than one item per operation
+- Fixes an additional issues with revised daylight saving time, updates not installing, Internet Explorer 11, and the Windows kernel
+- Security updates to Kernel Mode Blacklist, Microsoft Edge, Internet Explorer 11, Microsoft Graphics Component, Windows Authentication Methods, the lock screen, Kernel Mode Drivers and Secure Boot
