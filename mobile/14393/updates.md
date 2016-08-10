@@ -34,17 +34,9 @@ _Released on 25 July 2016 for the Fast Ring and 28 July 2016 for the Slow Ring a
 ## Windows 10 Mobile Anniversary Update build 14393.67
 _Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176931](https://support.microsoft.com/?kbid=3176931)_
 
-### And further
-- Improved reliability for Internet Explorer 11
-- Improved reliability of background tasks and extensions for Microsoft Edge
-
 ### Fixes issues
-- Fixes an issue that causes significantly reduced battery life when using Bluetooth with “Hey Cortana” feature enabled
-- Fixes an licensing issue that prevents apps from activating
-- Fixes an issue with scheduled update scans that are delayed during Connected Standby
-- Fixes an issue that sometimes prevent Extensible Application Markup Language (XAML) apps from receiving keyboard input
-- Fixes an issue with event logging that creates very large virtual allocations
-- Fixes an issues that cause high battery drain when a Windows 10 Mobile device is idle or the screen is off
+- Fixes an issue to keep pen click settings after updating to Windows 10 Version 1607
 - Fixes an issue that may cause devices to hang after turning Bluetooth on and off very quickly
-- Fixes a number of issues relating to security updates to Kernel Mode Drivers, Microsoft Graphics Component, Microsoft Edge and Windows Authentication Methods
-- Fixes an additional issues with Cortana, Microsoft Query and Microsoft Excel compatibility, and the Korean Input Method Editor (IME)
+- Fixes an issue that causes significantly reduced battery life on Windows Phone when using Bluetooth with "Hey Cortana" feature enabled
+- Fixes an issue that prevents users from completing the out-of-box experience (OOBE) with a local account using Korean characters
+- Security updates to Kernel Mode Drivers, Microsoft Graphics Component, Microsoft Edge and Windows Authentication Methods

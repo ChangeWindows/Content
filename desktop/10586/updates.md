@@ -169,4 +169,4 @@ _Released on 12 July 2016 to the Current Branch and Current Branch for Business,
 - Fixes an issue with special keys and mouse clicks that don’t work on devices when Remote Assistance is in session
 - Fixes an issue with rendering multi-pixel points in Web Graphics Library (WebGL)
 - Fixes an additional issues with certain devices that can’t transition from connected standby to sleep mode, updates not installing, and Internet Explorer 11
-- Security updates to Internet Explorer 11, Microsoft Edge, Kernel Mode Drivers, Windows Authentication Methods, Microsoft Graphics Component, and Kernel Mode Blacklist
+- Security updates to Internet Explorer 11, Microsoft Edge, Kernel Mode Drivers, Windows Authentication Methods, Microsoft Graphics Component and Kernel Mode Blacklist

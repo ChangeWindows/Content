@@ -223,3 +223,17 @@ _Released on 12 July 2016 to the Preview Release Ring and Current Branch, [KB 31
 - Fixed issue with Windows Phone losing user authentication certificates after upgrading to Windows 10 Mobile in some cases
 - Fixed issue where Microsoft Silverlight based apps wouldn't install on Windows 10 Mobile after joining Azure Active Directory
 - Fixed additional issues in .NET, Windows Kernel, Windows Update, authentication, revised daylight saving time, support for PDF files, Bluetooth, Microsoft Edge, networking and Wi-Fi connectivity
+
+## Windows 10 Mobile build 10586.545
+_Released on 10 July 2016 to the Current Branch, [KB 3176493](https://support.microsoft.com/?kbid=3176493)_
+
+### And further
+- Improved reliability by allowing more time for devices to recover from connected standby mode
+
+### Fixed issues
+- Fixes an issue affecting some devices with Bitlocker enabled that didn’t start up to the BitLocker password entry screen
+- Fixes an issue with MouseUp and MouseDown events not working correctly when using a scroll bar in an Inline Frame (IFrame)
+- Fixes an issue with special keys and mouse clicks that don’t work on devices when Remote Assistance is in session
+- Fixes an issue with rendering multi-pixel points in Web Graphics Library (WebGL)
+- Fixes an additional issues with certain devices that can’t transition from connected standby to sleep mode and updates not installing
+- Security updates to Microsoft Edge, Kernel Mode Drivers, Windows Authentication Methods, Microsoft Graphics Component and Kernel Mode Blacklist
