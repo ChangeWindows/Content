@@ -4,6 +4,9 @@
 ### Microsoft Edge
 - Edge has been updated from version 38.14393 to version 39.14901
 - A number of new flags have been added
+ - Flags to enable Service Workers
+ - WebRTC 1.0 has been added as experimental feature
+ - A flag for TCP Fast Open has been added
 
 ### System
 - Kernel debugging over 1394 has been removed
