@@ -104,8 +104,35 @@ _Released on 8 August 2016_
 ### Xbox Store
 - You can now add PayPal as a payment option
 
-### And further
+### Fixed issues
 - Fixes an issue where universal apps would crash the first time they where launched
 - Fixes an issue that keeps users from capturing or editing clips on some apps
 - Fixes an issue that could leave unsupported media pins on the Home dashboard after updating to universal apps
 - Fixes an issue that caused some games to appear under apps in My Games & Apps
+
+## Xbox One August Update build 14393.1032
+_Released on 10 August 2016_
+
+### And further
+- General stability improvements in games
+
+### Fixed issues
+- Fixes an issue that could result in Groove Music crashing
+- Fixes an issue that could cause the titles of universal app not to appear in the selected language
+
+## Xbox One August Update build 14393.1034
+_Released on 12 August 2016_
+
+### Settings and behavior
+- You can now set the Startup Chime to play always, only when the console is powered on by voice or the start button or not at all
+
+### And further
+- When you're Xbox Live storage is full, you'll now get a "Storage is full"-notifications when trying to upload a capture
+
+### Fixed issues
+- Fixes a number of issues that could result in the Store crashing
+- Fixes an issue where time-based trials would show an incorrect time remaining
+- Fixes an issue where a "Try again later"-error would appear when newly purchased content is downloading
+- Fixes an issue that could result in errors when you try to purchase or play movies and TV shows
+- Fixes a number of issues that might result in universal apps failing to install
+- Fixes an issue that caused some games not to recognize the controller when launched
