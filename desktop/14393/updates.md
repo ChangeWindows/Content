@@ -57,3 +57,9 @@ _Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring
 
 ### Fixes issues
 - Fixes an issue that prevents users from completing the out-of-box experience (OOBE) with a local account using Korean characters
+
+## Windows 10 Anniversary Update build 14393.82
+_Released on 16 August 2016 for the Slow Ring and Release Preview Ring, [KB 3176932](https://support.microsoft.com/?kbid=3176932)_
+
+### And further
+- Unknown changes
