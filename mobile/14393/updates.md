@@ -40,3 +40,9 @@ _Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring
 - Fixes an issue that causes significantly reduced battery life on Windows Phone when using Bluetooth with "Hey Cortana" feature enabled
 - Fixes an issue that prevents users from completing the out-of-box experience (OOBE) with a local account using Korean characters
 - Security updates to Kernel Mode Drivers, Microsoft Graphics Component, Microsoft Edge and Windows Authentication Methods
+
+## Windows 10 Mobile Anniversary Update build 14393.82
+_Released on 16 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176932](https://support.microsoft.com/?kbid=3176932)_
+
+### And further
+- Unknown changes
