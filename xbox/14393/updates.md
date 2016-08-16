@@ -136,3 +136,12 @@ _Released on 12 August 2016_
 - Fixes an issue that could result in errors when you try to purchase or play movies and TV shows
 - Fixes a number of issues that might result in universal apps failing to install
 - Fixes an issue that caused some games not to recognize the controller when launched
+
+## Xbox One August Update build 14393.1037
+_Released on 14 August 2016_
+
+### Fixed issues
+- Fixes an issue that caused the buy-botton to be needed to click twice
+- Fixes an issue that caused the Store to crash
+- Fixes an issue where some users failed to sign in
+- Fixes an issue where a black screen would appear when attempting to open the Weather app
