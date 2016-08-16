@@ -32,7 +32,7 @@ _Released on 25 July 2016 for the Fast Ring and 28 July 2016 for the Slow Ring a
 - Fixes an issue that keeps you from typing in text into Search or the Store app without restarting the process
 
 ## Windows 10 Mobile Anniversary Update build 14393.67
-_Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring, [KB 3176931](https://support.microsoft.com/?kbid=3176931)_
+_Released on 9 August 2016 for the Fast Ring, Slow Ring and Release Preview Ring and 16 August 2016 for the Current Branch, [KB 3176931](https://support.microsoft.com/?kbid=3176931)_
 
 ### Fixes issues
 - Fixes an issue to keep pen click settings after updating to Windows 10 Version 1607
