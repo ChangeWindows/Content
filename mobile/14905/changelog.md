@@ -1,5 +1,6 @@
 ### Start and Action Center
 - When you receive a missed call notification, it will now show options to call back, text or remind yourself to do something at a later moment
+- You'll now get a notification welcoming you to Action Center
 
 ### Microsoft Edge
 - Edge has been updated from version 38.14393 to version 39.14905
