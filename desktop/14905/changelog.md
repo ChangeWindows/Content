@@ -1,3 +1,6 @@
+### Start and Action Center
+- You'll now get a notification welcoming you to Action Center
+
 ### Microsoft Edge
 - Edge has been updated from version 39.14901 to version 39.14905 with the following features
  - You can now use Ctrl + O to move focus to the address bar
