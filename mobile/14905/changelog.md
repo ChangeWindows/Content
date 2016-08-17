@@ -2,7 +2,7 @@
 - When you receive a missed call notification, it will now show options to call back, text or remind yourself to do something at a later moment
 
 ### Microsoft Edge
-- Edge has been updated from version 38.14393 to version 3x.14905
+- Edge has been updated from version 38.14393 to version 39.14905
 - The following flags have been changed
  - Flags to enable Service Workers
  - WebRTC 1.0 has been added as experimental feature

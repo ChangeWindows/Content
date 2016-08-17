@@ -1,5 +1,5 @@
 ### Microsoft Edge
-- Edge has been updated from version 39.14901 to version 3x.14905 with the following features
+- Edge has been updated from version 39.14901 to version 39.14905 with the following features
  - You can now use Ctrl + O to move focus to the address bar
 
 ### Other features
