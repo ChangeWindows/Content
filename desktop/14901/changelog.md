@@ -7,6 +7,7 @@
  - Flags to enable Service Workers
  - WebRTC 1.0 has been added as experimental feature
  - A flag for TCP Fast Open has been added
+ - You can now set the composition engine
 
 ### System
 - Kernel debugging over 1394 has been removed
