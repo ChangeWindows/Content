@@ -145,3 +145,9 @@ _Released on 14 August 2016_
 - Fixes an issue that caused the Store to crash
 - Fixes an issue where some users failed to sign in
 - Fixes an issue where a black screen would appear when attempting to open the Weather app
+
+## Xbox One August Update build 14393.1040
+_Released on 17 August 2016_
+
+### Fixed issues
+- Fixes an issue that resulted in errors while attempting to install some universal apps
