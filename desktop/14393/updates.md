@@ -63,3 +63,9 @@ _Released on 16 August 2016 for the Release Preview Ring, [KB 3176932](https://s
 
 ### And further
 - Unknown changes
+
+## Windows 10 Anniversary Update build 14393.82
+_Released on 18 August 2016 for the Release Preview Ring, [KB 3176934](https://support.microsoft.com/?kbid=3176934)_
+
+### And further
+- Improved download size optimization for updates
