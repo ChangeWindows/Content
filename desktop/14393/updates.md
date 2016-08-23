@@ -74,7 +74,7 @@ _Released on 16 August 2016 for the Release Preview Ring, [KB 3176932](https://s
 - Fixes additional issues with MDM enrollment for an Azure Active Directory tenant, software compatibility, poor rendering of Yu Gothic font family, Cortana, slow connections to cluster shares, Xbox One cannot launch the Netflix app using the DIAL protocol, Xbox sound volume and music playback, all video stops while audio plays in a Movies & TV app, incorrect scaling of Internet Explorer's first-run dialog, driver setup, Windows Update for Business, apps failing to install after resetting device, boot failure with Hyper-V and BitLocker enabled, Cache Manager, Cluster Health service, cannot alter roles and features on a locked down machine, disk-to-enclosure mappings not working, PowerShell, missing lock screen image, fitness tracker not recognized as a mass storage device, synchronization not working between Intune and Azure Active Directory (AAD), failed Wi-Fi Skype calls, poor streaming playback using progressive download, failed cancellation of Store download, extensions for Microsoft Edge, incorrect Lock screen UI after resuming from hibernate and sleep and blocked installation of Store game bundles
 
 ## Windows 10 Anniversary Update build 14393.82
-_Released on 18 August 2016 for the Release Preview Ring, [KB 3176934](https://support.microsoft.com/?kbid=3176934)_
+_Released on 18 August 2016 for the Release Preview Ring and on 23 August 2016 for the Current Branch, [KB 3176934](https://support.microsoft.com/?kbid=3176934)_
 
 ### And further
 - Improved download size optimization for updates
