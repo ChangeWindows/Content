@@ -15,7 +15,7 @@
 
 ### Fixed issues
 - Fixes an issue where videos played in Windows Phone 8 apps may not pause when an incoming call is received
-- Fixes an issue where the contact your calling might see a blocked caller ID, despite "Show my caller ID" being set to "My contacts"
+- Fixes an issue where the contact you're calling might see a blocked caller ID, despite "Show my caller ID" being set to "My contacts"
 - Fixes an issue where to lock screen might show the wrong time after changing the time zone
 - Fixes an issue where music would fail to resume when a call was finished when Turn-by-Turn directions were being read while receiving a call
 
