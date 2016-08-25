@@ -53,3 +53,19 @@ _Released on 16 August 2016 for the Release Preview Ring, [KB 3176932](https://s
 - Fixes an issue that was causing nodes to be disconnected from a Cluster service intermittently
 - Fixes an issue with the 3G and 4G options not shown correctly in settings
 - Fixes additional issues with MDM enrollment for an Azure Active Directory tenant, software compatibility, poor rendering of Yu Gothic font family, Cortana, slow connections to cluster shares, Xbox One cannot launch the Netflix app using the DIAL protocol, Xbox sound volume and music playback, all video stops while audio plays in a Movies & TV app, incorrect scaling of Internet Explorer's first-run dialog, driver setup, Windows Update for Business, apps failing to install after resetting device, boot failure with Hyper-V and BitLocker enabled, Cache Manager, Cluster Health service, cannot alter roles and features on a locked down machine, disk-to-enclosure mappings not working, PowerShell, missing lock screen image, fitness tracker not recognized as a mass storage device, synchronization not working between Intune and Azure Active Directory (AAD), failed Wi-Fi Skype calls, poor streaming playback using progressive download, failed cancellation of Store download, extensions for Microsoft Edge, incorrect Lock screen UI after resuming from hibernate and sleep and blocked installation of Store game bundles
+
+## Windows 10 Mobile Anniversary Update build 14393.103
+_Released on 25 August 2016 for the Slow Ring and Release Preview Ring, [KB 3176938](https://support.microsoft.com/?kbid=3176938)_
+
+### And further
+- Improved reliability of the Windows Ink Workspace, Microsoft Edge, File Server, Windows kernel, Microsoft Component Object Model (COM), Cluster Health Service, Hyper-V, Multi-Factor Authentication (MFA), NTFS file system, PowerShell, Internet Explorer, facial recognition, graphics, Microsoft Store and Windows Shell
+- Improved performance for the speed of purchasing Store apps
+- Improved battery life of wearable devices (such as the Microsoft Band) while Bluetooth is connected and idle
+- Improved compatibility of using Xbox One controllers with various games
+- Improved support for new near-field communication (NFC) chips for Windows 10 Mobile
+
+### Fixed issues
+- Fixes an issue with incorrect character mapping between Japanese and Unicode for the question mark (?) symbol
+- Fixes an issue that prevents the download and initialization of .NET objects in Internet Explorer
+- Fixes an issue with game or app audio not resuming after ending a call on Windows 10 Mobile
+- Fixes additional issues with compatibility, Remote Desktop, BitLocker, PowerShell, Direct3D, networking policies, Dynamic Access Control (DAC) rules, Microsoft Edge, Connected Standby, mobile device management (MDM), printing, Fingerprint logon and Cortana
