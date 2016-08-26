@@ -1,5 +1,5 @@
 ## Xbox One August Update build 14393.1001
-_Released on 18 July 2016
+_Released on 18 July 2016_
 
 ### Fixed issues
 - Fixes an issue that could result in pinned tiles to link to the wrong Store page
@@ -151,3 +151,13 @@ _Released on 17 August 2016_
 
 ### Fixed issues
 - Fixes an issue that resulted in errors while attempting to install some universal apps
+
+## Xbox One August Update build 14393.1044
+_Released on 26 August 2016_
+
+### Dashboard
+- Cortana is now available in France, Italy, Germany and Spain
+
+### Fixed issues
+- Fixes an issue where game trails would be available for shorter or longer time periods than intended
+- Fixes an issue that could result in system updates failing to be applied
