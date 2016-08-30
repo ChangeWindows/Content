@@ -161,3 +161,10 @@ _Released on 26 August 2016_
 ### Fixed issues
 - Fixes an issue where game trails would be available for shorter or longer time periods than intended
 - Fixes an issue that could result in system updates failing to be applied
+
+## Xbox One August Update build 14393.1045
+_Released on 27 August 2016_
+
+### Fixed issues
+- Fixes an issue that prevents some users from purchasing a full game after using a free trail
+- Fixes an issue where managing DLCs for some games would crash your game collection
