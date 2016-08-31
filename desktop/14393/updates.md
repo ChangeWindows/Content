@@ -94,3 +94,9 @@ _Released on 25 August 2016 for the Slow Ring and Release Preview Ring, [KB 3176
 - Fixes an issue that prevents the download and initialization of .NET objects in Internet Explorer
 - Fixes an issue with game or app audio not resuming after ending a call on Windows 10 Mobile
 - Fixes additional issues with compatibility, Remote Desktop, BitLocker, PowerShell, Direct3D, networking policies, Dynamic Access Control (DAC) rules, Microsoft Edge, Connected Standby, mobile device management (MDM), printing, Fingerprint logon and Cortana
+
+## Windows 10 Anniversary Update build 14393.105
+_Released on 30 August 2016 for the Slow Ring and Release Preview Ring, [KB 3176938](https://support.microsoft.com/?kbid=3176938)_
+
+### And futher
+- Unknown changes
