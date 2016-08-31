@@ -3,7 +3,7 @@
 
 ### Settings
 - New panels, settings and options
- - Delivery Optimization is now enabled
+ - Delivery Optimization is now enabled for Insiders
 
 ### And futher
 - A number of improvements have been made to translations
