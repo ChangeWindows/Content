@@ -55,7 +55,7 @@
  - Games has been added
  - PC Settings has been added
 
-### And futher
+### And further
 - Support for USB 3.0 is now included natively
 - You can now login with your Microsoft Account
 - DirectX 11.1 is included with Windows 8

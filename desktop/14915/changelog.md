@@ -15,7 +15,7 @@
 - New panels, settings and options
  - Delivery Optimization is now enabled for Insiders
 
-### And futher
+### And further
 - A number of improvements have been made to translations
 
 ### Fixed issues

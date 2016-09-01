@@ -98,5 +98,5 @@ _Released on 25 August 2016 for the Slow Ring and Release Preview Ring, [KB 3176
 ## Windows 10 Anniversary Update build 14393.105
 _Released on 30 August 2016 for the Slow Ring and Release Preview Ring and 31 August 2016 for the Current Branch, [KB 3176938](https://support.microsoft.com/?kbid=3176938)_
 
-### And futher
+### And further
 - Unknown changes

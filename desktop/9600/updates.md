@@ -37,7 +37,7 @@
  - You can now leave a domain from the app
  - A link to the Control Panel hass been added
 
-### And futher
+### And further
 - You can now show more details in the Networks fly-out for a network
 - Improved performance and support for WIMBoot
 

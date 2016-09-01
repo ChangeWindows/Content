@@ -1,4 +1,4 @@
-### And futher
+### And further
 - App shannels now support favorites
 
 ### Fixed issues

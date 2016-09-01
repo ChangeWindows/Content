@@ -12,7 +12,7 @@
 - Visual updates and others
  - Sound settings will now show show ringtones, alarms and notifications automatically when downloaded from OneDrive or copied from File Explorer into the Ringtones folder
 
-### And futher
+### And further
 - A number of improvements have been made to translations
 - The "You need to fix your MSA" notification logic has been improved so new ones will no longer follow each other in quick succession
 

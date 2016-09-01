@@ -108,7 +108,7 @@
  - Messaging - replaced by Skype
  - Bing - replaced by Search
 
-### And futher
+### And further
 - Support for NFC, 3G and 4G
 - Wireless printing without additional drivers
 - 2-step authentication
