@@ -8,7 +8,7 @@
  - "Enable New Serialization for Clipboard Implementation" has been added
  - "Enable TSF 3D Implementation" has been added
  
- ### Settings
+### Settings
 - Visual updates and others
  - Sound settings will now show show ringtones, alarms and notifications automatically when downloaded from OneDrive or copied from File Explorer into the Ringtones folder
 
