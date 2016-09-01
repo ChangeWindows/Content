@@ -1,6 +1,13 @@
 ### User Interface
 - The clickable area for each device in the Connect flyout is now as wide as the flyout itself
 
+### Microsoft Edge
+- Edge has been updated from version 39.14905 to version 39.14915
+- The following flags have been changed
+ - "Enable New Editing Command Implementation" has been added
+ - "Enable New Serialization for Clipboard Implementation" has been added
+ - "Enable TSF 3D Implementation" has been added
+
 ### Settings
 - New panels, settings and options
  - Delivery Optimization is now enabled for Insiders
