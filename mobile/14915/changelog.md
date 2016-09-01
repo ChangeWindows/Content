@@ -1,4 +1,11 @@
-### Settings
+### Microsoft Edge
+- Edge has been updated from version 39.14905 to version 39.14915
+- The following flags have been changed
+ - "Enable New Editing Command Implementation" has been added
+ - "Enable New Serialization for Clipboard Implementation" has been added
+ - "Enable TSF 3D Implementation" has been added
+ 
+ ### Settings
 - Visual updates and others
  - Sound settings will now show show ringtones, alarms and notifications automatically when downloaded from OneDrive or copied from File Explorer into the Ringtones folder
 
