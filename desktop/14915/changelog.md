@@ -3,6 +3,9 @@
 
 ### Microsoft Edge
 - Edge has been updated from version 39.14905 to version 39.14915
+- EdgeHTML has been updated from version 14.14905 to version 14.14915 with the following updates
+ - Partial support for Webkit-Text-Stroke and outline-offset
+ - Partial support for WebRTC 1.0
 - The following flags have been changed
  - "Enable New Editing Command Implementation" has been added
  - "Enable New Serialization for Clipboard Implementation" has been added
