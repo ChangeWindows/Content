@@ -174,3 +174,13 @@ _Released on 1 September 2016_
 
 ### And further
 - Unknown optimizations and improvements
+
+## Xbox One August Update build 14393.1050
+_Released on 4 September 2016_
+
+### And further
+- Improved performance for background music apps
+
+### Fixed issues
+- Fixes an issue where users would be routed back to BDE after purchasing Xbox Live Gold
+- Fixes an issue that could cause the guide to crash
