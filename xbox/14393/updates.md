@@ -184,3 +184,19 @@ _Released on 4 September 2016_
 ### Fixed issues
 - Fixes an issue where users would be routed back to BDE after purchasing Xbox Live Gold
 - Fixes an issue that could cause the guide to crash
+
+## Xbox One October Update build 14393.1052
+_Released on 6 September 2016_
+
+### Community
+- You can now join a club
+- You can now find new friends by posting a "want ad" with Looking for Groups
+
+## Xbox One October Update build 14393.105x
+_Released on 8 September 2016_
+
+### Fixed issues
+- Groove will no longer fail to launch when casting audio files from a Windows 10 PC to an Xbox One
+- Fixes an isuse that caused the Weather app to fail to launch
+- Fixes an issue where backward compatible games would show stuttering and framerate issues
+- Fixes an issue where recently purchased content might fail to launch
