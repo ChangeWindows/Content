@@ -185,14 +185,14 @@ _Released on 4 September 2016_
 - Fixes an issue where users would be routed back to BDE after purchasing Xbox Live Gold
 - Fixes an issue that could cause the guide to crash
 
-## Xbox One October Update build 14393.1052
+## Xbox One October Update build 14393.2052
 _Released on 6 September 2016_
 
 ### Community
 - You can now join a club
 - You can now find new friends by posting a "want ad" with Looking for Groups
 
-## Xbox One October Update build 14393.105x
+## Xbox One October Update build 14393.205x
 _Released on 8 September 2016_
 
 ### Fixed issues
