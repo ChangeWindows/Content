@@ -170,3 +170,20 @@ _Released on 12 July 2016 to the Current Branch and Current Branch for Business,
 - Fixes an issue with rendering multi-pixel points in Web Graphics Library (WebGL)
 - Fixes an additional issues with certain devices that can’t transition from connected standby to sleep mode, updates not installing, and Internet Explorer 11
 - Security updates to Internet Explorer 11, Microsoft Edge, Kernel Mode Drivers, Windows Authentication Methods, Microsoft Graphics Component and Kernel Mode Blacklist
+
+## Windows 10 November Update build 10586.589
+_Released on 13 September 2016 to the Current Branch and Current Branch for Business, [KB 3185614](https://support.microsoft.com/?kbid=3185614)_
+
+### And further
+- Improved reliability of Internet Explorer 11, USB and the .NET framework
+- Fixed an issue causing “Print all linked documents” to not work in Internet Explorer 11
+- Improved support for networks by adding new entries to the Access Point Name (APN) database
+- Removed the Copy Protection option when ripping CDs in Windows Media Audio (WMA) format from Windows Media Player
+- Security updates to Internet Explorer 11, Microsoft Graphics Component, Microsoft Edge, Windows Secure Kernel Mode, Windows SMB Server, Windows kernel, Windows Lock Screen and Adobe Flash Player
+
+### Fixed issues
+- Fixes an issue with the link to "Change my environment variables" in the User Accounts Control Panel not working correctly
+- Fixes an issue where a device, which previously had Internet access, has the incorrect time and date after joining a network with no Internet access to SSL servers
+- Fixes an issue where someone with a mandatory profile can’t use the Start menu, Cortana, search, and some pre-installed apps
+- Fixes an issue where, after installing a package using Windows Installer (MSI), customers can’t run any command line utility unless they restart or sign out and then sign in to their device
+- Fixes additional issues with excessive security logging, Windows Management Instrumentation (WMI), consumer storage, Add-On List Group Policy Object, mobile broadband, filter drivers, Internet Explorer 11, Windows Media Player, graphics, revised daylight saving time,and Windows Shell

@@ -123,3 +123,23 @@ _Released on 12 July 2016 to the Current Branch, Current Branch for Business and
 - Fixes an issue with OLE drag and drop that prevents the download of more than one item per operation
 - Fixes an additional issues with revised daylight saving time, updates not installing, Internet Explorer 11, and the Windows kernel
 - Security updates to Kernel Mode Blacklist, Microsoft Edge, Internet Explorer 11, Microsoft Graphics Component, Windows Authentication Methods, the lock screen, Kernel Mode Drivers and Secure Boot
+
+## Windows 10 build 10240.17113
+_Released on 13 September 2016 to the Current Branch, Current Branch for Business and Long-Term Support Branch, [KB 3185611](https://support.microsoft.com/?kbid=3185611)_
+
+### Other features
+- Removed the Copy Protection option when ripping CDs in Windows Media Audio (WMA) format from Windows Media Player
+
+### And further
+- Improved reliability of Internet Explorer 11, .NET Framework,and Windows Kernel
+- Improved support for the Group Policy setting for signing in using a PIN
+- Improved support for networks by adding new entries to the Access Point Name (APN) database
+- Security updates to Microsoft Edge, Internet Explorer 11, Windows kernel, OLE automation, Windows lock screen, Windows Secure Kernel Mode, Windows SMB Server v1.0, Microsoft Graphics Component and PDF
+
+### Fixes issues
+- Fixes an issue causing print jobs to not complete, when printing multiple documents in succession
+- Fixes an issue where recovery of encryption certificates for a virtual smartcard doesn’t work
+- Fixes an issue preventing many built-in groups (such as Hyper-V administrators) from being created during setup of new devices using Windows 10 Enterprise
+- Fixes an issue causing links to webpages to display blank pages when Enhanced Protected Mode is enabled in Internet Explorer 11
+- Fixes an issue causing “Print all linked documents” to not work in Internet Explorer 11
+- Fixes additional issues with Internet Explorer 11, Windows Installer, Shell, Windows Media Player, revised daylight saving time and Windows Update for Business

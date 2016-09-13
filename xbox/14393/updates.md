@@ -200,3 +200,15 @@ _Released on 8 September 2016_
 - Fixes an isuse that caused the Weather app to fail to launch
 - Fixes an issue where backward compatible games would show stuttering and framerate issues
 - Fixes an issue where recently purchased content might fail to launch
+
+## Xbox One October Update build 14393.2061
+_Released on 12 September 2016_
+
+### Clubs
+- You can now add descriptions to Clubs
+
+### Fixed issues
+- Fixes an issue that caused LFG to fail to lad when there are unconfirmed participants
+- Fixes an issue that prevented you from creating clubs
+- Fixes an issue that caused the Xbox One not to detect some HDR10 TVs as HDR10 capable
+- Fixes an issue where background audio would sometimes get interrupted
