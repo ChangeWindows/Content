@@ -1,37 +1,16 @@
-### Start and Action Center
-
-### Cortana and search
-
-### Desktop
-
-### File Explorer
-
-### User Interface
-
 ### Microsoft Edge
 - Edge has been updated from version 39.14915 to version 39.14926 with the following updates
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
  - You can now import and export favorites from and to a file
 - EdgeHTML has been updated from version 14.14915 to version 14.14926 with the following updates
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
-- The following flags have been changed
-
-### Settings
-- New panels, settings and options
-- Visual updates and others
-
-### Ink Workspace
 
 ### System
 - Apps you have previously uninstalled will no longer be installed with every new upgrade
 
-### Apps
-
 ### Other features
 - The PIN field on the logon screen will now register keys as numbers no matter if NumLock is on or off
 - Improved scaling for games that have a different aspect ratio than the native display resolution
-
-### And further
 
 ### Fixed issues
 - Fixes Adobe Acrobat Reader crashing when you try to launch it
