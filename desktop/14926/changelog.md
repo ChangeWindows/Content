@@ -9,8 +9,9 @@
 ### User Interface
 
 ### Microsoft Edge
-- Edge has been updated from version 39.14915 to version 3x.14926 with the following updates
+- Edge has been updated from version 39.14915 to version 39.14926 with the following updates
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
+ - You can now import and export favorites from and to a file
 - EdgeHTML has been updated from version 14.14915 to version 14.14926 with the following updates
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
 - The following flags have been changed
