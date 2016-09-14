@@ -25,3 +25,5 @@
 - Devices like the Lumia 650 will fail to install this build with a 0x80188308-error
 - Action Center won't close by swiping up from the empty space below notifications
 - Using your phone as a mobile hotspot will work the first time but won't with following attempts until rebooted
+- Some devices may no longer see the PIN-pad to unlock their phone
+- Some devices will fail to recognize the SIM-card
