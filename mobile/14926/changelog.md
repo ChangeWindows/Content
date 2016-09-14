@@ -1,3 +1,6 @@
+### Start and Action Center
+- Individual notifications without an image from their app now show the app logo
+
 ### Microsoft Edge
 - Edge has been updated from version 39.14915 to version 3x.14926 with the following updates
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
