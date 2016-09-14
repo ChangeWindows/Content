@@ -5,6 +5,10 @@
 - EdgeHTML has been updated from version 14.14915 to version 14.14926 with the following updates
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
 
+### Settings
+- New panels, settings and options
+ - Windows Anywhere has been added under Account
+
 ### System
 - Apps you have previously uninstalled will no longer be installed with every new upgrade
 
