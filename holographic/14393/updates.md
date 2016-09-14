@@ -20,3 +20,9 @@
 - When in Adjust mode, the eye gaze dot cursor will change to the 4-arrow cursor sometime more slowly no longer
 - "Hey Cortana play music" does now launch Groove correctly
 - Saying "Go Home" does display the pins panel correctly
+
+## Windows 10 Holographic build 14393.187
+_Released on 14 September 2016, [KB 3189866](https://support.microsoft.com/?kbid=3189866)_
+
+### And further
+- Unknown fixes and improvements
