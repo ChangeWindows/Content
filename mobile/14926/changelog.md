@@ -12,6 +12,8 @@
  - The Wi-Fi panel has been renamed Wi-Fi (legacy)
  - Wi-Fi has been added as a new panel, containing the same features as the desktop version of the panel
  - Improved reliability in the VPN Settings page
+- Visual updates and others
+ - Storage Usage now shows icons for each type of file
 
 ### Fixed issues
 - Fixes a scaling issue on devices like the Lumia 635, 636 and 638 that would cause some apps to get cut off on the bottom

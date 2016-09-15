@@ -8,6 +8,8 @@
 ### Settings
 - New panels, settings and options
  - Windows Anywhere has been added under Account
+- Visual updates and others
+ - Storage Usage now shows icons for each type of file
 
 ### System
 - Apps you have previously uninstalled will no longer be installed with every new upgrade
