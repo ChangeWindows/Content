@@ -185,14 +185,7 @@ _Released on 4 September 2016_
 - Fixes an issue where users would be routed back to BDE after purchasing Xbox Live Gold
 - Fixes an issue that could cause the guide to crash
 
-## Xbox One October Update build 14393.2052
-_Released on 6 September 2016_
-
-### Community
-- You can now join a club
-- You can now find new friends by posting a "want ad" with Looking for Groups
-
-## Xbox One October Update build 14393.205x
+## Xbox One October Update build 14393.1054
 _Released on 8 September 2016_
 
 ### Fixed issues
@@ -200,6 +193,20 @@ _Released on 8 September 2016_
 - Fixes an isuse that caused the Weather app to fail to launch
 - Fixes an issue where backward compatible games would show stuttering and framerate issues
 - Fixes an issue where recently purchased content might fail to launch
+
+## Xbox One October Update build 14393.1061
+_Released on 17 September 2016_
+
+### Fixed issues
+- Fixes an isue that caused the Xbox One S from failing to set an alternate wireless MAC address
+- When a game or app is being installed, its progress on the dashboard tile will no longer be incorrectly displayed
+
+## Xbox One October Update build 14393.2052
+_Released on 6 September 2016_
+
+### Community
+- You can now join a club
+- You can now find new friends by posting a "want ad" with Looking for Groups
 
 ## Xbox One October Update build 14393.2061
 _Released on 12 September 2016_
