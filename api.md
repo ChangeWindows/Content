@@ -16,13 +16,13 @@ milestone | Contains the id of the milestone this build is part of. | Available
 
 Field | Description | Status
 ------------ | ------------- | -------------
-id | **Primary key**, contains the id of the release | Available
-build | Contains the build number of the release | Available
-string | Contains the string of the release | Available
-platform | Contains an integer from 1 to 6 to represent the platform (in order: desktop, Mobile, Xbox, Server, Holographic, IoT) | Available
-ring | Contains an integer from 1 to 6 to represent the branch (in order: Fast, Slow/Preview, Release Preview, Current/Release, Business, LTSB) | Available
-date | Contains the date on which the release was released | Available
-announcement | Contains an URL to the announcement of the release or to the KB article on Microsoft.com | Available
+id | **Primary key**, contains the id of the release. | Available
+build | Contains the build number of the release. | Available
+string | Contains the string of the release. | Available
+platform | Contains an integer from 1 to 6 to represent the platform (in order: desktop, Mobile, Xbox, Server, Holographic, IoT). | Available
+ring | Contains an integer from 1 to 6 to represent the branch (in order: Fast, Slow/Preview, Release Preview, Current/Release, Business, LTSB). For desktop and Mobile, 2 and 4 stand for "Slow Ring" and "Current Branch" respectively, since non of the other platforms have such a ring system, these are identified with "Preview" and "Release" respectivly. | Available
+date | Contains the date on which the release was released. | Available
+announcement | Contains an URL to the announcement of the release or to the KB article on Microsoft.com. | Available
 
 ## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
