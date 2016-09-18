@@ -212,3 +212,13 @@ _Released on 12 September 2016_
 - Fixes an issue that prevented you from creating clubs
 - Fixes an issue that caused the Xbox One not to detect some HDR10 TVs as HDR10 capable
 - Fixes an issue where background audio would sometimes get interrupted
+
+## Xbox One October Update build 14393.2066
+_Released on 17 September 2016_
+
+### Fixed issues
+- When a game or app is being installed, its progress on the dashboard tile will no longer be incorrectly displayed
+- The featured tiles in Community are now actionable
+- Non-members will no longer see the "Something went wrong" error when invited to a Hidden Club party
+- "You might like" under Parties will no longer cause an error
+- Launching the power menu will no longer suspend background audio
