@@ -45,7 +45,7 @@ announcement_server | The url to Microsofts official announcement of this build 
 announcement_holographic | The url to Microsofts official announcement of this build for Holographic. | Deprecated
 
 ## Releases
-**releases** contains all information regarding each individual release.
+**releases** contains all information regarding each individual release. One release is added for each individual ring a build has been released to. So for example, patches for 10240 are released for the Current Branch, Current Branch for Business and Long-Term Support Branch, this means that there are 3 releases with the same data but another ring.
 [JSON](http://changewindows.org/api/cw/releases.json) &middot; [XML](http://changewindows.org/api/cw/releases.xml) &middot; [HTML](http://changewindows.org/api/cw/releases.html)
 
 Field | Description | Status
@@ -59,7 +59,7 @@ date | Contains the date on which the release was released | To be added
 announcement | Contains an URL to the announcement of the release or to the KB article on Microsoft.com | To be added
 
 ## Rings
-**rings** contains all information regarding which build is in which ring. This table is still being maintained but will cease to exist for ChangeWindows 3.0, this table will be replaced with the **releases**-table.
+**rings** contains all information regarding which build is in which ring. This table is still being maintained but will cease to exist for ChangeWindows 3.0, this table will be replaced with the **releases**-table whre you simply need to pick the last release from a platform in a certain ring.
 [JSON](http://changewindows.org/api/cw/rings.json) &middot; [XML](http://changewindows.org/api/cw/rings.xml) &middot; [HTML](http://changewindows.org/api/cw/rings.html)
 
 Field | Description | Status
@@ -114,9 +114,9 @@ version | Version number of the milestone (e.g. '1607'). | Available
 osname | Contain the name of the OS (e.g. 'Window 10'). | Available
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
-name_desktop | Contains the name for the desktop build, in addition to the basic naming. | Available
-name_mobile | Contains the name for the Mobile build, in addition to the basic naming. | Available
-name_xbox | Contains the name for the Xbox build, in addition to the basic naming. | Available
-name_iot | Contains the name for the IoT build, in addition to the basic naming. | Available
-name_server | Contains the name for the Server build, in addition to the basic naming. | Available
-name_holographic | Contains the name for the holographic build, in addition to the basic naming. | Available
+desktop | Contains the name for the desktop build, in addition to the basic naming. | Available
+mobile | Contains the name for the Mobile build, in addition to the basic naming. | Available
+xbox | Contains the name for the Xbox build, in addition to the basic naming. | Available
+iot | Contains the name for the IoT build, in addition to the basic naming. | Available
+server | Contains the name for the Server build, in addition to the basic naming. | Available
+holographic | Contains the name for the holographic build, in addition to the basic naming. | Available
