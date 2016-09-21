@@ -2,17 +2,17 @@
 - Individual notifications without an image from their app now show the app logo
 
 ### Microsoft Edge
-- Edge has been updated from version 39.14915 to version 3x.14926 with the following updates
+- Edge has been updated from version 39.14915 to version 39.14926 with the following updates
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
 - EdgeHTML has been updated from version 14.14915 to version 14.14926 with the following updates
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
 
 ### Settings
 - New panels, settings and options
- - The Wi-Fi panel has been renamed Wi-Fi (legacy)
  - Wi-Fi has been added as a new panel, containing the same features as the desktop version of the panel
  - Improved reliability in the VPN Settings page
 - Visual updates and others
+ - The Wi-Fi panel has been renamed Wi-Fi (legacy)
  - Storage Usage now shows icons for each type of file
 
 ### Fixed issues
