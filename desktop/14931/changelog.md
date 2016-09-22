@@ -1,3 +1,6 @@
+### System
+- Built-in support for USB Audio 2.0
+
 ### Fixed issues
 - Fixes an issue that caused a black screen when signing out and switching to a different user account
 - Fixes an issue that prevented built-in Windows 10 apps like Calculator, Alarms & Clock and Voice Recorder from working
