@@ -1,6 +1,6 @@
 This changelog is cumulative of every build released after 14393 and will form the changelog for the Windows 10 Redstone 2 update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14926
+### Last updated to match with version 10.0.14931
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
@@ -19,11 +19,11 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The clickable area for each device in the Connect flyout is now as wide as the flyout itself
 
 ### Microsoft Edge
-- Edge has been updated from version 38.14393 to version 39.14926 with the following updates
+- Edge has been updated from version 38.14393 to version 39.14931 with the following updates
  - You can now use Ctrl + O to move focus to the address bar
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
  - You can now import and export favorites from and to a file
-- EdgeHTML has been updated from version 14.14393 to version 14.14926 with the following updates
+- EdgeHTML has been updated from version 14.14393 to version 14.14931 with the following updates
  - Partial support for Webkit-Text-Stroke and outline-offset
  - Partial support for WebRTC 1.0
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
@@ -50,6 +50,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - Kernel debugging over 1394 has been removed
 - A number of improvements have been made to translations
 - Apps you have previously uninstalled will no longer be installed with every new upgrade
+- Built-in support for USB Audio 2.0
 
 ### Apps
 - Nothing to share yet
