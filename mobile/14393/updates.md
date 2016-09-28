@@ -76,7 +76,7 @@ _Released on 7 September 2016 for the Slow Ring and Release Preview Ring
 ### And further
 - Unknown changes and enhancements
 
-## Windows 10 Anniversary Update build 14393.187
+## Windows 10 Mobile Anniversary Update build 14393.187
 _Released on 14 September 2016 for the Slow Ring and Release Preview Ring, [KB 3189866](https://support.microsoft.com/?kbid=3189866)_
 
 ### And further
@@ -91,3 +91,20 @@ _Released on 14 September 2016 for the Slow Ring and Release Preview Ring, [KB 3
 - Fixes an issue causing some apps to not respond to the commands in the app bar in Windows 10 Mobile
 - Fixes an issue that sometimes blocks alarm notifications in Windows 10 Mobile
 - Fixes additional issues with rendering 4K resolution, missing Start menu tiles when running on battery, Internet Explorer 11, Microsoft Edge, Bluetooth compatibility, graphics, display rotation, app compatibility, Wi-Fi, Feedback Hub, Miracast, Windows Shell, revised daylight saving time and USB
+
+## Windows 10 Mobile Anniversary Update build 14393.221
+_Released on 27 September 2016 for the Slow Ring and Release Preview Ring_
+
+### And further
+- Improved reliability of the Windows Update Agent, shared drives, virtual private network (VPN), clustering, HTTP downloads, Internet Explorer 11, Hyper-V platform, multimedia playback and Microsoft Edge
+- Improved performance of push and local notifications, Hyper-V platform, and some social media websites using Microsoft Edge
+- Improved support for networks by adding new entries to the Access Point Name (APN) database
+
+### Fixed issues
+- Fixes an issue where mapping a drive from an elevated command prompt doesn’t work with administrator credentials
+- Fixes an issue causing movies that were ripped using the transport stream (.ts) format to play without sound in Windows Media Player and the Xbox One Media Player app.
+- Fixes an issue causing the Movies & TV app on the Xbox to stop working when attempting to play content that was just purchased from the Store
+- Fixes an issue causing “Print all linked documents” to not work in Internet Explorer 11
+- Fixes an issue preventing some users from changing the default download location in Windows 10 Mobile
+- Fixes an issue causing unnecessary notifications about fixing Microsoft account in Windows 10 Mobile
+- Fixes additional issues with multimedia, Windows kernel, Windows shell, enterprise security, storage file system, Remote Desktop, core platform, Hyper-V platform, Windows Update for Business, display kernel, near field communication (NFC), input and composition, Bluetooth, Microsoft Lync 2010 compatibility, Windows Storage API, app registration, Trusted Platform Module, Group Policy, Internet Explorer 11, virtual private network (VPN), BitLocker, wireless networking, datacenter networking, Cortana, PowerShell, Active Directory, connection manager and data usage, Microsoft Edge, Windows Recovery Environment, file clustering, Universal Windows Platform (UWP) apps, audio playback settings, DShow Bridge, app compatibility, licensing, cloud infrastructure, domain name system (DNS) server, network controller, USB barcode reader, and Adobe Flash Player
