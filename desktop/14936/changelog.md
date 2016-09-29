@@ -1,3 +1,7 @@
+### Settings
+- New panels, settings and options
+ - WiFi Calling has been added under Network & Internet
+
 ### System
 - Shared devices on your home network will only show up when the network is changed to "private" or "enterprise"
 
