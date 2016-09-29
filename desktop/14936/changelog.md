@@ -1,6 +1,8 @@
 ### Settings
 - New panels, settings and options
  - WiFi Calling has been added under Network & Internet
+- Visual updates and others
+ - Offline maps storage location has been moved from "Offline maps" to "Storage"
 
 ### System
 - Shared devices on your home network will only show up when the network is changed to "private" or "enterprise"
