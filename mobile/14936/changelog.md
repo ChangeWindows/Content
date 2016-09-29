@@ -1,0 +1,12 @@
+### Fixed issues
+- Fixes an issue that prevented the PIN-pad from being shown
+- Fixes an issue where some devices would no longer recognize the SIM-card
+- Fixes an issue where the mobile hotspot would stop working after the first try
+- Fixes an issue that prevented Lumia 650 devices from upgrading
+- Fixes an issue where installing a build would fail with the 800703ed error
+- Fixes an issue where the Action Center would not close when swiping up from within the empty area
+- Fixes an issue that made notifications show the app logo in action center
+- Fixes an issue where devices that where released with Windows Phone 8.1 would not switch to output audio through the headset when plugged in during a call
+
+### Known issues
+- The installation of some apps will fail when the default location is set to SD card
