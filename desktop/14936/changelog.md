@@ -15,5 +15,5 @@
 
 ### Known issues
 - Optional components may not work in this build
-- Tencent app and games might cause your device to bugcheck
+- Tencent apps and games might cause your device to bugcheck
 - Running sfc /scannow in an elevated command prompt will fail at 20%
