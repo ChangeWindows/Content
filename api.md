@@ -32,7 +32,7 @@ Field | Description | Status
 ------------ | ------------- | -------------
 id | **Primary key**, identifies a milestone (e.g. 'redstone1'). | Available
 name | Official name of the milestone (e.g. 'Anniversary Update'). | Available
-version | Version number of the milestone (e.g. '1607'). | Available
+version | Version number of the milestone (e.g. '1607'). For milestones that do not have their version announced, it will always use the expected years last 2 digits followed by "99" (e.g. '1799' for Redstone 2). | Available
 osname | Contain the name of the OS (e.g. 'Window 10'). | Available
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
