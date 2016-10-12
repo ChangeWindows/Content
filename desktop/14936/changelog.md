@@ -1,10 +1,12 @@
 ### Settings
 - New panels, settings and options
  - WiFi Calling has been added under Network & Internet
+ - Windows Update now divides the update history in categories
 - Visual updates and others
  - Offline maps storage location has been moved from "Offline maps" to "Storage"
 
 ### System
+- You can now uninstall a number of stock apps that previously did not support this
 - Shared devices on your home network will only show up when the network is changed to "private" or "enterprise"
 
 ### Other features

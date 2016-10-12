@@ -2,6 +2,9 @@
 - Visual updates and others
  - Offline maps storage location has been moved from "Offline maps" to "Storage"
 
+### System
+- You can now uninstall a number of stock apps that previously did not support this
+
 ### Fixed issues
 - Fixes an issue that prevented the PIN-pad from being shown
 - Fixes an issue where some devices would no longer recognize the SIM-card

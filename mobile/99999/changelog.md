@@ -43,6 +43,7 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - There is a new set of sounds to align with other editions of Windows
 - A number of improvements have been made to translations
 - The "You need to fix your MSA" notification logic has been improved so new ones will no longer follow each other in quick succession
+- You can now uninstall a number of stock apps that previously did not support this
 
 ### Apps
 - Nothing to share yet

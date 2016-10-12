@@ -1,0 +1,60 @@
+### Start and Action Center
+- You can now hide the apps list in the start menu
+- The "All apps" button in Start will now show a badge with the number of new apps
+
+### Desktop
+- "Control Panel" has been replaced with "Settings" in the Win+X menu
+
+### Microsoft Edge
+- Edge has been updated from version 39.14936 to version 39.14942 with the following updates
+ - Improved ES6 Modules debugging in F12 Developer Tools
+- EdgeHTML has been updated from version 14.14936 to version 15.14942 with the following updates
+ - H.264/AVC is now enabled by default for RTC
+ - Support for CSS Custom Properties and CSP 2.0 (in development)
+ - Improved support for WebRTC 1.0 and Service Workers (in development, behind flags)
+ - General performance improvements
+ - Changes to the network logic for Fetch algorithms in preparation for Service Worker Fetch interception (behind flags)
+- The following flags have been changed
+ - "Disable navigator.pointerEnabled API" has been added
+ - "Only execute timers once per second in nonvisible tabs to improve battery life" has been removed
+ - "Use legacy setInterval behavior" has been removed
+ - "Enable experimental H.264/AVC support" has been removed
+ - "Enable Media Downloads over Fetch" has been added
+ - "Enable CSS Downloads over Fetch" has been added
+ - "Enable Web Authentication APIs for accessing scoped credentials" has been added
+
+### Settings
+- New panels, settings and options
+ - For Pro, Enterprise and Education, the range for Active Hours has been enlarged to 18 hours, up from 12
+ - Under "Privacy" there is a new page "Tasks" to manage  which apps can access your tasks
+- Visual updates and others
+ - Windows Update has a new icon, resembling the outline of the Windows-logo with two circling arrows in it
+
+### System
+- Apps that have been de-provisioned from your OS image won't install again automatically unless you reinstalled them yourself
+- On devices with more than 3.5 GB memory, service hosts will be split into individual processes
+ - When one process fails, it will no longer take down the whole service host
+ - Task Manager will give a better overview of what Windows is doing in these background processes
+ - It will be easier to troubleshoot which process is causing issues for both IT pros and Microsoft
+ - Process will now all have their own individual permissions, improving security
+- Custom printer names will now be remembered after upgrading
+
+### Other features
+- The Registery Editor now has an address bar
+- Narrator now supports form field navigation and a number of new keyboard shortcuts to navigate forms
+- Narrator will now read the content of the page before the content on the bottom app bar if an app has one
+- Improved precision touchpad recognitions for left and right clicks, two-finger taps, improving pin-to-zoom and two-finger tap detection
+- Improved framerates when the Game bar is being shown on full screen games
+
+### Fixed issues
+- Fixes an issue where sfc /scannow in an elevated prompt would fail at 20% and show a "could not perform the requested operation"-error
+- Fixes an issue where some areas in a notification would not respond to a click
+- Fixes an issue that caused the Personalization > Background settings-page to crash or show an empty context menu when right clicking one of the images
+- Fixes an issue that caused the Devices and Printers page to load slowly in Control Panel when certain types of audio devices where in it
+- Fixes an issue where Windows Defender’s Antimalware Service Executable would use a large amount of CPU
+- Fixes an issue where some NTFS partitions might show up as RAW for external hard drives
+
+### Known issues
+- The IIS World Wide Web Publishing Service will not be able to start correctly
+- Xbox Live sign ins may fail
+- Edge might crash after launch, when typing in the address bar or when opening a new tab

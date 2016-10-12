@@ -1,16 +1,18 @@
 This changelog is cumulative of every build released after 14393 and will form the changelog for the Windows 10 Redstone 2 update. This is a draft and is subject to change.
 
-### Last updated to match with version 10.0.14936
+### Last updated to match with version 10.0.14942
 Note that when a new build is released, we usually wait a day or two to make sure we've covered everything before adding it to this page.
 
 ### Start and Action Center
 - You'll now get a notification welcoming you to Action Center
+- You can now hide the apps list in the start menu
+- The "All apps" button in Start will now show a badge with the number of new apps
 
 ### Cortana and search
 - Nothing to share yet
 
 ### Desktop
-- Nothing to share yet
+- "Control Panel" has been replaced with "Settings" in the Win+X menu
 
 ### File Explorer
 - File Explorer will now show you a panel after upgrading to show you what's new
@@ -19,14 +21,20 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The clickable area for each device in the Connect flyout is now as wide as the flyout itself
 
 ### Microsoft Edge
-- Edge has been updated from version 38.14393 to version 39.14936 with the following updates
+- Edge has been updated from version 38.14393 to version 39.14942 with the following updates
  - You can now use Ctrl + O to move focus to the address bar
  - You can now use Snooze to put a website in a Cortana Reminder to make it show up in the Action Center
  - You can now import and export favorites from and to a file
-- EdgeHTML has been updated from version 14.14393 to version 14.14936 with the following updates
+ - Improved ES6 Modules debugging in F12 Developer Tools
+- EdgeHTML has been updated from version 14.14393 to version 15.14942 with the following updates
  - Partial support for Webkit-Text-Stroke and outline-offset
  - Partial support for WebRTC 1.0
  - Improved performance on websites that change a large number of HTML Elements by improving the spellchecker efficiency
+ - H.264/AVC is now enabled by default for RTC
+ - Support for CSS Custom Properties and CSP 2.0 (in development)
+ - Improved support for WebRTC 1.0 and Service Workers (in development, behind flags)
+ - General performance improvements
+ - Changes to the network logic for Fetch algorithms in preparation for Service Worker Fetch interception (behind flags)
 - The following flags have been changed
  - Flags to enable Service Workers has been added
  - WebRTC 1.0 has been added as experimental feature
@@ -35,15 +43,26 @@ Note that when a new build is released, we usually wait a day or two to make sur
  - "Enable New Editing Command Implementation" has been added
  - "Enable New Serialization for Clipboard Implementation" has been added
  - "Enable TSF 3D Implementation" has been added
+ - "Disable navigator.pointerEnabled API" has been added
+ - "Only execute timers once per second in nonvisible tabs to improve battery life" has been removed
+ - "Use legacy setInterval behavior" has been removed
+ - "Enable experimental H.264/AVC support" has been removed
+ - "Enable Media Downloads over Fetch" has been added
+ - "Enable CSS Downloads over Fetch" has been added
+ - "Enable Web Authentication APIs for accessing scoped credentials" has been added
 
 ### Settings
 - New panels, settings and options
  - Delivery Optimization is now enabled for Insiders
  - Windows Anywhere has been added under Account
  - WiFi Calling has been added under Network & Internet
+ - Windows Update now divides the update history in categories
+ - For Pro, Enterprise and Education, the range for Active Hours has been enlarged to 18 hours, up from 12
+ - Under "Privacy" there is a new page "Tasks" to manage  which apps can access your tasks
 - Visual updates and others
  - Storage Usage now shows icons for each type of file
  - Offline maps storage location has been moved from "Offline maps" to "Storage"
+ - Windows Update has a new icon, resembling the outline of the Windows-logo with two circling arrows in it
 
 ### Ink Workspace
 - Nothing to share yet
@@ -53,7 +72,15 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - A number of improvements have been made to translations
 - Apps you have previously uninstalled will no longer be installed with every new upgrade
 - Built-in support for USB Audio 2.0
+- You can now uninstall a number of stock apps that previously did not support this
 - Shared devices on your home network will only show up when the network is changed to "private" or "enterprise"
+- Apps that have been de-provisioned from your OS image won't install again automatically unless you reinstalled them yourself
+- On devices with more than 3.5 GB memory, service hosts will be split into individual processes
+ - When one process fails, it will no longer take down the whole service host
+ - Task Manager will give a better overview of what Windows is doing in these background processes
+ - It will be easier to troubleshoot which process is causing issues for both IT pros and Microsoft
+ - Process will now all have their own individual permissions, improving security
+- Custom printer names will now be remembered after upgrading
 
 ### Apps
 - Nothing to share yet
@@ -63,6 +90,11 @@ Note that when a new build is released, we usually wait a day or two to make sur
 - The PIN field on the logon screen will now register keys as numbers no matter if NumLock is on or off
 - Improved scaling for games that have a different aspect ratio than the native display resolution
 - Installing Bash on Ubuntu on Windows will now install version 16.04 instead of 14.04
+- The Registery Editor now has an address bar
+- Narrator now supports form field navigation and a number of new keyboard shortcuts to navigate forms
+- Narrator will now read the content of the page before the content on the bottom app bar if an app has one
+- Improved precision touchpad recognitions for left and right clicks, two-finger taps, improving pin-to-zoom and two-finger tap detection
+- Improved framerates when the Game bar is being shown on full screen games
 
 ### And further
 - Nothing to share yet
