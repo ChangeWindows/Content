@@ -1,2 +1,0 @@
-### Build string
-Note that the listed build string and compilation date are not correct. Due to the way ChangeWindows is build, a build string has to be given for every build, however, the build string for the actual released Windows Phone 8.1 build is unknown, therefor we're using the only known Windows Phone 8.1 build string. Windows Phone 8.1 and all 2 of its updates are actually build 9651, revision and timestamp are not accurate.
