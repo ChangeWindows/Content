@@ -36,9 +36,10 @@ version | Version number of the milestone (e.g. '1607'). For milestones that do 
 osname | Contain the name of the OS (e.g. 'Window 10'). | Available
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
-desktop | Contains the name for the desktop build, in addition to the basic naming. | Available
-mobile | Contains the name for the Mobile build, in addition to the basic naming. | Available
-xbox | Contains the name for the Xbox build, in addition to the basic naming. | Available
-iot | Contains the name for the IoT build, in addition to the basic naming. | Available
-server | Contains the name for the Server build, in addition to the basic naming. | Available
-holographic | Contains the name for the holographic build, in addition to the basic naming. | Available
+desktop | Contains the name for the desktop build. | Available
+mobile | Contains the name for the Mobile build. | Available
+xbox | Contains the name for the Xbox build. | Available
+iot | Contains the name for the IoT build. | Available
+server | Contains the name for the Server build. | Available
+holographic | Contains the name for the Holographic build. | Available
+team | Contains the name for the Team build. | Available
