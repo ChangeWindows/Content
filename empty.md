@@ -10,7 +10,7 @@
 
 ### Microsoft Edge
 - Edge has been updated from version 39.14901 to version 3x.14901 with the following updates
-- EdgeHTML has been updated from version 14.14901 to version 14.14901 with the following updates
+- EdgeHTML has been updated from version 15.14901 to version 15.14901 with the following updates
 - The following flags have been changed
 
 ### Settings
