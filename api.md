@@ -50,6 +50,6 @@ team | Contains the name for the Team build. | To be dropped
 
 Field | Description | Status
 ------------ | ------------- | -------------
-id | **Primary key**, identifies a milestone (e.g. 'redstone1'). | To be added
+id | **Primary key**, contains the id of the data. | To be added
 date | Date of the month, depicted in an YYMM notation (e.g. '1611' for November 2016). | To be added
 m[YYMM] | Each version of Windows has its own field in this table, e.g. 'm1507' for the original release. For every new version, a new field with this notation is added. | To be added
