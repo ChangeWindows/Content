@@ -36,13 +36,6 @@ version | Version number of the milestone (e.g. '1607'). For milestones that do 
 osname | Contain the name of the OS (e.g. 'Window 10'). | Available
 codename | The official codename used within Microsoft (e.g. 'Redstone 1') | Available
 description | A description of the milestone. | Available
-desktop | Contains the name for the desktop build. | To be dropped
-mobile | Contains the name for the Mobile build. | To be dropped
-xbox | Contains the name for the Xbox build. | To be dropped
-iot | Contains the name for the IoT build. | To be dropped
-server | Contains the name for the Server build. | To be dropped
-holographic | Contains the name for the Holographic build. | To be dropped
-team | Contains the name for the Team build. | To be dropped
 
 ## Statistics
 **statistics** contains all information regarding version share between Windows 10 versions.
@@ -50,6 +43,6 @@ team | Contains the name for the Team build. | To be dropped
 
 Field | Description | Status
 ------------ | ------------- | -------------
-id | **Primary key**, contains the id of the data. | To be added
-date | Date of the month, depicted in an YYMM notation (e.g. '1611' for November 2016). | To be added
-m[YYMM] | Each version of Windows has its own field in this table, e.g. 'm1507' for the original release. For every new version, a new field with this notation is added. | To be added
+id | **Primary key**, contains the id of the data. | Available
+date | Date of the month, depicted in an YYMM notation (e.g. '1611' for November 2016). | Available
+m[YYMM] | Each version of Windows has its own field in this table, e.g. 'm1507' for the original release. For every new version, a new field with this notation is added. | Available
