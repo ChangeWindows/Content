@@ -19,7 +19,7 @@ Field | Description | Status
 id | **Primary key**, contains the id of the release. | Available
 build | Contains the build number of the release. | Available
 string | Contains the string of the release. | Available
-platform | Contains an integer from 1 to 7 to represent the platform (in order: desktop, Mobile, Xbox, Server, Holographic, IoT, Team). | Available
+platform | Contains an integer from 1 to 7 to represent the platform (in order: PC, Mobile, Xbox, Server, Holographic, IoT, Team). | Available
 ring | Contains an integer from 1 to 6 to represent the branch (in order: Fast, Slow/Preview, Release Preview, Current, Business, LTSB). | Available
 date | Contains the date on which the release was released. | Available
 announcement | Contains an URL to the announcement of the release or to the KB article on Microsoft.com. | Available
