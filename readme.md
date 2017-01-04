@@ -11,7 +11,7 @@ It could happen that we miss out on a feature that's new in one build of Windows
  - E.g. [10532] New unified context menus
 - We would like you to include steps to find a feature you submit in case it isn't easy to find
 - Do not submit any subjective information, we want to stay objective on this, no rumors
-- If there is a (spelling)mistake in a feature that already has been listened, you can open a new ticket or pull request to remove it or fix it, again with the [BUILD]-syntax, and a short description of the issue
+- If there is a (spelling)mistake in a feature that already has been listed, you can open a new ticket or pull request to remove it or fix it, again with the [BUILD]-syntax, and a short description of the issue
  - E.g. [10041] Edge wasn't added in build 10041, but in 10049
  
 We would rather not have you push new files for builds that aren't covered yet to this repository, we'll make an initial draft ourselves and publish it to this repository and ChangeWindows.org first. Once that has happened, you're free to contribute to that log.
