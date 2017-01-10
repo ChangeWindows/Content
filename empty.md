@@ -1,21 +1,42 @@
-### Start and Action Center
+### Start
 
-### Cortana and search
+### Cortana + search
 
-### Desktop
-
-### File Explorer
+### Taskbar + Action center
 
 ### User Interface
 
+### File Explorer
+
 ### Microsoft Edge
-- Edge has been updated from version 39.14901 to version 3x.14901 with the following updates
-- EdgeHTML has been updated from version 15.14901 to version 15.14901 with the following updates
-- The following flags have been changed
+#### Edge 39.15
+
+#### EdgeHTML 15.15
+
+#### about:flags
 
 ### Settings
-- New panels, settings and options
-- Visual updates and others
+#### System
+
+#### Devices
+
+#### Network & Internet
+
+#### Personalization
+
+#### Apps
+
+#### Account
+
+#### Time & language
+
+#### Ease of Access
+
+#### Privacy
+
+#### Update & recovery
+
+#### General
 
 ### Ink Workspace
 
