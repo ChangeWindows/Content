@@ -1,0 +1,38 @@
+Options +FollowSymLinks
+Options -MultiViews
+
+RewriteEngine on
+
+RewriteRule ^#(.*)$ index.php?#$1 [QSA]
+RewriteRule ^build/(.*)/(.*)$ build.php?build=$1&platform=$2 [QSA]
+RewriteRule ^build/(.*)$ build.php?build=$1 [QSA]
+RewriteRule ^overview/(.*)$ platform.php?platform=$1 [QSA]
+RewriteRule ^platform/(.*)/(.*)$ platform.php?platform=$1&year=$2 [QSA]
+RewriteRule ^platform/(.*)$ platform.php?platform=$1 [QSA]
+RewriteRule ^rings/(.*)$ rings.php?platform=$1 [QSA]
+RewriteRule ^milestone/(.*)$ milestone.php?milestone=$1 [QSA]
+RewriteRule ^backstage/$ backstage/index.php [QSA]
+RewriteRule ^backstage/releases/(.*)$ backstage/releases.php?platform=$1 [QSA]
+RewriteRule ^backstage/edit_bd/(.*)$ backstage/edit_bd.php?build=$1 [QSA]
+RewriteRule ^backstage/edit_bd/(.*)$/save backstage/edit_bd.php?build=$1&save [QSA]
+RewriteRule ^backstage/edit_ms/(.*)$ backstage/edit_ms.php?milestone=$1 [QSA]
+RewriteRule ^backstage/edit_ms/(.*)$/save backstage/edit_ms.php?milestone=$1&save [QSA]
+RewriteRule ^backstage/edit_rs/(.*)$ backstage/edit_rs.php?release=$1 [QSA]
+RewriteRule ^backstage/edit_rs/(.*)$/save backstage/edit_rs.php?release=$1&save [QSA]
+RewriteRule ^backstage/edit_mt/(.*)$ backstage/edit_mt.php?date=$1 [QSA]
+RewriteRule ^backstage/edit_mt/(.*)$/save backstage/edit_mt.php?date=$1&save [QSA]
+RewriteRule ^backstage/drop_rs/(.*)$ backstage/drop_rs.php?release=$1 [QSA]
+RewriteRule ^backstage/drop_bd/(.*)$ backstage/drop_bd.php?build=$1 [QSA]
+RewriteRule ^backstage/drop_mt/(.*)$ backstage/drop_mt.php?date=$1 [QSA]
+RewriteRule ^backstage/drop_ms/(.*)$ backstage/drop_ms.php?milestone=$1 [QSA]
+RewriteCond %{REQUEST_URI} !^/(stats).*$
+RewriteRule ^settings/$ settings/index.php [QSA]
+
+RewriteCond %{HTTP_HOST} ^www.changewindows.org$ [NC]
+RewriteRule ^(.*)$ http://changewindows.org/$1 [R=301,L]
+
+ErrorDocument 403 /403.php
+ErrorDocument 404 /404.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
