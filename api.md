@@ -1,7 +1,5 @@
-# ChangeWindows 3.4.1701 API
-We provide some of our data with an API, this includes build information, release information and milestone information. All tables are available as JSON, XML and HTML. This documentation is compatible with previous version of the API, being 3.0.1610, 3.1.1610, 3.2.1611, 3.3.1612, 3.4.1701 and 3.5.1702 Preview.
-
-Note that this version of the API will no longer be available when the ChangeWindows 3.5.1702 API is launched.
+# ChangeWindows 3.5.1702 API
+We provide some of our data with an API, this includes build information, release information and milestone information. All tables are available as JSON, XML and HTML. This documentation is not compatible with previous version of the API, being 3.0.1610, 3.1.1610, 3.2.1611, 3.3.1612 and 3.4.1701 Preview. This API is compatible with 3.5.1702. For the current API in ChangeWindows 3.4, please see this file's history.
 
 ## Builds
 **builds** links a release to its milestone.
@@ -21,10 +19,33 @@ Field | Description
 id | **Primary key**, contains the id of the release
 build | Contains the build number of the release
 string | Contains the string of the release
-platform | Contains an integer from 1 to 7 to represent the platform (in order: PC, Mobile, Xbox, Server, Holographic, IoT, Team)
-ring | Contains an integer from 1 to 6 to represent the branch (in order: Fast, Slow/Preview, Release Preview, Current, Business, LTSB)
+platform | Contains an integer from 1 to 7 to represent the platform (see below)
+ring | Contains an integer from 1 to 8 to represent the branch (see below)
 date | Contains the date on which the release was released
 announcement | Contains an URL to the announcement of the release or to the KB article on Microsoft.com
+
+### platform int
+int | Platform
+------------ | -------------
+1 | PC
+2 | Mobile
+3 | Xbox
+4 | Server
+5 | Holographic
+6 | IoT
+7 | Team
+
+### ring int
+int | Ring | Platform
+------------ | ------------- | -------------
+1 | Fast Ring | PC, Mobile, Xbox
+2 | Slow Ring | PC, Mobile, Xbox
+2 | Preview | Server, Holographic, IoT
+3 | Preview Ring | Xbox
+4 | Release Preview Ring | PC, Mobile, Xbox
+5 | Current Branch | PC, Mobile, Xbox, Server, Holographic, IoT, Team
+6 | Current Branch for Business | PC, Mobile, Server, Holographic, IoT, Team
+7 | Long-Term Support Branch | PC, Server, Holographic, IoT, Team
 
 ## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
