@@ -30,11 +30,15 @@
 
 #### Time & language
 
+#### Gaming
+
 #### Ease of Access
 
 #### Privacy
 
 #### Update & recovery
+
+#### Mixed Reality
 
 #### General
 
