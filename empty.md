@@ -9,9 +9,9 @@
 ### File Explorer
 
 ### Microsoft Edge
-#### Edge 39.15
+#### Edge 40.150
 
-#### EdgeHTML 15.15
+#### EdgeHTML 15.150
 
 #### about:flags
 
