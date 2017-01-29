@@ -1,5 +1,5 @@
 # ChangeWindows 3.5.1702 API
-We provide some of our data with an API, this includes build information, release information and milestone information. All tables are available as JSON, XML and HTML. This documentation is not compatible with previous version of the API, being 3.0.1610, 3.1.1610, 3.2.1611, 3.3.1612 and 3.4.1701 Preview. This API is compatible with 3.5.1702. For the current API in ChangeWindows 3.4, please see this file's history.
+We provide some of our data with an API, this includes build information, release information and milestone information. All tables are available as JSON, XML and HTML. This API is compatible with 3.5.1702.
 
 ## Builds
 **builds** links a release to its milestone.
