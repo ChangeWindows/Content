@@ -37,7 +37,7 @@ int | Platform
 ### ring int
 int | Ring | Platform
 ------------ | ------------- | -------------
-1 | Leak/vNext | None/all
+1 | Leak | 
 2 | Fast Ring | PC, Mobile, Xbox
 3 | Slow Ring | PC, Mobile, Xbox
 4 | Preview | Xbox, Server, Holographic, IoT
@@ -54,7 +54,7 @@ Field | Description
 ------------ | -------------
 id | **Primary key**, identifies a milestone (e.g. 'redstone1')
 name | Official name of the milestone (e.g. 'Anniversary Update')
-version | Version number of the milestone (e.g. '1607'). For milestones that do not have their version announced, it will always use the expected years last 2 digits followed by "99" (e.g. '1799' for Redstone 2)
+version | Version number of the milestone (e.g. '1607'). For milestones that do not have their version announced, it will always use the expected years last 2 digits followed by "99" (e.g. '1799' for Redstone 3)
 osname | Contain the name of the OS (e.g. 'Window 10')
 codename | The official codename used within Microsoft (e.g. 'Redstone 1')
 description | A description of the milestone

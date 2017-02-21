@@ -38,14 +38,14 @@ int | Platform
 ### ring int
 int | Ring | Platform
 ------------ | ------------- | -------------
-1 | Fast Ring | PC, Mobile, Xbox
-2 | Slow Ring | PC, Mobile, Xbox
-2 | Preview | Server, Holographic, IoT
-3 | Preview Ring | Xbox
-4 | Release Preview Ring | PC, Mobile, Xbox
-5 | Current Branch | PC, Mobile, Xbox, Server, Holographic, IoT, Team
-6 | Current Branch for Business | PC, Mobile, Server, Holographic, IoT, Team
-7 | Long-Term Support Branch | PC, Server, Holographic, IoT, Team
+1 | Leak/vNext | None/all
+2 | Fast Ring | PC, Mobile, Xbox
+3 | Slow Ring | PC, Mobile, Xbox
+4 | Preview | Xbox, Server, Holographic, IoT
+5 | Release Preview Ring | PC, Mobile, Xbox
+6 | Current Branch | PC, Mobile, Xbox, Server, Holographic, IoT, Team
+7 | Current Branch for Business | PC, Mobile, Server, Holographic, IoT, Team
+8 | Long-Term Support Branch | PC, Server, Holographic, IoT, Team
 
 ## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
