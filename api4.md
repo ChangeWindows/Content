@@ -11,7 +11,7 @@ build | **Primary key**, contains the build number
 milestone | Contains the id of the milestone this build is part of
 
 ## Releases
-**releases** contains all information regarding each individual release. One release is added for each individual ring a build has been released to. So for example, patches for 10240 are released for the Current Branch, Current Branch for Business and Long-Term Support Branch, this means that there are 3 releases with the same data but another ring.
+**releases** contains all information regarding each individual release. One release is added for each individual ring a build has been released to.
 [JSON](http://changewindows.org/api/cw/releases.json) &middot; [XML](http://changewindows.org/api/cw/releases.xml) &middot; [HTML](http://changewindows.org/api/cw/releases.html)
 
 Field | Description
