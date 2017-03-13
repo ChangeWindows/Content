@@ -35,16 +35,16 @@ int | Platform
 7 | Team
 
 ### ring int
-int | Ring | Platform
------------- | ------------- | -------------
-1 | Leak | 
-2 | Fast Ring | PC, Mobile, Xbox
-3 | Slow Ring | PC, Mobile, Xbox
-4 | Preview | Xbox, Server, Holographic, IoT
-5 | Release Preview Ring | PC, Mobile, Xbox
-6 | Current Branch | PC, Mobile, Xbox, Server, Holographic, IoT, Team
-7 | Current Branch for Business | PC, Mobile, Server, Holographic, IoT, Team
-8 | Long-Term Support Branch | PC, Server, Holographic, IoT, Team
+int | PC | Mobile | Xbox | Server | Mixed Reality | IoT | Team
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+1 | Leak | Leak | Leak | Leak | Leak | Leak | Leak
+2 | Fast Ring | Fast Ring | Alpha Ring | - | - | - | - 
+3 | Slow Ring | Slow Ring | Beta Ring | - | Preview | Preview | Preview
+4 | - | - | Ring 3 | - | - | - | -
+5 | Release Preview Ring | Release Preview Ring | Ring 4 | - | - | - | - 
+6 | Current Branch | Current Branch | Current Branch | Current Branch | Current Branch | Current Branch | Current Branch
+7 | CB for Business | CB for Business | - | CB for Business | CB for Business | CB for Business | CB for Business | CB for Business 
+8 | LTS Branch | - | - | LTS Branch | LTS Branch | - | - 
 
 ## Milestones
 **milestones** contains all information regarding milestones, e.g. Threshold 1, Threshold 2 and Redstone 1.
