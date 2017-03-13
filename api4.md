@@ -30,7 +30,7 @@ int | Platform
 2 | Mobile
 3 | Xbox
 4 | Server
-5 | Holographic
+5 | Mixed Reality
 6 | IoT
 7 | Team
 
