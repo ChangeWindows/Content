@@ -38,6 +38,8 @@
 
 #### Update & recovery
 
+#### Cortana
+
 #### Mixed Reality
 
 #### General
