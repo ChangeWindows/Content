@@ -34,11 +34,11 @@
 
 #### Ease of Access
 
+#### Cortana
+
 #### Privacy
 
 #### Update & recovery
-
-#### Cortana
 
 #### Mixed Reality
 
@@ -50,7 +50,7 @@
 
 ### Accessibility
 
-### Language
+### Language and input
 
 ### Apps
 
