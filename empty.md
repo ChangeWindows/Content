@@ -11,6 +11,8 @@
 ### Microsoft Edge
 #### Edge 41
 
+#### F12 Tools
+
 #### EdgeHTML 15
 
 #### about:flags
@@ -34,7 +36,7 @@
 
 #### Ease of Access
 
-#### Cortana
+#### Cortana/Search
 
 #### Privacy
 
