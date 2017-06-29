@@ -40,7 +40,7 @@
 
 #### Privacy
 
-#### Update & recovery
+#### Update & Security
 
 #### Mixed Reality
 
