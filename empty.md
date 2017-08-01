@@ -13,7 +13,7 @@
 
 #### F12 Tools
 
-#### EdgeHTML 15
+#### EdgeHTML 16
 
 #### about:flags
 
@@ -21,6 +21,8 @@
 #### System
 
 #### Devices
+
+#### Phone
 
 #### Network & Internet
 
