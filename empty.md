@@ -1,3 +1,5 @@
+This is a draft and will be updated regularly over the next couple of hours.
+
 ### Start
 
 ### Cortana + search
@@ -30,7 +32,7 @@
 
 #### Apps
 
-#### Account
+#### Accounts
 
 #### Time & language
 
