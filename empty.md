@@ -52,6 +52,8 @@ This is a draft and will be updated regularly over the next couple of hours.
 
 ### Ink Workspace
 
+### Gaming
+
 ### System
 
 ### Accessibility
