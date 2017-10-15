@@ -1,6 +1,6 @@
 # ChangeWindows
 
-This repository contains all build files used by [ChangeWindows](http://changewindows.org).
+This repository contains all build files used by [ChangeWindows](https://changewindows.org).
 
 ## Contribute...
 
