@@ -11,7 +11,7 @@ This is a draft and will be updated regularly over the next couple of hours.
 ### File Explorer
 
 ### Microsoft Edge
-#### Edge 41
+#### Edge 42
 
 #### F12 Tools
 
