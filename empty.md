@@ -1,4 +1,7 @@
-This is a draft and will be updated regularly over the next couple of hours.
+<div class="alert alert-warning text-center">
+    <h4 class="alert-heading"><i class="fal fa-fw fa-exclamation-triangle"></i> This changelog is about a recently release build</h4>
+    This is a draft and will be updated regularly over the next couple of hours.
+</div>
 
 ### Start
 
@@ -15,7 +18,7 @@ This is a draft and will be updated regularly over the next couple of hours.
 
 #### F12 Tools
 
-#### EdgeHTML 16
+#### EdgeHTML 17
 
 #### about:flags
 
