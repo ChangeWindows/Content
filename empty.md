@@ -3,72 +3,72 @@
     This is a draft and will be updated regularly over the next couple of hours.
 </div>
 
-### Start
+## Start
 
-### Cortana + search
+## Cortana + search
 
-### Taskbar + Action center
+## Taskbar + Action center
 
-### User Interface
+## User Interface
 
-### File Explorer
+## File Explorer
 
-### Microsoft Edge
-#### Edge 42
+## Microsoft Edge
+### Edge 42
 
-#### F12 Tools
+### F12 Tools
 
-#### EdgeHTML 17
+### EdgeHTML 17
 
-#### about:flags
+### about:flags
 
-### Settings
-#### System
-
-#### Devices
-
-#### Phone
-
-#### Network & Internet
-
-#### Personalization
-
-#### Apps
-
-#### Accounts
-
-#### Time & language
-
-#### Gaming
-
-#### Ease of Access
-
-#### Cortana/Search
-
-#### Privacy
-
-#### Update & Security
-
-#### Mixed Reality
-
-#### General
-
-### Ink Workspace
-
-### Gaming
-
+## Settings
 ### System
 
-### Accessibility
+### Devices
 
-### Language and input
+### Phone
+
+### Network & Internet
+
+### Personalization
 
 ### Apps
 
-### Other features
+### Accounts
 
-### And further
+### Time & language
 
-### Fixed issues
+### Gaming
 
-### Known issues
+### Ease of Access
+
+### Cortana & Search
+
+### Privacy
+
+### Update & Security
+
+### Mixed Reality
+
+### General
+
+## Ink Workspace
+
+## Gaming
+
+## System
+
+## Accessibility
+
+## Language and input
+
+## Apps
+
+## Other features
+
+## And further
+
+## Fixed issues
+
+## Known issues
