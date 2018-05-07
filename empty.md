@@ -18,7 +18,7 @@
 
 ### F12 Tools
 
-### EdgeHTML 17
+### EdgeHTML 18
 
 ### about:flags
 
@@ -62,6 +62,7 @@
 ## Accessibility
 
 ## Language and input
+### Input Method Editor
 
 ## Apps
 
