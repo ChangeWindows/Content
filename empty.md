@@ -13,12 +13,14 @@
 
 ## File Explorer
 
-## Microsoft Edge
-### Edge 42
+## Microsoft Edge 18
+### Edge
+
+#### PDF + EPUB
 
 ### F12 Tools
 
-### EdgeHTML 18
+### EdgeHTML
 
 ### about:flags
 
